@@ -31,7 +31,6 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
   
 ----
 
-<br>
 
 ### Working Papers:
 
