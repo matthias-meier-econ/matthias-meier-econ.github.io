@@ -18,7 +18,7 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
 <details>
   <summary markdown="span"><font color="blue">Monetary Policy, Markup Dispersion, and Aggregate TFP</font>
     
-  (with [Timo Reinelt](https://treinelt.github.io/))</summary>
+  (with [Timo Reinelt](https://treinelt.github.io/)){:target="_blank"}</summary>
   
   | **Abstract**          |
   |:---------------------------|
