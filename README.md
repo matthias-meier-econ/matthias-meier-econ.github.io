@@ -146,11 +146,11 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
 <details>
   <summary markdown="span"><font color="blue">Corporate Debt Maturity Matters for Monetary Policy</font>
   
-  (with <a href="http://joachimjungherr.com/" target="_blank">Joachim Jungherr</a>, <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>] and <a href="https://sites.google.com/site/immoschott/" target="_blank">Immo Schott</a>)</summary>
+  (with <a href="http://joachimjungherr.com/" target="_blank">Joachim Jungherr</a>, <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a> and <a href="https://sites.google.com/site/immoschott/" target="_blank">Immo Schott</a>)</summary>
   
  </details>
  
- ---- <a href="" target="_blank"></a>
+ ----
  
 <br>
 
