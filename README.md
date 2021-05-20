@@ -53,7 +53,6 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
  
 ----
 
-<br>
 
 <details>
   <summary markdown="span"><font color="blue">Covid-19 Supply Chain Disruptions</font>
@@ -69,7 +68,6 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
  
 ----
 
-<br>
 
 <details>
   <summary markdown="span"><font color="blue">Supply Chain Disruptions, Time to Build and the Business Cycle</font></summary>
@@ -83,7 +81,6 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
  
 ----
 
-<br> 
 
 <details>
   <summary markdown="span"><font color="blue">Do plants freeze upon uncertainty shocks?</font>
@@ -103,7 +100,6 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
  
 ----
 
-<br> 
 
 <details>
   <summary markdown="span"><font color="blue">Misallocation, Markups, and Technology</font>
@@ -123,7 +119,6 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
  
 ----
 
-<br> 
 
 <details>
   <summary markdown="span"><font color="blue">Projection inference for set-identiﬁed SVARs</font>
@@ -139,7 +134,6 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
  
 ----
 
-<br> 
 
 ### Work in Progress:
 <details>
@@ -151,7 +145,6 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
  
  ----
  
-<br>
 
 <details>
   <summary markdown="span"><font color="blue">Labor Market Effects of Monetary Policy</font>
