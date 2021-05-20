@@ -71,7 +71,7 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
   
   | **Awards**          |
   |:---------------------------|
-  | - Best Student Paper Award, Real Options Group Conference Athens \ - Best Paper Award (runner-up), Spring Meeting of Young Economists Vienna |
+  | - Best Student Paper Award, Real Options Group Conference Athens <br /> - Best Paper Award (runner-up), Spring Meeting of Young Economists Vienna |
 	
  </details>
  [Working Paper](https://www.dropbox.com/s/tmq1wlaxtmy64ko/MM_PlantsFreeze.pdf?dl=0)  
