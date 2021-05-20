@@ -50,43 +50,11 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
 
 <br>
 
+### Work in Progress:
 <details>
-  <summary markdown="span"><font color="blue">Some paper</font>
-    
-  <font color="black"><b><i>Some Journal</i></b>, 24(8), 2012-32, December 2020</font></summary>
+  <summary markdown="span"><font color="blue">Corporate Debt Maturity Matters for Monetary Policy</font>
   
-  | **Abstract**          |
-  |:---------------------------|
-  | Some abstract again. |
-  
-  </details>
-  <a href="https://sites.google.com/site/matthias1meier1/" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://lukas-hack.github.io/papers/SomePaper2.pdf" target="_blank"><u>[Working Paper Version]</u></a>
-  
-  ----
-
-<br>
-
-<details>
-  <summary markdown="span"><font color="blue">Some paper</font>
-    
-  <font color="black"><b><i>Some Journal</i></b>, 24(8), 2012-32, December 2020</font></summary>
-  
-  | **Abstract**          |
-  |:---------------------------|
-  | Some abstract again. |
-  
-  </details>
-  <a href="https://sites.google.com/site/matthias1meier1/" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://lukas-hack.github.io/papers/SomePaper2.pdf" target="_blank"><u>[Working Paper Version]</u></a>
-  
-  ----
-
-<br>
-
-### Select Work in Progress:
-<details>
-  <summary markdown="span"><font color="blue">Some ongoing project</font>
-  
-  (with [Matthias Meier](https://sites.google.com/site/matthias1meier1/))</summary>
+  (with [Joachim Jungherr](http://joachimjungherr.com/)), ..</summary>
   
  </details>
  
