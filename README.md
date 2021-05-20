@@ -37,7 +37,7 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
     
   <font color="black"><b><i>Journal of Econometrics</i></b>, 2018</font>
   
-  (with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafarov</a> and <a href="http://www.joseluismontielolea.com/" target="_blank"> José Luis Montiel Olea</a>) </summary>
+  (with [Bulat Gafarov](https://gafarov.ucdavis.edu/index.html) and [José Luis Montiel Olea](http://www.joseluismontielolea.com/)) </summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -54,9 +54,21 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
 <details>
   <summary markdown="span"><font color="blue">Corporate Debt Maturity Matters for Monetary Policy</font>
   
-  (with [Joachim Jungherr](http://joachimjungherr.com/)), ..</summary>
+  (with [Joachim Jungherr](http://joachimjungherr.com/), [Timo Reinelt](https://treinelt.github.io/) and [Immo Schott](https://sites.google.com/site/immoschott/)) </summary>
   
  </details>
+ 
+  ---- 
+ 
+<br>
+
+<details>
+  <summary markdown="span"><font color="blue">Labor Market Effects of Monetary Policy</font>
+  
+  (with [Andreas Gulyas](https://sites.google.com/site/andreasgulyas) and [Mykola Ryzhenkov](https://gess.uni-mannheim.de/doctoral-programs/economics-cdse/students/people/show/mykola-ryzhenkov.html))</summary>
+  
+ </details>
+
  
  ---------------------------------------------------------------------------------------------------------
  
