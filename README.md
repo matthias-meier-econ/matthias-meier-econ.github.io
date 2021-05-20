@@ -24,6 +24,11 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
   |:---------------------------|
   | Motivated by empirical evidence that monetary policy affects aggregate TFP, westudy the role of markup dispersion for monetary transmission. Empirically, we showthat the response of markup dispersion to monetary policy shocks can account for asignificant fraction of the aggregate TFP response in the first two years after the shock.Analytically, we show that heterogeneous price rigidity can explain the response ofmarkup dispersion if firms have a precautionary price setting motive, which is presentin common New Keynesian environments. We provide empirical evidence on the rela-tionship between markups and price rigidity in support of this explanation. Finally,we study the mechanism and its implications in a quantitative model. |
   
+  | **Awards**          |
+  |:---------------------------|
+  | - Received the Lamfalussy Fellowship of the ECB 2019 |
+
+  
  </details>
  [Working Paper](https://www.dropbox.com/s/mlakoqk20g8j7vd/MR_MarkupDispersion.pdf?dl=0) / [ECB Working Paper](https://www.dropbox.com/s/yofp0w4dzovl4gd/MeierReinelt2020_ECB.pdf?dl=0)
  
@@ -75,6 +80,40 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
 	
  </details>
  [Working Paper](https://www.dropbox.com/s/tmq1wlaxtmy64ko/MM_PlantsFreeze.pdf?dl=0)  
+----
+
+<br> 
+
+<details>
+  <summary markdown="span"><font color="blue">Misallocation, Markups, and Technology</font>
+  
+  (with [Christian Bayer](https://www.wiwi.uni-bonn.de/bayer/) and [Ariel Mecikovsky](https://sites.google.com/site/amecikovsky/))</summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | Hsieh and Klenow(2009) shows that misallocation creates large aggregate TFP losses, explains international TFP differences, and can be quantified through factor pro-ductivity dispersions. Using micro data from Chile, Colombia, Indonesia, and Germany, we show a substantial correlation in factor productivities across factors and therefore propose to decompose dispersion in factor productivities in dispersion in technology and markup instead. Relative to Germany, misallocation is larger in the developing economies. TFP losses from misallocation are explained to 1/3 by larger technologyand to 2/3 by larger markup dispersion. Finally, we discuss market outcomes as potential sources of markup and technology dispersion. |
+  
+  | **Awards**          |
+  |:---------------------------|
+  | - |Best Paper Award (runner-up), European Workshop on Efficiency and Productivity Analysis Helsinki
+	
+ </details>
+ [Working Paper](https://www.dropbox.com/s/q4w0bn3fvg8mg4r/BMM_Misallocation.pdf?dl=0)  
+----
+
+<br> 
+
+<details>
+  <summary markdown="span"><font color="blue">Projection inference for set-identiﬁed SVARs</font>
+  
+  (with [Bulat Gafarov](https://gafarov.ucdavis.edu/index.html) and [José Luis Montiel Olea](http://www.joseluismontielolea.com/)) </summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | We study the properties of projection inference for set-identified Structural Vector Autoregressions. A nominal 1−α projection region collects the structural parameters that are compatible with a 1−α Wald ellipsoid for the model’s reduced-form parameters (autoregressive coefficients and the covariance matrix of residuals). We show that projection inference can be applied to a general class of stationary models, is computationally feasible, and - as the sample size grows large — it produces regions that have both frequentist coverage and robust Bayesian credibility of at least 1−α. A drawback of the projection approach is that both coverage and robust credibility may be strictly above their nominal level. Following the recent work of Kaido, Molinari, and Stoye (2016), we ‘calibrate’ the radius of the Wald ellipsoid to guarantee that — for a given posterior on the reduced-form parameters — the projection method produces a region with robust Bayesian credibility of exactly 1−α. We illustrate the main results of the paper using the demand/supply-model for the U.S. labor market in Baumeister and Hamilton(2015). |
+  	
+ </details>
+ [Working Paper](https://www.dropbox.com/s/qv31b7hvk0hr187/GMM_Projection.pdf?dl=0)  
 ----
 
 <br> 
