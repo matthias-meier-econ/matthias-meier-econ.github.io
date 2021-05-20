@@ -13,6 +13,26 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
 
 <font color="gray"><i><small>&diams; Click title to see abstract.</small></i></font>  
 
+### Publications:
+
+<details>
+  <summary markdown="span"><font color="blue">Delta-Method inference for a class of set-identiﬁed SVARs</font>
+    
+  <font color="black"><b><i>Journal of Econometrics</i></b>, 2018</font>
+  
+  (with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafarov</a> and <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea</a>) </summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | We study vector autoregressions that impose equality and/or inequality restrictions to set-identify the dynamic responses to a single structural shock. We make three contributions. First, we present analgorithm to compute the largest and smallest value that an impulse-response coefficient can attain over its identified set. Second, we provide conditions under which these largest and smallest values are directionally differentiable functions of the model’s reduced-form parameters. Third, we propose a delta-method approach to conduct inference about the structural impulse-response coefficients. We use our results to assess the effects of the announcement of the Quantitative Easing program in August 2010. |
+  
+  </details>
+  <a href="https://www.dropbox.com/s/x710pcw8m8ujcrh/GMM_DeltaMethod.pdf?dl=0" target="_blank"><u>[Paper]</u></a>  
+  
+----
+
+<br>
+
 ### Working Papers:
 
 <details>
@@ -121,26 +141,6 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
 ----
 
 <br> 
-
-### Publications:
-
-<details>
-  <summary markdown="span"><font color="blue">Delta-Method inference for a class of set-identiﬁed SVARs</font>
-    
-  <font color="black"><b><i>Journal of Econometrics</i></b>, 2018</font>
-  
-  (with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafarov</a> and <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea</a>) </summary>
-  
-  | **Abstract**          |
-  |:---------------------------|
-  | We study vector autoregressions that impose equality and/or inequality restrictions to set-identify the dynamic responses to a single structural shock. We make three contributions. First, we present analgorithm to compute the largest and smallest value that an impulse-response coefficient can attain over its identified set. Second, we provide conditions under which these largest and smallest values are directionally differentiable functions of the model’s reduced-form parameters. Third, we propose a delta-method approach to conduct inference about the structural impulse-response coefficients. We use our results to assess the effects of the announcement of the Quantitative Easing program in August 2010. |
-  
-  </details>
-  <a href="https://www.dropbox.com/s/x710pcw8m8ujcrh/GMM_DeltaMethod.pdf?dl=0" target="_blank"><u>[Paper]</u></a>  
-  
-----
-
-<br>
 
 ### Work in Progress:
 <details>
