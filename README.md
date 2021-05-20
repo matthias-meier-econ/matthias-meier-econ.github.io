@@ -18,11 +18,11 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
 <details>
   <summary markdown="span"><font color="blue">Monetary Policy, Markup Dispersion, and Aggregate TFP</font>
     
-  (with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a></summary>)
+  (with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>)</summary>
   
   | **Abstract**          |
   |:---------------------------|
-  | Motivated by empirical evidence that monetary policy affects aggregate TFP, westudy the role of markup dispersion for monetary transmission. Empirically, we showthat the response of markup dispersion to monetary policy shocks can account for asignificant fraction of the aggregate TFP response in the first two years after the shock.Analytically, we show that heterogeneous price rigidity can explain the response ofmarkup dispersion if firms have a precautionary price setting motive, which is presentin common New Keynesian environments. We provide empirical evidence on the rela-tionship between markups and price rigidity in support of this explanation. Finally,we study the mechanism and its implications in a quantitative model. |
+  | Motivated by empirical evidence that monetary policy affects aggregate TFP, we study the role of markup dispersion for monetary transmission. Empirically, we show that the response of markup dispersion to monetary policy shocks can account for a significant fraction of the aggregate TFP response in the first two years after the shock. Analytically, we show that heterogeneous price rigidity can explain the response of markup dispersion if firms have a precautionary price setting motive, which is present in common New Keynesian environments. We provide empirical evidence on the relationship between markups and price rigidity in support of this explanation. Finally, we study the mechanism and its implications in a quantitative model. |
   
   | **Awards**          |
   |:---------------------------|
@@ -39,11 +39,11 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
 <details>
   <summary markdown="span"><font color="blue">Covid-19 Supply Chain Disruptions</font>
     
-  (with <a href="https://www.federalreserve.gov/econres/eugenio-pinto.htm" target="_blank">Eugenio Pinto</a></summary>)
+  (with <a href="https://www.federalreserve.gov/econres/eugenio-pinto.htm" target="_blank">Eugenio Pinto</a>)</summary>
   
   | **Abstract**          |
   |:---------------------------|
-  | We study the effects of international supply chain disruptions on real economicactivity and prices during the Covid-19 pandemic.  We show that US sectors witha high exposure to intermediate goods imports from China contracted significantlyand robustly more than other sectors. In particular, highly exposed sectors sufferedlarger declines in production, employment, imports, and exports. Moreover, input andoutput prices moved up relative to other sectors, suggesting that real activity declinesin sectors with a high China exposure were not particularly driven by a slump indemand. Quantitatively, sectors at the third quartile of China exposures experiencedlarger monthly production declines of 2.5 p.p. in March and 9.4 p.p. in April 2020 thansectors at the first quartile. Differences in China exposures account for about 10% ofthe cross-sectoral variance of industrial production growth during March and April.The estimated effects are short-lived and dissipate by July 2020. |
+  | We study the effects of international supply chain disruptions on real economicactivity and prices during the Covid-19 pandemic.  We show that US sectors with a high exposure to intermediate goods imports from China contracted significantly and robustly more than other sectors. In particular, highly exposed sectors suffered larger declines in production, employment, imports, and exports. Moreover, input and output prices moved up relative to other sectors, suggesting that real activity declines in sectors with a high China exposure were not particularly driven by a slump in demand. Quantitatively, sectors at the third quartile of China exposures experienced larger monthly production declines of 2.5 p.p. in March and 9.4 p.p. in April 2020 than sectors at the first quartile. Differences in China exposures account for about 10% of the cross-sectoral variance of industrial production growth during March and April. The estimated effects are short-lived and dissipate by July 2020. |
   
  </details>
  <a href="https://www.dropbox.com/s/ysp4b65nrfybfor/MeierPinto2020.pdf?dl=0" target="_blank">[Working Paper]</a> / <a href="https://www.dropbox.com/s/q1zxauur3dw5nkn/CovidEconomics48.pdf?dl=0" target="_blank">[CEPR Covid Economics]</a>
@@ -57,7 +57,7 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
   
   | **Abstract**          |
   |:---------------------------|
-  | We provide new evidence that (i) time to build is volatile and countercyclical, and that (ii) supply chain disruptions lengthen time to build. Motivated by thesefindings, we develop a general equilibrium model in which heterogeneous firms facenon-convex adjustment costs and multi-period time to build. In the model, supplychain disruptions lengthen time to build. Calibrating the model to US micro data, we show that disruptions, which lengthen time to build by 1 month, depress GDP by1% and aggregate TFP by 0.2%. Structural vector autoregressions corroborate thequantitative importance of supply chain disruptions. |
+  | We provide new evidence that (i) time to build is volatile and countercyclical, and that (ii) supply chain disruptions lengthen time to build. Motivated by these findings, we develop a general equilibrium model in which heterogeneous firms face non-convex adjustment costs and multi-period time to build. In the model, supply chain disruptions lengthen time to build. Calibrating the model to US micro data, we show that disruptions, which lengthen time to build by 1 month, depress GDP by 1% and aggregate TFP by 0.2%. Structural vector autoregressions corroborate the quantitative importance of supply chain disruptions. |
   
  </details>
  <a href="https://www.dropbox.com/s/hnjvwv920d4l1ld/Meier_TimeToBuild.pdf?dl=0" target="_blank">[Working Paper]</a>
@@ -93,7 +93,7 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
   
   | **Abstract**          |
   |:---------------------------|
-  | Hsieh and Klenow(2009) shows that misallocation creates large aggregate TFP losses, explains international TFP differences, and can be quantified through factor pro-ductivity dispersions. Using micro data from Chile, Colombia, Indonesia, and Germany, we show a substantial correlation in factor productivities across factors and therefore propose to decompose dispersion in factor productivities in dispersion in technology and markup instead. Relative to Germany, misallocation is larger in the developing economies. TFP losses from misallocation are explained to 1/3 by larger technologyand to 2/3 by larger markup dispersion. Finally, we discuss market outcomes as potential sources of markup and technology dispersion. |
+  | Hsieh and Klenow(2009) shows that misallocation creates large aggregate TFP losses, explains international TFP differences, and can be quantified through factor productivity dispersions. Using micro data from Chile, Colombia, Indonesia, and Germany, we show a substantial correlation in factor productivities across factors and therefore propose to decompose dispersion in factor productivities in dispersion in technology and markup instead. Relative to Germany, misallocation is larger in the developing economies. TFP losses from misallocation are explained to 1/3 by larger technology and to 2/3 by larger markup dispersion. Finally, we discuss market outcomes as potential sources of markup and technology dispersion. |
   
   | **Awards**          |
   |:---------------------------|
@@ -109,7 +109,7 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
 <details>
   <summary markdown="span"><font color="blue">Projection inference for set-identiﬁed SVARs</font>
   
-  (with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafarov</a> and <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea</a>) </summary>
+  (with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafarov</a> and <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea</a>)</summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -133,7 +133,7 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
   
   | **Abstract**          |
   |:---------------------------|
-  | We study vector autoregressions that impose equality and/or inequality restrictions to set-identify thedynamic responses to a single structural shock. We make three contributions. First, we present analgorithm to compute the largest and smallest value that an impulse-response coefficient can attainover its identified set. Second, we provide conditions under which these largest and smallest values aredirectionally differentiable functions of the model’s reduced-form parameters. Third, we propose a delta-method approach to conduct inference about the structural impulse-response coefficients. We use ourresults to assess the effects of the announcement of the Quantitative Easing program in August 2010. |
+  | We study vector autoregressions that impose equality and/or inequality restrictions to set-identify the dynamic responses to a single structural shock. We make three contributions. First, we present analgorithm to compute the largest and smallest value that an impulse-response coefficient can attain over its identified set. Second, we provide conditions under which these largest and smallest values are directionally differentiable functions of the model’s reduced-form parameters. Third, we propose a delta-method approach to conduct inference about the structural impulse-response coefficients. We use our results to assess the effects of the announcement of the Quantitative Easing program in August 2010. |
   
   </details>
   <a href="https://www.dropbox.com/s/x710pcw8m8ujcrh/GMM_DeltaMethod.pdf?dl=0" target="_blank"><u>[Paper]</u></a>  
@@ -146,7 +146,7 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
 <details>
   <summary markdown="span"><font color="blue">Corporate Debt Maturity Matters for Monetary Policy</font>
   
-  (with <a href="http://joachimjungherr.com/" target="_blank">Joachim Jungherr</a>, <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>] and <a href="https://sites.google.com/site/immoschott/" target="_blank">Immo Schott</a>) </summary>
+  (with <a href="http://joachimjungherr.com/" target="_blank">Joachim Jungherr</a>, <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>] and <a href="https://sites.google.com/site/immoschott/" target="_blank">Immo Schott</a>)</summary>
   
  </details>
  
