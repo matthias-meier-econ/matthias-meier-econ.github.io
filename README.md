@@ -61,6 +61,7 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
   
  </details>
  [Working Paper](https://www.dropbox.com/s/hnjvwv920d4l1ld/Meier_TimeToBuild.pdf?dl=0)  
+ 
 ----
 
 <br> 
@@ -79,7 +80,8 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
   | - Best Student Paper Award, Real Options Group Conference Athens <br /> - Best Paper Award (runner-up), Spring Meeting of Young Economists Vienna |
 	
  </details>
- [Working Paper](https://www.dropbox.com/s/tmq1wlaxtmy64ko/MM_PlantsFreeze.pdf?dl=0)  
+ [Working Paper](https://www.dropbox.com/s/tmq1wlaxtmy64ko/MM_PlantsFreeze.pdf?dl=0) 
+ 
 ----
 
 <br> 
@@ -99,6 +101,7 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
 	
  </details>
  [Working Paper](https://www.dropbox.com/s/q4w0bn3fvg8mg4r/BMM_Misallocation.pdf?dl=0)  
+ 
 ----
 
 <br> 
@@ -114,6 +117,7 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
   	
  </details>
  [Working Paper](https://www.dropbox.com/s/qv31b7hvk0hr187/GMM_Projection.pdf?dl=0)  
+ 
 ----
 
 <br> 
@@ -132,9 +136,9 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
   | We study vector autoregressions that impose equality and/or inequality restrictions to set-identify thedynamic responses to a single structural shock. We make three contributions. First, we present analgorithm to compute the largest and smallest value that an impulse-response coefficient can attainover its identified set. Second, we provide conditions under which these largest and smallest values aredirectionally differentiable functions of the model’s reduced-form parameters. Third, we propose a delta-method approach to conduct inference about the structural impulse-response coefficients. We use ourresults to assess the effects of the announcement of the Quantitative Easing program in August 2010. |
   
   </details>
-  <a href="https://www.dropbox.com/s/x710pcw8m8ujcrh/GMM_DeltaMethod.pdf?dl=0" target="_blank"><u>[Paper]</u></a>
+  <a href="https://www.dropbox.com/s/x710pcw8m8ujcrh/GMM_DeltaMethod.pdf?dl=0" target="_blank"><u>[Paper]</u></a>  
   
-  ----
+----
 
 <br>
 
@@ -146,7 +150,7 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
   
  </details>
  
-  ---- 
+ ---- 
  
 <br>
 
@@ -156,7 +160,5 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
   (with [Andreas Gulyas](https://sites.google.com/site/andreasgulyas) and [Mykola Ryzhenkov](https://gess.uni-mannheim.de/doctoral-programs/economics-cdse/students/people/show/mykola-ryzhenkov.html))</summary>
   
  </details>
-
  
- ---------------------------------------------------------------------------------------------------------
- 
+ ----
