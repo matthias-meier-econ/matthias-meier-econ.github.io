@@ -42,7 +42,7 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 ### Working Papers:
 
 <details>
-  <summary markdown="span"><font color="blue">Monetary Policy, Markup Dispersion, and Aggregate TFP</font>
+  <summary markdown="span"><font color="blue">Monetary Policy, Markup Dispersion, and Aggregate TFP</font> [show abstract]
     
   (with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>)</summary>
   
@@ -62,7 +62,7 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 
 
 <details>
-  <summary markdown="span"><font color="blue">Covid-19 Supply Chain Disruptions</font>
+  <summary markdown="span"><font color="blue">Covid-19 Supply Chain Disruptions</font> [show abstract]
     
   (with <a href="https://www.federalreserve.gov/econres/eugenio-pinto.htm" target="_blank">Eugenio Pinto</a>)</summary>
   
@@ -77,7 +77,7 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 
 
 <details>
-  <summary markdown="span"><font color="blue">Supply Chain Disruptions, Time to Build and the Business Cycle</font></summary>
+  <summary markdown="span"><font color="blue">Supply Chain Disruptions, Time to Build and the Business Cycle</font></summary> [show abstract]
   
   | **Abstract**          |
   |:---------------------------|
@@ -90,7 +90,7 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 
 
 <details>
-  <summary markdown="span"><font color="blue">Do plants freeze upon uncertainty shocks?</font>
+  <summary markdown="span"><font color="blue">Do plants freeze upon uncertainty shocks?</font> [show abstract]
   
   (with <a href="https://sites.google.com/site/amecikovsky/" target="_blank">Ariel Mecikovsky</a>)</summary>
   
@@ -109,7 +109,7 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 
 
 <details>
-  <summary markdown="span"><font color="blue">Misallocation, Markups, and Technology</font>
+  <summary markdown="span"><font color="blue">Misallocation, Markups, and Technology</font> [show abstract]
   
   (with <a href="https://www.wiwi.uni-bonn.de/bayer/" target="_blank">Christian Bayer</a> and <a href="https://sites.google.com/site/amecikovsky/" target="_blank">Ariel Mecikovsky</a>)</summary>
   
@@ -128,7 +128,7 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 
 
 <details>
-  <summary markdown="span"><font color="blue">Projection inference for set-identiﬁed SVARs</font>
+  <summary markdown="span"><font color="blue">Projection inference for set-identiﬁed SVARs</font> [show abstract]
   
   (with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafarov</a> and <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea</a>)</summary>
   
