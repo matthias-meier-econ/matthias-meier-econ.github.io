@@ -96,12 +96,10 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
   |:---------------------------|
   | What explains the impact of uncertainty shocks on the economy? This paper uses highly disaggregated data on industry-level job flows to investigate the empirical relevance of various transmission channels of uncertainty shocks. The channels we consider are labor adjustment frictions, capital adjustment frictions, nominal ridigities, and financial frictions. For each channel, we derive testable implications regarding the response of job flows to uncertainty shocks. Empirically, uncertainty shocks lead to more job destruction and less job creation in more than 80% of all industries. The effect is significantly stronger in industries that face tighter financial constraints, which supports the financial frictions channel. In contrast, our evidence does not support the other three channels. |
   
-  | **Awards**          |
-  |:---------------------------|
-  | - Best Student Paper Award, Real Options Group Conference Athens <br /> - Best Paper Award (runner-up), Spring Meeting of Young Economists Vienna |
-	
  </details>
- <a href="https://www.dropbox.com/s/tmq1wlaxtmy64ko/MM_PlantsFreeze.pdf?dl=0" target="_blank">[Working Paper]</a> 
+ <a href="https://www.dropbox.com/s/tmq1wlaxtmy64ko/MM_PlantsFreeze.pdf?dl=0" target="_blank">[Working Paper]</a> <br />
+ Best Student Paper Award, Real Options Group Conference Athens <br /> 
+ Best Paper Award (runner-up), Spring Meeting of Young Economists Vienna
  
 ----
 
@@ -115,12 +113,9 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
   |:---------------------------|
   | Hsieh and Klenow(2009) shows that misallocation creates large aggregate TFP losses, explains international TFP differences, and can be quantified through factor productivity dispersions. Using micro data from Chile, Colombia, Indonesia, and Germany, we show a substantial correlation in factor productivities across factors and therefore propose to decompose dispersion in factor productivities in dispersion in technology and markup instead. Relative to Germany, misallocation is larger in the developing economies. TFP losses from misallocation are explained to 1/3 by larger technology and to 2/3 by larger markup dispersion. Finally, we discuss market outcomes as potential sources of markup and technology dispersion. |
   
-  | **Awards**          |
-  |:---------------------------|
-  | - |Best Paper Award (runner-up), European Workshop on Efficiency and Productivity Analysis Helsinki
-	
  </details>
- <a href="https://www.dropbox.com/s/q4w0bn3fvg8mg4r/BMM_Misallocation.pdf?dl=0" target="_blank">[Working Paper]</a>  
+ <a href="https://www.dropbox.com/s/q4w0bn3fvg8mg4r/BMM_Misallocation.pdf?dl=0" target="_blank">[Working Paper]</a> <br />  
+ Best Paper Award (runner-up), European Workshop on Efficiency and Productivity Analysis Helsinki
  
 ----
 
