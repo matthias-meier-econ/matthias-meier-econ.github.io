@@ -16,7 +16,7 @@ My main research fields are Macroeconomics (Business Cycles, Monetary Economics,
 ### Publications:
 
 <details>
-  <summary markdown="span"><font color="blue">Delta-Method inference for a class of set-identiﬁed SVARs</font>
+  <summary markdown="span"><font color="blue">Delta-Method inference for a class of set-identiﬁed SVARs [show abstract]</font>
     
   <font color="black"><b><i>Journal of Econometrics</i></b>, 2018</font>
   
