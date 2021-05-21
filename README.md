@@ -33,7 +33,7 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
   
   </details>
   <a href="https://www.dropbox.com/s/x710pcw8m8ujcrh/GMM_DeltaMethod.pdf?dl=0" target="_blank"><u>[Paper]</u></a> <a href="https://github.com/gafarovb/setSVARtoolbox" target="_blank"><u>[Matlab Toolbox on Github]</u></a>  <br />
-  Best Paper Award in Applied Economics, Econometric Society European Meeting Geneva
+  Best Paper Award in Applied Economics, Econometric Society European Meeting 
 
 ----
 
