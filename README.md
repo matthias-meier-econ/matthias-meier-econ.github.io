@@ -23,7 +23,7 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 ### Publications:
 
 <details>
-  <summary markdown="span"><font color="blue">Delta-Method inference for a class of set-identiﬁed SVARs </font> [show abstract]
+  <summary markdown="span"><font color="blue">Delta-Method inference for a class of set-identiﬁed SVARs </font> [abstract]
     
   <font color="black"><b><i>Journal of Econometrics</i></b>, 2018</font>
   
@@ -43,7 +43,7 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 ### Working Papers:
 
 <details>
-  <summary markdown="span"><font color="blue">Monetary Policy, Markup Dispersion, and Aggregate TFP</font> [show abstract]
+  <summary markdown="span"><font color="blue">Monetary Policy, Markup Dispersion, and Aggregate TFP</font> [abstract]
     
   (with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>)</summary>
   
@@ -61,7 +61,7 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 
 
 <details>
-  <summary markdown="span"><font color="blue">Covid-19 Supply Chain Disruptions</font> [show abstract]
+  <summary markdown="span"><font color="blue">Covid-19 Supply Chain Disruptions</font> [abstract]
     
   (with <a href="https://www.federalreserve.gov/econres/eugenio-pinto.htm" target="_blank">Eugenio Pinto</a>)</summary>
   
@@ -76,7 +76,7 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 
 
 <details>
-  <summary markdown="span"><font color="blue">Supply Chain Disruptions, Time to Build and the Business Cycle</font> [show abstract] </summary>
+  <summary markdown="span"><font color="blue">Supply Chain Disruptions, Time to Build and the Business Cycle</font> [abstract] </summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -89,7 +89,7 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 
 
 <details>
-  <summary markdown="span"><font color="blue">Do plants freeze upon uncertainty shocks?</font> [show abstract]
+  <summary markdown="span"><font color="blue">Do plants freeze upon uncertainty shocks?</font> [abstract]
   
   (with <a href="https://sites.google.com/site/amecikovsky/" target="_blank">Ariel Mecikovsky</a>)</summary>
   
@@ -106,7 +106,7 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 
 
 <details>
-  <summary markdown="span"><font color="blue">Misallocation, Markups, and Technology</font> [show abstract]
+  <summary markdown="span"><font color="blue">Misallocation, Markups, and Technology</font> [abstract]
   
   (with <a href="https://www.wiwi.uni-bonn.de/bayer/" target="_blank">Christian Bayer</a> and <a href="https://sites.google.com/site/amecikovsky/" target="_blank">Ariel Mecikovsky</a>)</summary>
   
@@ -122,7 +122,7 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 
 
 <details>
-  <summary markdown="span"><font color="blue">Projection inference for set-identiﬁed SVARs</font> [show abstract]
+  <summary markdown="span"><font color="blue">Projection inference for set-identiﬁed SVARs</font> [abstract]
   
   (with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafarov</a> and <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea</a>)</summary>
   
