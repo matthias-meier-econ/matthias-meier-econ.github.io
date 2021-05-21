@@ -45,7 +45,7 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 <details>
   <summary markdown="span"><font color="blue">Monetary Policy, Markup Dispersion, and Aggregate TFP</font> [abstract]
     
-  (with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>)</summary>
+  (with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>) R&R at Review of Economics and Statistics </summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -53,8 +53,8 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
   
  </details>
  <a href="https://www.dropbox.com/s/mlakoqk20g8j7vd/MR_MarkupDispersion.pdf?dl=0" target="_blank">[Working Paper]</a>  <a href="https://www.dropbox.com/s/yofp0w4dzovl4gd/MeierReinelt2020_ECB.pdf?dl=0" target="_blank">[ECB Working Paper] </a> <br />
-  Received the Lamfalussy Fellowship of the ECB 2019 <br />
-  R&R at Review of Economics and Statistics 
+  Received the Lamfalussy Fellowship of the ECB 2019
+  
 
  
 ----
