@@ -27,7 +27,7 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 <details>
   <summary markdown="span"><font color="blue">Delta-Method inference for a class of set-identiﬁed SVARs </font> [abstract]
     
-  <font color="black"><b><i>Journal of Econometrics</i></b>, 2018</font>
+  <font color="black"><b><i>Journal of Econometrics</i></b> </font>
   
   (with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafarov</a> and <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea</a>) </summary>
   
