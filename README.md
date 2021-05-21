@@ -11,7 +11,7 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 
 <!--      -->
 <!--  <font color="gray"><i><small>&diams; Click below to download CV.</small></i></font>    -->
-### <a href="https://www.dropbox.com/s/t9wdfw009zsq0os/cv_matthias_meier.pdf?dl=0" target="_blank">Curriculum Vitae</a>
+### <a href="https://www.dropbox.com/s/t9wdfw009zsq0os/cv_matthias_meier.pdf?dl=0" target="_blank">Curriculum Vitae</a> /
 
 <!--  <font color="gray"><i><small>&diams; Click title to see abstract.</small></i></font>     -->
  
