@@ -45,7 +45,8 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 <details>
   <summary markdown="span"><font color="blue">Monetary Policy, Markup Dispersion, and Aggregate TFP</font> [abstract]
     
-  (with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>) R&R at Review of Economics and Statistics </summary>
+  (with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>)  <br />
+   R&R at Review of Economics and Statistics </summary>
   
   | **Abstract**          |
   |:---------------------------|
