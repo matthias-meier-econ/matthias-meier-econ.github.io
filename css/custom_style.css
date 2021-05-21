@@ -19,7 +19,14 @@
  font-weight:700;
  font-style:italic;
 }
-*/
+@font-face {
+ font-family: 'Lato'
+} */
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+</style> 
+
 .highlight table td {
  padding:5px
 }
