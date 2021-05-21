@@ -77,7 +77,7 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 
 
 <details>
-  <summary markdown="span"><font color="blue">Supply Chain Disruptions, Time to Build and the Business Cycle</font> [show abstract]
+  <summary markdown="span"><font color="blue">Supply Chain Disruptions, Time to Build and the Business Cycle</font> [show abstract] </summary>
   
   | **Abstract**          |
   |:---------------------------|
