@@ -1,5 +1,7 @@
 {::options parse_block_html="true" /}
 
+<meta name="keywords" content="Matthias Meier, Economics, Econ, Macroeconomics, Macro, SVAR, VAR, Inference, Set Identification, Time to Build, Uncertainty, Monetary, Policy, Monetary Policy, Heterogeneous Firms, Misallocation, Markup Dispersion, Productivity, TFP, Financial Frictions, Uni, University, Mannheim, Bonn"/>
+
 
 ### Welcome!
 
