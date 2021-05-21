@@ -240,7 +240,7 @@
 body {
  background-color:#fff;
  padding:50px;
- font:16px/1.5  "Helvetica Neue", Helvetica, Arial, sans-serif; /* deleted "Noto Sans"; 14 instead of 20*/
+ font:15px/1.5  "Helvetica Neue", Helvetica, Arial, sans-serif; /* deleted "Noto Sans"; 14 instead of 20*/
  color:#727272;
  font-weight:600 /*400*/
 }
