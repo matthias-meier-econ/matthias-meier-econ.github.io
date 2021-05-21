@@ -71,7 +71,7 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
   | We study the effects of international supply chain disruptions on real economicactivity and prices during the Covid-19 pandemic.  We show that US sectors with a high exposure to intermediate goods imports from China contracted significantly and robustly more than other sectors. In particular, highly exposed sectors suffered larger declines in production, employment, imports, and exports. Moreover, input and output prices moved up relative to other sectors, suggesting that real activity declines in sectors with a high China exposure were not particularly driven by a slump in demand. Quantitatively, sectors at the third quartile of China exposures experienced larger monthly production declines of 2.5 p.p. in March and 9.4 p.p. in April 2020 than sectors at the first quartile. Differences in China exposures account for about 10% of the cross-sectoral variance of industrial production growth during March and April. The estimated effects are short-lived and dissipate by July 2020. |
   
  </details>
- <a href="https://www.dropbox.com/s/ysp4b65nrfybfor/MeierPinto2020.pdf?dl=0" target="_blank">[Working Paper]</a> / <a href="https://www.dropbox.com/s/q1zxauur3dw5nkn/CovidEconomics48.pdf?dl=0" target="_blank">[CEPR Covid Economics]</a>
+ <a href="https://www.dropbox.com/s/ysp4b65nrfybfor/MeierPinto2020.pdf?dl=0" target="_blank">[Working Paper]</a> <a href="https://www.dropbox.com/s/q1zxauur3dw5nkn/CovidEconomics48.pdf?dl=0" target="_blank">[CEPR Covid Economics]</a>
  
 ----
 
