@@ -56,9 +56,9 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 
   
  </details>
- <a href="https://www.dropbox.com/s/mlakoqk20g8j7vd/MR_MarkupDispersion.pdf?dl=0" target="_blank">[Working Paper]</a>  <a href="https://www.dropbox.com/s/yofp0w4dzovl4gd/MeierReinelt2020_ECB.pdf?dl=0" target="_blank">[ECB Working Paper] </a> <br />
+ <a href="https://www.dropbox.com/s/mlakoqk20g8j7vd/MR_MarkupDispersion.pdf?dl=0" target="_blank">[Working Paper]</a>  <a href="https://www.dropbox.com/s/yofp0w4dzovl4gd/MeierReinelt2020_ECB.pdf?dl=0" target="_blank">[ECB Working Paper] </a> <br /><br />
   Received the Lamfalussy Fellowship of the ECB 2019 <br />
-  R&R at Review of Economics and Statistics <br />
+  R&R at Review of Economics and Statistics <br /><br />
 
  
 ----
