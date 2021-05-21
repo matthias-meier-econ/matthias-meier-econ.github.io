@@ -240,9 +240,9 @@
 body {
  background-color:#fff;
  padding:50px;
- font:15px/1.5  "Helvetica Neue", Helvetica, Arial, sans-serif; /* deleted "Noto Sans"; 14 instead of 20*/
+ font:14.5px/1.5  "Helvetica Neue", Helvetica, Arial, sans-serif; /* deleted "Noto Sans"; 14 instead of 20*/
  color:#727272;
- font-weight:600 /*400*/
+ font-weight:400 /*400*/
 }
 h1,
 h2,
@@ -396,7 +396,7 @@ header ul a strong {
  color:#222
 }
 section {
- width:600px;
+ width:500px;
  float:right;
  padding-bottom:50px
 }
