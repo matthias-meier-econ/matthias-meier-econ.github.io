@@ -1,28 +1,20 @@
-body {
-  background-color: lightblue;
-}
-
-h1 {
-  color: navy;
-  margin-left: 20px;
-}
 @font-face {
- font-family:'Noto Sans';
+ font-family:'Palatino Linotype';
  font-weight:400;
  font-style:normal;
 }
 @font-face {
- font-family:'Noto Sans';
+ font-family:'Palatino Linotype';
  font-weight:700;
  font-style:normal;
 }
 @font-face {
- font-family:'Noto Sans';
+ font-family:'Palatino Linotype';
  font-weight:400;
  font-style:italic;
 }
 @font-face {
- font-family:'Noto Sans';
+ font-family:'Palatino Linotype';
  font-weight:700;
  font-style:italic;
 }
