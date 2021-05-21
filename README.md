@@ -1,5 +1,7 @@
 {::options parse_block_html="true" /}
 
+<meta name="description" content="Welcome! This website provides a CV and research papers of Matthias Meier, Assistant Professor of Economics at the University of Mannheim."/>
+
 <meta name="keywords" content="Matthias Meier, Economics, Econ, Macroeconomics, Macro, SVAR, VAR, Inference, Set Identification, Time to Build, Uncertainty, Monetary, Policy, Monetary Policy, Heterogeneous Firms, Misallocation, Markup Dispersion, Productivity, TFP, Financial Frictions, Uni, University, Mannheim, Bonn"/>
 
 
