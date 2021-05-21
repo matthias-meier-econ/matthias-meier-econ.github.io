@@ -1,8 +1,6 @@
 {::options parse_block_html="true" /}
 
 
-<h1><font color="scarlet"> THIS WEBSITE IS IN CONSTRUCTION! </font></h1>  
-
 ### Welcome!
 
 I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a>. I am a member of the Collaborative Research Center Transregio 224 <a href="https://www.crctr224.de/en/about/" target="_blank">(CRC TR 224)</a>, funded by the German Research Foundation (DFG). My research interests are Macroeconomics and Econometrics.
