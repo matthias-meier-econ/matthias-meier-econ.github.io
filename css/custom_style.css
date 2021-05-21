@@ -241,8 +241,8 @@ body {
  background-color:#fff;
  padding:50px;
  font:14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
- color:#727272;
- font-weight:600
+ color:#A52A2A;/*#727272;*/
+ font-weight:600 /*400*/
 }
 h1,
 h2,
