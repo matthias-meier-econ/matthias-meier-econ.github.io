@@ -23,7 +23,7 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 <details>
   <summary markdown="span"><font color="blue">Delta-Method inference for a class of set-identiﬁed SVARs </font> [abstract]
     
-  <font color="black"><b><i>Journal of Econometrics</i></b> </font>
+  <font color="black"><i>Journal of Econometrics</i> </font>
   
   (with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafarov</a> and <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea</a>) </summary>
   
@@ -44,7 +44,7 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
   <summary markdown="span"><font color="blue">Monetary Policy, Markup Dispersion, and Aggregate TFP</font> [abstract]
     
   (with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>)  <br />
-  <font color="black"><b><i>Revise and Resubmit, Review of Economics and Statistics</i></b> </font>  </summary>
+  <font color="black"> <i>Revise and Resubmit, Review of Economics and Statistics</i> </font>  </summary>
   
   | **Abstract**          |
   |:---------------------------|
