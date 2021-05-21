@@ -7,10 +7,12 @@
 
 I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a>. I am a member of the Collaborative Research Center Transregio 224 <a href="https://www.crctr224.de/en/about/" target="_blank">(CRC TR 224)</a>, funded by the German Research Foundation (DFG). My research interests are Macroeconomics and Econometrics.
 
-<font color="gray"><i><small>&diams; Click below to download CV.</small></i></font> 
+<!--      -->
+<!--  <font color="gray"><i><small>&diams; Click below to download CV.</small></i></font>    -->
 ### <a href="https://www.dropbox.com/s/t9wdfw009zsq0os/cv_matthias_meier.pdf?dl=0" target="_blank">Curriculum Vitae</a>
 
-<font color="gray"><i><small>&diams; Click title to see abstract.</small></i></font>  
+<!--  <font color="gray"><i><small>&diams; Click title to see abstract.</small></i></font>     -->
+ 
 
 ### Publications:
 
