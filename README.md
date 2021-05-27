@@ -16,7 +16,7 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 Submission deadline: 31 July 2021 <br />
 <a href="https://www.dropbox.com/s/mswszr9a3djak27/call_for_papers_2021.pdf?dl=0" target="_blank">CALL FOR PAPERS</a>)  <br />
 
-
+----
 
 ### Publications:
 
