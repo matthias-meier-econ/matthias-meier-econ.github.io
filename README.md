@@ -14,7 +14,7 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 ### Mannheim Workshop on Firm Heterogeneity and Macroeconomics
 
 <font color="blue"> <a href="https://www.dropbox.com/s/mswszr9a3djak27/call_for_papers_2021.pdf?dl=0" target="_blank">Call for Papers</a>  </font> <br />
-Submission deadline: 31 July 2021 <br />
+Submission deadline: 1 September 2021 <br />
 Conference dates: 10-11 December 2021
 
 ----
