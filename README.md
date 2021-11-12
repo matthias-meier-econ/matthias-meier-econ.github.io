@@ -60,6 +60,21 @@ Conference dates: 10-11 December 2021
 
 
 <details>
+  <summary markdown="span"><font color="blue">Corporate Debt Maturity Matters for Monetary Policy</font> [abstract]
+    
+  (with <a href="http://joachimjungherr.com/" target="_blank">Joachim Jungherr</a>, <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a> and <a href="https://sites.google.com/site/immoschott/" target="_blank">Immo Schott</a>)</summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | We provide novel empirical evidence that firms' investment is more responsive to surprise changes in monetary policy when a higher fraction of their debt matures. In a heterogeneous firm New Keynesian model with financial frictions and endogenous debt maturity, two channels explain this finding: (1.) Firms with more maturing debt roll over more debt and are therefore more exposed to fluctuations in the real interest rate (roll-over risk). (2.) Firms with shorter debt maturity have higher default risk in equilibrium and therefore react more strongly to changes in the real burden of outstanding nominal debt (debt overhang). The aggregate effectiveness of monetary policy depends on the joint distribution of debt maturity and default risk across firms. |
+  
+ </details>
+ <a href="https://www.dropbox.com/s/234gsphk4hzybai/JMRS_Maturity.pdf?dl=0" target="_blank">[Working Paper]</a> 
+ 
+----
+
+
+<details>
   <summary markdown="span"><font color="blue">Covid-19 Supply Chain Disruptions</font> [abstract]
     
   (with <a href="https://www.federalreserve.gov/econres/eugenio-pinto.htm" target="_blank">Eugenio Pinto</a>)</summary>
@@ -136,15 +151,6 @@ Conference dates: 10-11 December 2021
 
 
 ### Work in Progress:
-<details>
-  <summary markdown="span"><font color="blue">Corporate Debt Maturity Matters for Monetary Policy</font>
-  
-  (with <a href="http://joachimjungherr.com/" target="_blank">Joachim Jungherr</a>, <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a> and <a href="https://sites.google.com/site/immoschott/" target="_blank">Immo Schott</a>)</summary>
-  
- </details>
- 
- ----
- 
 
 <details>
   <summary markdown="span"><font color="blue">Labor Market Effects of Monetary Policy</font>
