@@ -44,7 +44,7 @@ Conference dates: 10-11 December 2021
   <summary markdown="span"><font color="blue">Monetary Policy, Markup Dispersion, and Aggregate TFP</font> [abstract]
     
   (with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>)  <br />
-  <b> <i>Revised and Resubmitted, Review of Economics and Statistics</i> </b>  </summary>
+  <b> <i>Conditionally Accepted, Review of Economics and Statistics</i> </b>  </summary>
   
   | **Abstract**          |
   |:---------------------------|
