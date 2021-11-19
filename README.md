@@ -7,7 +7,7 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 
 ----
 
-### <a href="https://www.dropbox.com/s/t9wdfw009zsq0os/cv_matthias_meier.pdf?dl=0" target="_blank">Curriculum Vitae</a> 
+### <a href="https://matthias-meier-econ.github.io/files/cv_matthias_meier.pdf" target="_blank">Curriculum Vitae</a> 
 
 ----
 
