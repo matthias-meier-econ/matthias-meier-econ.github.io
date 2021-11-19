@@ -13,7 +13,7 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 
 ### Mannheim Workshop on Firm Heterogeneity and Macroeconomics
 
-<font color="blue"> <a href="https://www.dropbox.com/s/uqnomv868ay33wv/Program_2021_FINAL.pdf?dl=0" target="_blank">Schedule</a>  </font> <br />
+<font color="blue"> <a href="https://matthias-meier-econ.github.io/files/Program_2021_FINAL.pdf" target="_blank">Schedule</a>  </font> <br />
 Conference dates: 10-11 December 2021
 
 ----
@@ -32,7 +32,7 @@ Conference dates: 10-11 December 2021
   | We study vector autoregressions that impose equality and/or inequality restrictions to set-identify the dynamic responses to a single structural shock. We make three contributions. First, we present analgorithm to compute the largest and smallest value that an impulse-response coefficient can attain over its identified set. Second, we provide conditions under which these largest and smallest values are directionally differentiable functions of the model’s reduced-form parameters. Third, we propose a delta-method approach to conduct inference about the structural impulse-response coefficients. We use our results to assess the effects of the announcement of the Quantitative Easing program in August 2010. |
   
   </details>
-  <a href="https://www.dropbox.com/s/x710pcw8m8ujcrh/GMM_DeltaMethod.pdf?dl=0" target="_blank"><u>[Paper]</u></a> <a href="https://github.com/gafarovb/setSVARtoolbox" target="_blank"><u>[Matlab Toolbox on Github]</u></a>  <br />
+  <a href="https://matthias-meier-econ.github.io/files/GMM_DeltaMethod.pdf" target="_blank"><u>[Paper]</u></a> <a href="https://github.com/gafarovb/setSVARtoolbox" target="_blank"><u>[Matlab Toolbox on Github]</u></a>  <br />
   Best Paper Award in Applied Economics, Econometric Society European Meeting 
 
 ----
@@ -51,7 +51,7 @@ Conference dates: 10-11 December 2021
   | Motivated by empirical evidence that monetary policy affects aggregate TFP, we study the role of markup dispersion for monetary transmission. Empirically, we show that the response of markup dispersion to monetary policy shocks can account for a significant fraction of the aggregate TFP response in the first two years after the shock. Analytically, we show that heterogeneous price rigidity can explain the response of markup dispersion if firms have a precautionary price setting motive, which is present in common New Keynesian environments. We provide empirical evidence on the relationship between markups and price rigidity in support of this explanation. Finally, we study the mechanism and its implications in a quantitative model. |
   
  </details>
- <a href="https://www.dropbox.com/s/in4iva51av9dr4c/MeierReinelt_MarkupDispersion.pdf?dl=0" target="_blank">[Working Paper]</a>  <a href="https://www.dropbox.com/s/yofp0w4dzovl4gd/MeierReinelt2020_ECB.pdf?dl=0" target="_blank">[ECB Working Paper] </a> <br />
+ <a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion.pdf" target="_blank">[Working Paper]</a>  <a href="https://matthias-meier-econ.github.io/files/MeierReinelt2020_ECB.pdf" target="_blank">[ECB Working Paper] </a> <br />
   Received the Lamfalussy Fellowship of the ECB 
   
 
@@ -69,7 +69,7 @@ Conference dates: 10-11 December 2021
   | We provide novel empirical evidence that firms' investment is more responsive to surprise changes in monetary policy when a higher fraction of their debt matures. In a heterogeneous firm New Keynesian model with financial frictions and endogenous debt maturity, two channels explain this finding: (1.) Firms with more maturing debt roll over more debt and are therefore more exposed to fluctuations in the real interest rate (roll-over risk). (2.) Firms with shorter debt maturity have higher default risk in equilibrium and therefore react more strongly to changes in the real burden of outstanding nominal debt (debt overhang). The aggregate effectiveness of monetary policy depends on the joint distribution of debt maturity and default risk across firms. |
   
  </details>
- <a href="https://www.dropbox.com/s/234gsphk4hzybai/JMRS_Maturity.pdf?dl=0" target="_blank">[Working Paper]</a> 
+ <a href="https://matthias-meier-econ.github.io/files/JMRS_Maturity.pdf" target="_blank">[Working Paper]</a> 
  
 ----
 
@@ -84,7 +84,7 @@ Conference dates: 10-11 December 2021
   | We study the effects of international supply chain disruptions on real economic activity and prices during the Covid-19 recession and early recovery. We show that US sectors with a high exposure to intermediate goods imports from China contracted significantly and robustly more than other sectors. In particular, highly exposed sectors suffered larger declines in production, employment, imports, and exports. In addition, input and output prices moved up relative to other sectors, suggesting that the larger output declines in sectors with a high China exposure were not demand driven. Quantitatively, sectors with a one standard deviation higher China exposure experienced 3.0 and 8.3 percentage points larger output declines in March and April 2020, respectively. The estimated effects are short-lived and dissipated by June 2020. |
   
  </details>
- <a href="https://www.dropbox.com/s/7ypedqy1cnxt022/MeierPinto_Disruptions.pdf?dl=0" target="_blank">[Working Paper]</a> <a href="https://www.dropbox.com/s/q1zxauur3dw5nkn/CovidEconomics48.pdf?dl=0" target="_blank">[CEPR Covid Economics]</a>
+ <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.pdf" target="_blank">[Working Paper]</a> <a href="https://matthias-meier-econ.github.io/files/CovidEconomics48.pdf" target="_blank">[CEPR Covid Economics]</a>
  
 ----
 
@@ -97,7 +97,7 @@ Conference dates: 10-11 December 2021
   | We provide new evidence that (i) time to build is volatile and countercyclical, and that (ii) supply chain disruptions lengthen time to build. Motivated by these findings, we develop a general equilibrium model in which heterogeneous firms face non-convex adjustment costs and multi-period time to build. In the model, supply chain disruptions lengthen time to build. Calibrating the model to US micro data, we show that disruptions, which lengthen time to build by 1 month, depress GDP by 1% and aggregate TFP by 0.2%. Structural vector autoregressions corroborate the quantitative importance of supply chain disruptions. |
   
  </details>
- <a href="https://www.dropbox.com/s/hnjvwv920d4l1ld/Meier_TimeToBuild.pdf?dl=0" target="_blank">[Working Paper]</a>
+ <a href="https://matthias-meier-econ.github.io/files/Meier_TimeToBuild.pdf" target="_blank">[Working Paper]</a>
  
 ----
 
@@ -112,7 +112,7 @@ Conference dates: 10-11 December 2021
   | What explains the impact of uncertainty shocks on the economy? This paper uses highly disaggregated data on industry-level job flows to investigate the empirical relevance of various transmission channels of uncertainty shocks. The channels we consider are labor adjustment frictions, capital adjustment frictions, nominal ridigities, and financial frictions. For each channel, we derive testable implications regarding the response of job flows to uncertainty shocks. Empirically, uncertainty shocks lead to more job destruction and less job creation in more than 80% of all industries. The effect is significantly stronger in industries that face tighter financial constraints, which supports the financial frictions channel. In contrast, our evidence does not support the other three channels. |
   
  </details>
- <a href="https://www.dropbox.com/s/tmq1wlaxtmy64ko/MM_PlantsFreeze.pdf?dl=0" target="_blank">[Working Paper]</a> <br />
+ <a href="https://matthias-meier-econ.github.io/files/MM_PlantsFreeze.pdf" target="_blank">[Working Paper]</a> <br />
  Best Student Paper Award, Real Options Group Conference Athens <br /> 
  Best Paper Award (runner-up), Spring Meeting of Young Economists Vienna
  
@@ -129,7 +129,7 @@ Conference dates: 10-11 December 2021
   | Hsieh and Klenow(2009) shows that misallocation creates large aggregate TFP losses, explains international TFP differences, and can be quantified through factor productivity dispersions. Using micro data from Chile, Colombia, Indonesia, and Germany, we show a substantial correlation in factor productivities across factors and therefore propose to decompose dispersion in factor productivities in dispersion in technology and markup instead. Relative to Germany, misallocation is larger in the developing economies. TFP losses from misallocation are explained to 1/3 by larger technology and to 2/3 by larger markup dispersion. Finally, we discuss market outcomes as potential sources of markup and technology dispersion. |
   
  </details>
- <a href="https://www.dropbox.com/s/q4w0bn3fvg8mg4r/BMM_Misallocation.pdf?dl=0" target="_blank">[Working Paper]</a>  
+ <a href="https://matthias-meier-econ.github.io/files/BMM_Misallocation.pdf" target="_blank">[Working Paper]</a>  
  Best Paper Award (runner-up), European Workshop on Efficiency and Productivity Analysis Helsinki
  
 ----
@@ -145,7 +145,7 @@ Conference dates: 10-11 December 2021
   | We study the properties of projection inference for set-identified Structural Vector Autoregressions. A nominal 1−α projection region collects the structural parameters that are compatible with a 1−α Wald ellipsoid for the model’s reduced-form parameters (autoregressive coefficients and the covariance matrix of residuals). We show that projection inference can be applied to a general class of stationary models, is computationally feasible, and - as the sample size grows large — it produces regions that have both frequentist coverage and robust Bayesian credibility of at least 1−α. A drawback of the projection approach is that both coverage and robust credibility may be strictly above their nominal level. Following the recent work of Kaido, Molinari, and Stoye (2016), we ‘calibrate’ the radius of the Wald ellipsoid to guarantee that — for a given posterior on the reduced-form parameters — the projection method produces a region with robust Bayesian credibility of exactly 1−α. We illustrate the main results of the paper using the demand/supply-model for the U.S. labor market in Baumeister and Hamilton(2015). |
   	
  </details>
- <a href="https://www.dropbox.com/s/qv31b7hvk0hr187/GMM_Projection.pdf?dl=0" target="_blank">[Working Paper]</a>  
+ <a href="https://matthias-meier-econ.github.io/files/GMM_Projection.pdf" target="_blank">[Working Paper]</a>  
  
 ----
 
