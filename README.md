@@ -34,7 +34,7 @@ New conference dates: 03-04 June 2022
   
   </details>
   <a href="https://matthias-meier-econ.github.io/files/GMM_DeltaMethod.pdf" target="_blank"><u>[Paper]</u></a> <a href="https://github.com/gafarovb/setSVARtoolbox" target="_blank"><u>[Matlab Toolbox on Github]</u></a>  <br />
-  Best Paper Award in Applied Economics, Econometric Society European Meeting 
+  Best Paper Award in Applied Economics, Econometric Society European Meeting 2016
 
 ----
 
