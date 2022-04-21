@@ -13,7 +13,7 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 
 ### Mannheim Workshop on Firm Heterogeneity and Macroeconomics
 
-<font color="blue"> <a href="https://matthias-meier-econ.github.io/files/FirmHetMacro_Mannheim_June2022.pdf" target="_blank">Schedule</a>  </font> <br />
+<font color="blue"> <a href="https://matthias-meier-econ.github.io/files/Program_June_2022.pdf" target="_blank">Schedule</a>  </font> <br />
 Dates: 03-04 June 2022 
 
 
