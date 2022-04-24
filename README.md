@@ -42,7 +42,7 @@ Dates: 03-04 June 2022
   <summary markdown="span"><font color="blue">Monetary Policy, Markup Dispersion, and Aggregate TFP</font> [abstract]
     
   (with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>)  <br />
-  <b> <i>Accepted, Review of Economics and Statistics</i> </b>  </summary>
+  <b> <i>Review of Economics and Statistics, Accepted </i> </b>  </summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -74,7 +74,7 @@ Dates: 03-04 June 2022
   | We provide novel empirical evidence that firms' investment is more responsive to surprise changes in monetary policy when a higher fraction of their debt matures. In a heterogeneous firm New Keynesian model with financial frictions and endogenous debt maturity, two channels explain this finding: (1.) Firms with more maturing debt roll over more debt and are therefore more exposed to fluctuations in the real interest rate (roll-over risk). (2.) Firms with shorter debt maturity have higher default risk in equilibrium and therefore react more strongly to changes in the real burden of outstanding nominal debt (debt overhang). The aggregate effectiveness of monetary policy depends on the joint distribution of debt maturity and default risk across firms. |
   
  </details>
- <a href="https://matthias-meier-econ.github.io/files/JMRS_Maturity.pdf" target="_blank">[Working Paper]</a> 
+ <a href="https://matthias-meier-econ.github.io/files/Debt_Maturity.pdf" target="_blank">[Working Paper]</a> 
  
 ----
 
