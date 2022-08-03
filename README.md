@@ -24,9 +24,8 @@ Dates: 03-04 June 2022
 <details>
   <summary markdown="span"><font color="blue">Delta-Method inference for a class of set-identiﬁed SVARs </font> [abstract]
     
-  <b> <i>Journal of Econometrics </i> </b>
-  
-  (with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafarov</a> and <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea</a>) </summary>
+  (with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafarov</a> and <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea</a>) </b>
+    <b> <i>Journal of Econometrics </i> </b> </summary>
   
   | **Abstract**          |
   |:---------------------------|
