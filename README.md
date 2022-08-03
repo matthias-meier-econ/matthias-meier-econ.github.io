@@ -67,7 +67,8 @@ Dates: 03-04 June 2022
 <details>
   <summary markdown="span"><font color="blue">Corporate Debt Maturity Matters for Monetary Policy</font> [abstract]
     
-  (with <a href="http://joachimjungherr.com/" target="_blank">Joachim Jungherr</a>, <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a> and <a href="https://sites.google.com/site/immoschott/" target="_blank">Immo Schott</a>)</summary>
+  (with <a href="http://joachimjungherr.com/" target="_blank">Joachim Jungherr</a>, <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a> and <a href="https://sites.google.com/site/immoschott/" target="_blank">Immo Schott</a>)  <br />
+  <b> <i>Review of Economic Studies, Revise and Resubmit </i> </b> </summary>
   
   | **Abstract**          |
   |:---------------------------|
