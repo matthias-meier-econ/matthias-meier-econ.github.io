@@ -166,7 +166,7 @@ Dates: 03-04 June 2022
 ----
 
 <details>
-  <summary markdown="span"><font color="blue">Systematic Monetary Policy and the Effects of Government Spending</font>
+  <summary markdown="span">Systematic Monetary Policy and the Effects of Government Spending</font>
   
   (with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hack</a> and <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a>)</summary>
   
