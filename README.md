@@ -179,3 +179,33 @@ Dates: 03-04 June 2022
  </details>
  
  ----
+ 
+ 
+<details>
+  <summary markdown="span"><font color="blue">Order Cancellations</font>
+  
+  (with <a href="https://janschymik.de" target="_blank">Jan Schymik</a>)</summary>
+  
+ </details>
+ 
+ ----
+  
+ 
+<details>
+  <summary markdown="span"><font color="blue">FX Interventions</font>
+  
+  (with <a href="https://sites.google.com/view/husnucdalgic" target="_blank">Hüsnü Dalgic</a> and <a href="https://sites.google.com/site/patrickhuertgen" target="_blank">Patrick Hürtgen</a>)</summary>
+  
+ </details>
+ 
+ ----
+  
+ 
+<details>
+  <summary markdown="span"><font color="blue">Foreign cash, business cycle propagation, and policy implications</font>
+  
+  (with <a href="https://bank.gov.ua/en/researcher/39" target="_blank">Vadym Lepetyuk</a>)</summary>
+  
+ </details>
+ 
+ ----
