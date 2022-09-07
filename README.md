@@ -21,6 +21,8 @@ Dates: 03-04 June 2022
 
 ### Publications:
 
+----
+
 <details>
   <summary markdown="span"><font color="blue">Delta-Method inference for a class of set-identiﬁed SVARs </font> [abstract]
     
