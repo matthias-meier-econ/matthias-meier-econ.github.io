@@ -188,7 +188,7 @@ Dates: 03-04 June 2022
 <details>
   <summary markdown="span"><font color="blue">Order Cancellations</font>
   
-  (with <a href="https://janschymik.de" target="_blank">Jan Schymik</a>)</summary>
+  (with <a href="http://janschymik.de" target="_blank">Jan Schymik</a>)</summary>
   
  </details>
  
