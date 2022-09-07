@@ -166,7 +166,7 @@ Dates: 03-04 June 2022
 ----
 
 <details>
-  <summary markdown="span">Systematic Monetary Policy and the Effects of Government Spending</font>
+  <summary markdown="span">Systematic Monetary Policy and the Effects of Government Spending
   
   (with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hack</a> and <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a>)</summary>
   
@@ -176,7 +176,7 @@ Dates: 03-04 June 2022
  
  
 <details>
-  <summary markdown="span"><font color="blue">Labor Market Effects of Monetary Policy</font>
+  <summary markdown="span">Labor Market Effects of Monetary Policy
   
   (with <a href="https://sites.google.com/site/andreasgulyas" target="_blank">Andreas Gulyas</a> and <a href="https://gess.uni-mannheim.de/doctoral-programs/economics-cdse/students/people/show/mykola-ryzhenkov.html" target="_blank">Mykola Ryzhenkov</a>)</summary>
   
@@ -186,7 +186,7 @@ Dates: 03-04 June 2022
  
  
 <details>
-  <summary markdown="span"><font color="blue">Order Cancellations</font>
+  <summary markdown="span">Order Cancellations
   
   (with <a href="http://janschymik.de" target="_blank">Jan Schymik</a>)</summary>
   
@@ -196,7 +196,7 @@ Dates: 03-04 June 2022
   
  
 <details>
-  <summary markdown="span"><font color="blue">FX Interventions</font>
+  <summary markdown="span">FX Interventions
   
   (with <a href="https://sites.google.com/view/husnucdalgic" target="_blank">Hüsnü Dalgic</a> and <a href="https://sites.google.com/site/patrickhuertgen" target="_blank">Patrick Hürtgen</a>)</summary>
   
@@ -206,7 +206,7 @@ Dates: 03-04 June 2022
   
  
 <details>
-  <summary markdown="span"><font color="blue">Foreign cash, business cycle propagation, and policy implications</font>
+  <summary markdown="span">Foreign cash, business cycle propagation, and policy implications
   
   (with <a href="https://bank.gov.ua/en/researcher/39" target="_blank">Vadym Lepetyuk</a>)</summary>
   
