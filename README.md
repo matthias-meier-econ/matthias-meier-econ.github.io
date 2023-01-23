@@ -122,8 +122,7 @@ Dates: 03-04 June 2022
   
   | **Abstract**          |
   |:---------------------------|
-  | This paper argues that distorted managerial incentives can be a cause for within-ﬁrm capital misallocation. We document empirically that managers experiencing reductions in long-term incentives reallocate ﬁrm investments towards less durable assets. To quantify this channel of within-ﬁrm misallocation for the US economy, we then develop a model of dynamic ﬁrm investments under agency frictions. In the model, capital misallocation within ﬁrms is caused by short-termist incentives due to a too strong focus on current cash ﬂows implied by equity-bonus contracts. Our results show that short-termist incentives cause substantial wedges in the rates of return across capital goods within ﬁrms, lowering average productivity.
-  |
+  | This paper argues that distorted managerial incentives can be a cause for within-ﬁrm capital misallocation. We document empirically that managers experiencing reductions in long-term incentives reallocate ﬁrm investments towards less durable assets. To quantify this channel of within-ﬁrm misallocation for the US economy, we then develop a model of dynamic ﬁrm investments under agency frictions. In the model, capital misallocation within ﬁrms is caused by short-termist incentives due to a too strong focus on current cash ﬂows implied by equity-bonus contracts. Our results show that short-termist incentives cause substantial wedges in the rates of return across capital goods within ﬁrms, lowering average productivity. |
   
  </details>
  <a href="https://matthias-meier-econ.github.io/files/Managers_Investments.pdf" target="_blank">[Working Paper]</a>
