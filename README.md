@@ -118,12 +118,11 @@ Dates: 03-04 June 2022
 <details>
   <summary markdown="span"><font color="blue">Capital (Mis)allocation, Incentives and Productivity</font> [abstract] 
   
-    (with <a href="http://janschymik.de/" target="_blank">Jan Schymik</a>, Alexander Schramm, Alxander Schwemmer)</summary>
+  (with <a href="http://janschymik.de/" target="_blank">Jan Schymik</a>, Alexander Schramm, Alxander Schwemmer)</summary>
   
   | **Abstract**          |
   |:---------------------------|
-  | This paper argues that distorted managerial incentives can be a cause for within-ﬁrm capital misallocation. We document empirically that managers experiencing reductions in long-term incentives reallocate ﬁrm investments towards less durable assets. To quantify this channel of within-ﬁrm misallocation for the US economy, we then develop a model of dynamic ﬁrm investments under agency frictions. In the model, capital misallocation within ﬁrms is caused by
-short-termist incentives due to a too strong focus on current cash ﬂows implied by equity-bonus contracts. Our results show that short-termist incentives cause substantial wedges in the rates of return across capital goods within ﬁrms, lowering average productivity.
+  | This paper argues that distorted managerial incentives can be a cause for within-ﬁrm capital misallocation. We document empirically that managers experiencing reductions in long-term incentives reallocate ﬁrm investments towards less durable assets. To quantify this channel of within-ﬁrm misallocation for the US economy, we then develop a model of dynamic ﬁrm investments under agency frictions. In the model, capital misallocation within ﬁrms is caused by short-termist incentives due to a too strong focus on current cash ﬂows implied by equity-bonus contracts. Our results show that short-termist incentives cause substantial wedges in the rates of return across capital goods within ﬁrms, lowering average productivity.
   |
   
  </details>
