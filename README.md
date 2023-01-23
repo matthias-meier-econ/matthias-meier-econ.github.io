@@ -88,7 +88,8 @@ Dates: 03-04 June 2022
 <details>
   <summary markdown="span"><font color="blue">Covid-19 Supply Chain Disruptions</font> [abstract]
     
-  (with <a href="https://www.federalreserve.gov/econres/eugenio-pinto.htm" target="_blank">Eugenio Pinto</a>)</summary>
+  (with <a href="https://www.federalreserve.gov/econres/eugenio-pinto.htm" target="_blank">Eugenio Pinto</a>)  <br />
+  <b> <i>European Economic Review, Revise and Resubmit </i> </b> </summary>
   
   | **Abstract**          |
   |:---------------------------|
