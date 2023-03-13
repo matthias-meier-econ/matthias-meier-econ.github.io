@@ -43,7 +43,7 @@ Dates: 03-04 June 2022
   <summary markdown="span"><font color="blue">Monetary Policy, Markup Dispersion, and Aggregate TFP</font> [abstract]
     
   (with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>)  <br />
-  <b> <i>Review of Economics and Statistics, Accepted </i> </b>  </summary>
+  <b> <i>Review of Economics and Statistics, Forthcoming </i> </b>  </summary>
   
   | **Abstract**          |
   |:---------------------------|
