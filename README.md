@@ -88,14 +88,15 @@ Dates: 03-04 June 2022
 <details>
   <summary markdown="span"><font color="blue">Covid-19 Supply Chain Disruptions</font> [abstract]
     
-  (with <a href="https://www.federalreserve.gov/econres/eugenio-pinto.htm" target="_blank">Eugenio Pinto</a>)  </summary>
+  (with <a href="https://www.federalreserve.gov/econres/eugenio-pinto.htm" target="_blank">Eugenio Pinto</a>)  <br />
+  <b> <i>European Economic Review, Revise and Resubmit </i> </b> </summary>
   
   | **Abstract**          |
   |:---------------------------|
-  | This paper uses Austrian social security records to analyze the effects of ECB monetary policy on the labor market. Our focus is on the role of worker and firm wage-components, defined by an Abowd et al. (1999) wage regression. Our findings show that monetary tightening causes the largest employment losses for low-paid workers who are employed in high-paying firms before the tightening. Monetary tightening further causes a reallocation of workers to lower-paying firms. In particular low-paid workers who were originally employed by low-paying firms are prone to falling down the firm wage ladder. |
+  | In the early phase of the COVID-19 crisis, China imposed widespread lockdowns to contain the virus. We study the spillovers from the lockdowns to the US economy. We find that sectors with a high exposure to intermediate goods imports from China experienced significantly larger declines in production, employment, imports, and exports. In addition, relative input and output prices increased in these sectors. At the peak of the recession in April 2020, output was 16% lower in sectors with a one standard deviation higher China exposure. The estimated effects on output, input, and inflation are short-lived and dissipate by summer 2020. |
   
  </details>
- <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.pdf" target="_blank">[Working Paper]</a> 
+ <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.pdf" target="_blank">[Working Paper]</a> <a href="https://matthias-meier-econ.github.io/files/CovidEconomics48.pdf" target="_blank">[CEPR Covid Economics]</a>
  
 ----
 
@@ -104,12 +105,11 @@ Dates: 03-04 June 2022
 <details>
   <summary markdown="span"><font color="blue">Labor Market Effects of Monetary Policy Across Workers and Firms</font> [abstract]
     
-  (with <a href="https://sites.google.com/site/andreasgulyas" target="_blank">Andreas Gulyas</a> and <a href="https://gess.uni-mannheim.de/doctoral-programs/economics-cdse/students/people/show/mykola-ryzhenkov.html" target="_blank">Mykola Ryzhenkov</a>)  <br />
-  <b> <i>European Economic Review, Revise and Resubmit </i> </b> </summary>
+  (with <a href="https://sites.google.com/site/andreasgulyas" target="_blank">Andreas Gulyas</a> and <a href="https://gess.uni-mannheim.de/doctoral-programs/economics-cdse/students/people/show/mykola-ryzhenkov.html" target="_blank">Mykola Ryzhenkov</a>)  </summary>
   
   | **Abstract**          |
   |:---------------------------|
-  | In the early phase of the COVID-19 crisis, China imposed widespread lockdowns to contain the virus. We study the spillovers from the lockdowns to the US economy. We find that sectors with a high exposure to intermediate goods imports from China experienced significantly larger declines in production, employment, imports, and exports. In addition, relative input and output prices increased in these sectors. At the peak of the recession in April 2020, output was 16% lower in sectors with a one standard deviation higher China exposure. The estimated effects on output, input, and inflation are short-lived and dissipate by summer 2020. |
+  | This paper uses Austrian social security records to analyze the effects of ECB monetary policy on the labor market. Our focus is on the role of worker and firm wage-components, defined by an Abowd et al. (1999) wage regression. Our findings show that monetary tightening causes the largest employment losses for low-paid workers who are employed in high-paying firms before the tightening. Monetary tightening further causes a reallocation of workers to lower-paying firms. In particular low-paid workers who were originally employed by low-paying firms are prone to falling down the firm wage ladder. |
   
  </details>
  <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.pdf" target="_blank">[Working Paper]</a> <a href="https://matthias-meier-econ.github.io/files/CovidEconomics48.pdf" target="_blank">[CEPR Covid Economics]</a>
