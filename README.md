@@ -88,7 +88,23 @@ Dates: 03-04 June 2022
 <details>
   <summary markdown="span"><font color="blue">Covid-19 Supply Chain Disruptions</font> [abstract]
     
-  (with <a href="https://www.federalreserve.gov/econres/eugenio-pinto.htm" target="_blank">Eugenio Pinto</a>)  <br />
+  (with <a href="https://www.federalreserve.gov/econres/eugenio-pinto.htm" target="_blank">Eugenio Pinto</a>)  </summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | This paper uses Austrian social security records to analyze the effects of ECB monetary policy on the labor market. Our focus is on the role of worker and firm wage-components, defined by an Abowd et al. (1999) wage regression. Our findings show that monetary tightening causes the largest employment losses for low-paid workers who are employed in high-paying firms before the tightening. Monetary tightening further causes a reallocation of workers to lower-paying firms. In particular low-paid workers who were originally employed by low-paying firms are prone to falling down the firm wage ladder. |
+  
+ </details>
+ <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.pdf" target="_blank">[Working Paper]</a> 
+ 
+----
+
+
+
+<details>
+  <summary markdown="span"><font color="blue">Labor Market Effects of Monetary Policy Across Workers and Firms</font> [abstract]
+    
+  (with <a href="https://sites.google.com/site/andreasgulyas" target="_blank">Andreas Gulyas</a> and <a href="https://gess.uni-mannheim.de/doctoral-programs/economics-cdse/students/people/show/mykola-ryzhenkov.html" target="_blank">Mykola Ryzhenkov</a>)  <br />
   <b> <i>European Economic Review, Revise and Resubmit </i> </b> </summary>
   
   | **Abstract**          |
@@ -99,6 +115,7 @@ Dates: 03-04 June 2022
  <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.pdf" target="_blank">[Working Paper]</a> <a href="https://matthias-meier-econ.github.io/files/CovidEconomics48.pdf" target="_blank">[CEPR Covid Economics]</a>
  
 ----
+
 
 
 <details>
@@ -191,15 +208,6 @@ Dates: 03-04 June 2022
  
  ----
  
- 
-<details>
-  <summary markdown="span">Labor Market Effects of Monetary Policy
-  
-  (with <a href="https://sites.google.com/site/andreasgulyas" target="_blank">Andreas Gulyas</a> and <a href="https://gess.uni-mannheim.de/doctoral-programs/economics-cdse/students/people/show/mykola-ryzhenkov.html" target="_blank">Mykola Ryzhenkov</a>)</summary>
-  
- </details>
- 
- ----
  
  
 <details>
