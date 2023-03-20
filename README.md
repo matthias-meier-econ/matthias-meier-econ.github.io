@@ -98,8 +98,27 @@ Dates: 03-04 June 2022
  </details>
  <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.pdf" target="_blank">[Working Paper]</a> <a href="https://matthias-meier-econ.github.io/files/CovidEconomics48.pdf" target="_blank">[CEPR Covid Economics]</a>
  
+
 ----
 
+
+<details>
+  <summary markdown="span"><font color="blue">Identification of Systematic Monetary Policy</font> [abstract]
+    
+  (with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hack</a> and <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a>)  </summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | We propose a novel identification design to estimate the causal effects of systematic monetary policy on the propagation of macroeconomic shocks. The design combines (i) a time-varying measure of systematic monetary policy based on the historical composition of hawks and doves in the Federal Open Market Committee (FOMC) with (ii) an instrument that leverages the mechanical FOMC rotation of voting rights. We apply our design to study the eff ects of government spending shocks. We find fiscal multipliers between two and three when the FOMC is dovish and below zero when it is hawkish. Narrative evidence from historical FOMC records corroborates our findings. |
+  
+ </details>
+ <a href="https://matthias-meier-econ.github.io/files/HIM_SysMP.pdf" target="_blank">[Working Paper]</a> 
+ 
+----
+
+
+
+----
 
 
 <details>
@@ -197,18 +216,8 @@ Dates: 03-04 June 2022
 
 ### Work in Progress:
 
-----
-
-<details>
-  <summary markdown="span">Identification of Systematic Monetary Policy
-  
-  (with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hack</a> and <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a>)</summary>
-  
- </details>
- 
  ----
- 
- 
+  
  
 <details>
   <summary markdown="span">Order Cancellations
