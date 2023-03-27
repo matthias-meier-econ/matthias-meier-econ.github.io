@@ -37,9 +37,6 @@ Dates: 03-04 June 2022
   <a href="https://matthias-meier-econ.github.io/files/GMM_DeltaMethod.pdf" target="_blank"><u>[Paper]</u></a> <a href="https://github.com/gafarovb/setSVARtoolbox" target="_blank"><u>[Matlab Toolbox on Github]</u></a>  <br />
   Best Paper Award in Applied Economics, Econometric Society European Meeting 2016
 <details> <summary markdown="span">[bibtex] </summary>
-  
-  | **Bibtex**          |
-  |:---------------------------|
   @ARTICLE{RePEc:eee:econom:v:203:y:2018:i:2:p:316-327,
 title = {Delta-method inference for a class of set-identified SVARs},
 author = {Gafarov, Bulat and Meier, Matthias and Montiel Olea, José Luis},
