@@ -36,6 +36,24 @@ Dates: 03-04 June 2022
   </details>
   <a href="https://matthias-meier-econ.github.io/files/GMM_DeltaMethod.pdf" target="_blank"><u>[Paper]</u></a> <a href="https://github.com/gafarovb/setSVARtoolbox" target="_blank"><u>[Matlab Toolbox on Github]</u></a>  <br />
   Best Paper Award in Applied Economics, Econometric Society European Meeting 2016
+<details> <summary markdown="span">[bibtex] </summary>
+  
+  | **Bibtex**          |
+  |:---------------------------|
+  | @ARTICLE{RePEc:eee:econom:v:203:y:2018:i:2:p:316-327,
+title = {Delta-method inference for a class of set-identified SVARs},
+author = {Gafarov, Bulat and Meier, Matthias and Montiel Olea, José Luis},
+year = {2018},
+journal = {Journal of Econometrics},
+volume = {203},
+number = {2},
+pages = {316-327},
+abstract = {We study vector autoregressions that impose equality and/or inequality restrictions to set-identify the dynamic responses to a single structural shock. We make three contributions. First, we present an algorithm to compute the largest and smallest value that an impulse-response coefficient can attain over its identified set. Second, we provide conditions under which these largest and smallest values are directionally differentiable functions of the model’s reduced-form parameters. Third, we propose a delta-method approach to conduct inference about the structural impulse-response coefficients. We use our results to assess the effects of the announcement of the Quantitative Easing program in August 2010.},
+keywords = {Set-identification; Sign restrictions; SVAR; Directional differentiability; Unconventional monetary policy;},
+url = {https://EconPapers.repec.org/RePEc:eee:econom:v:203:y:2018:i:2:p:316-327}
+} |
+  </details>
+  
 
 ----
 
