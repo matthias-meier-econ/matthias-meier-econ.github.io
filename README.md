@@ -79,8 +79,7 @@ Dates: 03-04 June 2022
   | We provide novel empirical evidence that firms' investment is more responsive to monetary policy when a higher fraction of their debt matures. In a heterogeneous firm New Keynesian model with financial frictions and endogenous debt maturity, two channels explain this finding: (1.) Firms with more maturing debt have larger roll-over needs and are therefore more exposed to fluctuations in the real interest rate (roll-over risk). (2.) These firms also have higher default risk and therefore react more strongly to changes in the real burden of outstanding nominal debt (debt overhang). In comparison to existing models, we show that a model which accounts for the maturity of debt and its distribution across firms implies larger aggregate effects of monetary policy. |
   
  </details>
- <a href="https://matthias-meier-econ.github.io/files/Debt_Maturity.pdf" target="_blank">[Working Paper]</a> 
- <a href="https://matthias-meier-econ.github.io/files/Debt_Maturity_CRC.pdf" target="_blank">[CRC Discussion Paper] </a> 
+ <a href="https://matthias-meier-econ.github.io/files/Debt_Maturity.pdf" target="_blank">[Working Paper]</a> <a href="https://matthias-meier-econ.github.io/files/Debt_Maturity_CRC.pdf" target="_blank">[CRC Discussion Paper] </a> <a href="https://matthias-meier-econ.github.io/files/Debt_Maturity_CRC.txt" target="_blank">[Bibtex] </a> 
  
  
 ----
