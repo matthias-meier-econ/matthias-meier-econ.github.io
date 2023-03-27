@@ -1,0 +1,6 @@
+@techreport{MM2019,
+  author={Mecikovsky, Ariel and Meier, Matthias},
+  title={Do plants freeze upon uncertainty shocks?},
+  year=2019,
+  type={mimeo}
+}
