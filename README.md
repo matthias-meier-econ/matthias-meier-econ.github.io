@@ -46,7 +46,7 @@ volume = {203},
 number = {2},
 pages = {316-327}
   }
-  </details>
+  </details>  <br />
   
 
 ----
