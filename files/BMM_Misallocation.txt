@@ -1,0 +1,6 @@
+@techreport{BMM2018,
+  author={Bayer, Christian and Mecikovsky, Ariel and and Meier, Matthias},
+  title={Misallocation: Markups and Technology},
+  year=2018,
+  type={mimeo}
+}
