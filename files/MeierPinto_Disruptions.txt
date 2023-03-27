@@ -1,0 +1,6 @@
+@techreport{MP2022,
+  author={Meier, Matthias and Pinto, Eugenio},
+  title={Covid-19 Supply Chain Disruptions},
+  year=2022,
+  type={mimeo}
+}
