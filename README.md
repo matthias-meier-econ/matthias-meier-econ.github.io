@@ -35,7 +35,7 @@ Dates: 03-04 June 2022
   
   </details>
   <a href="https://matthias-meier-econ.github.io/files/GMM_DeltaMethod.pdf" target="_blank">[Paper]</a> <a href="https://github.com/gafarovb/setSVARtoolbox" target="_blank">[Matlab Toolbox on Github]</a> <a href="https://matthias-meier-econ.github.io/files/GMM_DeltaMethod.txt" target="_blank">[Bibtex]</a> <br />
-  Best Paper Award in Applied Economics, Econometric Society European Meeting 2016 <br />
+  Best Paper Award in Applied Economics, Econometric Society European Meeting <br />
   
 
 ----
@@ -53,7 +53,7 @@ Dates: 03-04 June 2022
  </details>
  <a href="https://direct.mit.edu/rest/article/doi/10.1162/rest_a_01226/112434/Monetary-Policy-Markup-Dispersion-and-Aggregate" target="_blank">[Accepted paper]</a> <a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion.pdf" target="_blank">[Working Paper]</a> <a href="https://matthias-meier-econ.github.io/files/MeierReinelt2020_ECB.pdf" target="_blank">[ECB Working Paper] </a> 
  <br />
-  Received the 2019 <a href="https://www.ecb.europa.eu/pub/economic-research/programmes/lamfalussy/html/index.en.html" target="_blank">Lamfalussy Fellowship of the ECB </a>  
+  <a href="https://www.ecb.europa.eu/pub/economic-research/programmes/lamfalussy/html/index.en.html" target="_blank">Lamfalussy Fellowship of the ECB </a>  
                   
                   
   
