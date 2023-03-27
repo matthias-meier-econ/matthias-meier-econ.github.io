@@ -1,0 +1,9 @@
+@article{GMM2018, 
+title = {Delta-method inference for a class of set-identified SVARs},
+author = {Gafarov, Bulat and Meier, Matthias and {Montiel Olea}, José Luis},
+year = {2018},
+journal = {Journal of Econometrics},
+volume = {203},
+number = {2},
+pages = {316-327}
+}
