@@ -38,7 +38,7 @@ Dates: 03-04 June 2022
   Best Paper Award in Applied Economics, Econometric Society European Meeting 2016 <br />
   
 <details> <summary markdown="span">[bibtex] </summary>
-  @ARTICLE{RePEc:eee:econom:v:203:y:2018:i:2:p:316-327,
+  @ARTICLE{RePEc:eee:econom:v:203:y:2018:i:2:p:316-327, 
 title = {Delta-method inference for a class of set-identified SVARs},
 author = {Gafarov, Bulat and Meier, Matthias and Montiel Olea, José Luis},
 year = {2018},
