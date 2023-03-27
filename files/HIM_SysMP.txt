@@ -1,0 +1,7 @@
+@techreport{HIM2023,
+  author={Hack, Lukas and Istrefi, Klodiana and Meier, Matthias},
+  title={Identification of Systematic Monetary Policy},
+  year=2023,
+  type={CEPR Discussion Paper},
+  number={17999}
+}
