@@ -1,0 +1,6 @@
+@techreport{GMR2023,
+  author={Gulyas, Andreas and Meier, Matthias and Ryzhenkov, Mykola},
+  title={Labor Market Effects of Monetary Policy Across Workers and Firms},
+  year=2023,
+  type={mimeo}
+}
