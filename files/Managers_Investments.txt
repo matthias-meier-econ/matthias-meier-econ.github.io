@@ -1,0 +1,6 @@
+@techreport{SMSS2022,
+  author={Schymik, Jan and Meier, Matthias and Schramm, Alexander and Schwemmer, Alxander},
+  title={Capital (Mis)allocation, Incentives and Productivity},
+  year=2022,
+  type={mimeo}
+}
