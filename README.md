@@ -39,7 +39,7 @@ Dates: 03-04 June 2022
   
 <details> <summary markdown="span">[bibtex] </summary>
   |:---------------------------|
-  @ARTICLE{RePEc:eee:econom:v:203:y:2018:i:2:p:316-327, 
+  | @ARTICLE{RePEc:eee:econom:v:203:y:2018:i:2:p:316-327, 
 title = {Delta-method inference for a class of set-identified SVARs},
 author = {Gafarov, Bulat and Meier, Matthias and Montiel Olea, José Luis},
 year = {2018},
@@ -50,7 +50,7 @@ pages = {316-327},
 abstract = {We study vector autoregressions that impose equality and/or inequality restrictions to set-identify the dynamic responses to a single structural shock. We make three contributions. First, we present an algorithm to compute the largest and smallest value that an impulse-response coefficient can attain over its identified set. Second, we provide conditions under which these largest and smallest values are directionally differentiable functions of the model’s reduced-form parameters. Third, we propose a delta-method approach to conduct inference about the structural impulse-response coefficients. We use our results to assess the effects of the announcement of the Quantitative Easing program in August 2010.},
 keywords = {Set-identification; Sign restrictions; SVAR; Directional differentiability; Unconventional monetary policy;},
 url = {https://EconPapers.repec.org/RePEc:eee:econom:v:203:y:2018:i:2:p:316-327}
-} 
+}  | 
   </details>
   
 
