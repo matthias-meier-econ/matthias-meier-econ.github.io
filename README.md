@@ -96,7 +96,7 @@ Dates: 03-04 June 2022
   | In the early phase of the COVID-19 crisis, China imposed widespread lockdowns to contain the virus. We study the spillovers from the lockdowns to the US economy. We find that sectors with a high exposure to intermediate goods imports from China experienced significantly larger declines in production, employment, imports, and exports. In addition, relative input and output prices increased in these sectors. At the peak of the recession in April 2020, output was 16% lower in sectors with a one standard deviation higher China exposure. The estimated effects on output, input, and inflation are short-lived and dissipate by summer 2020. |
   
  </details>
- <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.pdf" target="_blank">[Working Paper]</a> <a href="https://matthias-meier-econ.github.io/files/CovidEconomics48.pdf" target="_blank">[CEPR Covid Economics]</a>
+ <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.pdf" target="_blank">[Working Paper]</a> <a href="https://matthias-meier-econ.github.io/files/CovidEconomics48.pdf" target="_blank">[CEPR Covid Economics]</a> <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.txt" target="_blank">[Bibtex]</a>
  
 
 ----
@@ -112,7 +112,7 @@ Dates: 03-04 June 2022
   | We propose a novel identification design to estimate the causal effects of systematic monetary policy on the propagation of macroeconomic shocks. The design combines (i) a time-varying measure of systematic monetary policy based on the historical composition of hawks and doves in the Federal Open Market Committee (FOMC) with (ii) an instrument that leverages the mechanical FOMC rotation of voting rights. We apply our design to study the eff ects of government spending shocks. We find fiscal multipliers between two and three when the FOMC is dovish and below zero when it is hawkish. Narrative evidence from historical FOMC records corroborates our findings. |
   
  </details>
- <a href="https://matthias-meier-econ.github.io/files/HIM_SysMP.pdf" target="_blank">[Working Paper]</a> <a href="https://cepr.org/publications/dp17999" target="_blank">[CEPR Discussion Paper]</a>
+ <a href="https://matthias-meier-econ.github.io/files/HIM_SysMP.pdf" target="_blank">[Working Paper]</a> <a href="https://cepr.org/publications/dp17999" target="_blank">[CEPR Discussion Paper]</a> <a href="https://matthias-meier-econ.github.io/files/HIM_SysMP.txt" target="_blank">[Bibtex]</a>
  
 
 ----
@@ -128,7 +128,7 @@ Dates: 03-04 June 2022
   | This paper uses Austrian social security records to analyze the effects of ECB monetary policy on the labor market. Our focus is on the role of worker and firm wage-components, defined by an Abowd et al. (1999) wage regression. Our findings show that monetary tightening causes the largest employment losses for low-paid workers who are employed in high-paying firms before the tightening. Monetary tightening further causes a reallocation of workers to lower-paying firms. In particular low-paid workers who were originally employed by low-paying firms are prone to falling down the firm wage ladder. |
   
  </details>
- <a href="https://matthias-meier-econ.github.io/files/Labor_Market_Effects_of_MP_Shocks.pdf" target="_blank">[Working Paper]</a> 
+ <a href="https://matthias-meier-econ.github.io/files/Labor_Market_Effects_of_MP_Shocks.pdf" target="_blank">[Working Paper]</a> <a href="https://matthias-meier-econ.github.io/files/Labor_Market_Effects_of_MP_Shocks.txt" target="_blank">[Bibtex]</a>
  
 ----
 
@@ -142,7 +142,7 @@ Dates: 03-04 June 2022
   | We provide new evidence that (i) time to build is volatile and countercyclical, and that (ii) supply chain disruptions lengthen time to build. Motivated by these findings, we develop a general equilibrium model in which heterogeneous firms face non-convex adjustment costs and multi-period time to build. In the model, supply chain disruptions lengthen time to build. Calibrating the model to US micro data, we show that disruptions, which lengthen time to build by 1 month, depress GDP by 1% and aggregate TFP by 0.2%. Structural vector autoregressions corroborate the quantitative importance of supply chain disruptions. |
   
  </details>
- <a href="https://matthias-meier-econ.github.io/files/Meier_TimeToBuild.pdf" target="_blank">[Working Paper]</a>
+ <a href="https://matthias-meier-econ.github.io/files/Meier_TimeToBuild.pdf" target="_blank">[Working Paper]</a> <a href="https://matthias-meier-econ.github.io/files/Meier_TimeToBuild.txt" target="_blank">[Bibtex]</a>
  
 ----
 
@@ -158,7 +158,7 @@ Dates: 03-04 June 2022
   | This paper argues that distorted managerial incentives can be a cause for within-ﬁrm capital misallocation. We document empirically that managers experiencing reductions in long-term incentives reallocate ﬁrm investments towards less durable assets. To quantify this channel of within-ﬁrm misallocation for the US economy, we then develop a model of dynamic ﬁrm investments under agency frictions. In the model, capital misallocation within ﬁrms is caused by short-termist incentives due to a too strong focus on current cash ﬂows implied by equity-bonus contracts. Our results show that short-termist incentives cause substantial wedges in the rates of return across capital goods within ﬁrms, lowering average productivity. |
   
  </details>
- <a href="https://matthias-meier-econ.github.io/files/Managers_Investments.pdf" target="_blank">[Working Paper]</a>
+ <a href="https://matthias-meier-econ.github.io/files/Managers_Investments.pdf" target="_blank">[Working Paper]</a> <a href="https://matthias-meier-econ.github.io/files/Managers_Investments.txt" target="_blank">[Bibtex]</a>
  
 ----
 
@@ -173,7 +173,7 @@ Dates: 03-04 June 2022
   | What explains the impact of uncertainty shocks on the economy? This paper uses highly disaggregated data on industry-level job flows to investigate the empirical relevance of various transmission channels of uncertainty shocks. The channels we consider are labor adjustment frictions, capital adjustment frictions, nominal ridigities, and financial frictions. For each channel, we derive testable implications regarding the response of job flows to uncertainty shocks. Empirically, uncertainty shocks lead to more job destruction and less job creation in more than 80% of all industries. The effect is significantly stronger in industries that face tighter financial constraints, which supports the financial frictions channel. In contrast, our evidence does not support the other three channels. |
   
  </details>
- <a href="https://matthias-meier-econ.github.io/files/MM_PlantsFreeze.pdf" target="_blank">[Working Paper]</a> <br />
+ <a href="https://matthias-meier-econ.github.io/files/MM_PlantsFreeze.pdf" target="_blank">[Working Paper]</a> <a href="https://matthias-meier-econ.github.io/files/MM_PlantsFreeze.txt" target="_blank">[Bibtex]</a>  <br />
  Best Student Paper Award, Real Options Group Conference Athens <br /> 
  Best Paper Award (runner-up), Spring Meeting of Young Economists Vienna
  
@@ -190,7 +190,7 @@ Dates: 03-04 June 2022
   | Hsieh and Klenow(2009) shows that misallocation creates large aggregate TFP losses, explains international TFP differences, and can be quantified through factor productivity dispersions. Using micro data from Chile, Colombia, Indonesia, and Germany, we show a substantial correlation in factor productivities across factors and therefore propose to decompose dispersion in factor productivities in dispersion in technology and markup instead. Relative to Germany, misallocation is larger in the developing economies. TFP losses from misallocation are explained to 1/3 by larger technology and to 2/3 by larger markup dispersion. Finally, we discuss market outcomes as potential sources of markup and technology dispersion. |
   
  </details>
- <a href="https://matthias-meier-econ.github.io/files/BMM_Misallocation.pdf" target="_blank">[Working Paper]</a>  
+ <a href="https://matthias-meier-econ.github.io/files/BMM_Misallocation.pdf" target="_blank">[Working Paper]</a> <a href="https://matthias-meier-econ.github.io/files/BMM_Misallocation.txt" target="_blank">[Bibtex]</a> 
  Best Paper Award (runner-up), European Workshop on Efficiency and Productivity Analysis Helsinki
  
 ----
@@ -206,7 +206,7 @@ Dates: 03-04 June 2022
   | We study the properties of projection inference for set-identified Structural Vector Autoregressions. A nominal 1−α projection region collects the structural parameters that are compatible with a 1−α Wald ellipsoid for the model’s reduced-form parameters (autoregressive coefficients and the covariance matrix of residuals). We show that projection inference can be applied to a general class of stationary models, is computationally feasible, and - as the sample size grows large — it produces regions that have both frequentist coverage and robust Bayesian credibility of at least 1−α. A drawback of the projection approach is that both coverage and robust credibility may be strictly above their nominal level. Following the recent work of Kaido, Molinari, and Stoye (2016), we ‘calibrate’ the radius of the Wald ellipsoid to guarantee that — for a given posterior on the reduced-form parameters — the projection method produces a region with robust Bayesian credibility of exactly 1−α. We illustrate the main results of the paper using the demand/supply-model for the U.S. labor market in Baumeister and Hamilton(2015). |
   	
  </details>
- <a href="https://matthias-meier-econ.github.io/files/GMM_Projection.pdf" target="_blank">[Working Paper]</a>  
+ <a href="https://matthias-meier-econ.github.io/files/GMM_Projection.pdf" target="_blank">[Working Paper]</a> <a href="https://matthias-meier-econ.github.io/files/GMM_Projection.txt" target="_blank">[Bibtex]</a>  
  
 ----
 
