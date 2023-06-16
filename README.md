@@ -122,7 +122,8 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 <details>
   <summary markdown="span"><font color="blue">Labor Market Effects of Monetary Policy Across Workers and Firms</font> [abstract]
     
-  (with <a href="https://sites.google.com/site/andreasgulyas" target="_blank">Andreas Gulyas</a> and <a href="https://gess.uni-mannheim.de/doctoral-programs/economics-cdse/students/people/show/mykola-ryzhenkov.html" target="_blank">Mykola Ryzhenkov</a>)  </summary>
+  (with <a href="https://sites.google.com/site/andreasgulyas" target="_blank">Andreas Gulyas</a> and <a href="https://gess.uni-mannheim.de/doctoral-programs/economics-cdse/students/people/show/mykola-ryzhenkov.html" target="_blank">Mykola Ryzhenkov</a>) <br />
+  <b> <i>European Economic Review, Revise and Resubmit </i> </b> </summary>
   
   | **Abstract**          |
   |:---------------------------|
