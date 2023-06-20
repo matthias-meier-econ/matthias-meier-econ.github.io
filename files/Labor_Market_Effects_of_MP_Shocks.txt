@@ -1,6 +1,9 @@
-@techreport{GMR2023,
-  author={Gulyas, Andreas and Meier, Matthias and Ryzhenkov, Mykola},
-  title={Labor Market Effects of Monetary Policy Across Workers and Firms},
+@TechReport{GMR2023,
+  author={Andreas Gulyas and Matthias Meier and Mykola Ryzhenkov},
+  title={{Labor Market Effects of Monetary Policy Across Workers and Firms}},
   year=2023,
-  type={mimeo}
+  month=Mar,
+  institution={University of Bonn and University of Mannheim, Germany},
+  type={CRC TR 224 Discussion Paper Series},
+  number={407}
 }
