@@ -225,7 +225,7 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
 <details>
   <summary markdown="span">Order Cancellations
   
-  (with <a href="http://janschymik.de" target="_blank">Jan Schymik</a>)</summary>
+  (with <a href="https://www.uni-mannheim.de/gess/programs/cdse/our-students/2021/bjarne-horst/" target="_blank">Bjarne Horst</a> and <a href="http://janschymik.de" target="_blank">Jan Schymik</a>)</summary>
   
  </details>
  
