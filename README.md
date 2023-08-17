@@ -3,7 +3,11 @@
 
 ### Welcome!
 
-I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a> and a principal investigator of the Bonn-Mannheim <a href="https://www.crctr224.de/" target="_blank">Collaborative Research Center TR 224</a> funded by the German Research Foundation (DFG). My research interests are Macroeconomics, International Economics, and Econometrics.
+I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a> 
+and a principal investigator of the Bonn-Mannheim <a href="https://www.crctr224.de/" target="_blank">Collaborative Research Center TR 224</a> funded by the German Research Foundation (DFG). 
+My research interests are Macroeconomics, Monetary Economics, International Economics, and Econometrics. <br />
+
+I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_blank">University of Bonn</a> from 08/2023 through 07/2024 and on leave from the University of Mannheim for the same period. 
 
 ----
 
