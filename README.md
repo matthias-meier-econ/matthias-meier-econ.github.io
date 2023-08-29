@@ -17,7 +17,7 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
 
 ### Workshop on Firm Heterogeneity and Macroeconomics
 
-### <font color="blue"> <a href="https://matthias-meier-econ.github.io/files/2023_Call_For_Papers_Bonn.pdf" target="_blank">2023 Workshop in Bonn: Call for Papers</a>  </font>
+### <font color="blue"> <a href="https://matthias-meier-econ.github.io/files/2023_Program_Firm_Heterogeneity.pdf" target="_blank">2023 Workshop in Bonn: Schedule</a>  </font>
 
 <font color="blue"> <a href="https://matthias-meier-econ.github.io/files/Program_June_2022.pdf" target="_blank">2022 Workshop in Mannheim: Schedule</a>  </font> <br />
 
