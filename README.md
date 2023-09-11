@@ -24,7 +24,7 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
 
 ----
 
-### Publications:
+### Published and accepted papers:
 
 ----
 
@@ -49,7 +49,7 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
   <summary markdown="span"><font color="blue">Monetary Policy, Markup Dispersion, and Aggregate TFP</font> [abstract]
     
   (with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>)  <br />
-  <b> <i>Review of Economics and Statistics</i></b>, 2022  </summary>
+  <b> <i>Review of Economics and Statistics</i></b>, accepted 2022  </summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -94,7 +94,7 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
   <summary markdown="span"><font color="blue">Covid-19 Supply Chain Disruptions</font> [abstract]
     
   (with <a href="https://www.federalreserve.gov/econres/eugenio-pinto.htm" target="_blank">Eugenio Pinto</a>)  <br />
-  <b> <i>European Economic Review, Revise and Resubmit </i> </b> </summary>
+  <b> <i>European Economic Review, Conditionally Accepted </i> </b> </summary>
   
   | **Abstract**          |
   |:---------------------------|
