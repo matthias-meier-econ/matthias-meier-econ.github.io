@@ -36,7 +36,7 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
   
   | **Abstract**          |
   |:---------------------------|
-  | We study vector autoregressions that impose equality and/or inequality restrictions to set-identify the dynamic responses to a single structural shock. We make three contributions. First, we present analgorithm to compute the largest and smallest value that an impulse-response coefficient can attain over its identified set. Second, we provide conditions under which these largest and smallest values are directionally differentiable functions of the model’s reduced-form parameters. Third, we propose a delta-method approach to conduct inference about the structural impulse-response coefficients. We use our results to assess the effects of the announcement of the Quantitative Easing program in August 2010. |
+  | We study vector autoregressions that impose equality and/or inequality restrictions to set-identify the dynamic responses to a single structural shock. We make three contributions. First, we present an algorithm to compute the largest and smallest value that an impulse-response coefficient can attain over its identified set. Second, we provide conditions under which these largest and smallest values are directionally differentiable functions of the model’s reduced-form parameters. Third, we propose a delta-method approach to conduct inference about the structural impulse-response coefficients. We use our results to assess the effects of the announcement of the Quantitative Easing program in August 2010. |
   
   </details>
   <a href="https://matthias-meier-econ.github.io/files/GMM_DeltaMethod.pdf" target="_blank">[Paper]</a> <a href="https://github.com/gafarovb/setSVARtoolbox" target="_blank">[Matlab Toolbox on Github]</a> <a href="https://matthias-meier-econ.github.io/files/GMM_DeltaMethod.txt" target="_blank">[Bibtex]</a> <br />
@@ -62,6 +62,22 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
                   
                   
   
+----
+
+
+<details>
+  <summary markdown="span"><font color="blue">Covid-19 Supply Chain Disruptions</font> [abstract]
+    
+  (with <a href="https://www.federalreserve.gov/econres/eugenio-pinto.htm" target="_blank">Eugenio Pinto</a>)  <br />
+  <b> <i>European Economic Review</i></b>, conditionally accepted 2023 </summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | In the early phase of the COVID-19 crisis, China imposed widespread lockdowns to contain the virus. We study the spillovers from the lockdowns to the US economy. We find that sectors with a high exposure to intermediate goods imports from China experienced significantly larger declines in production, employment, imports, and exports. In addition, relative input and output prices increased in these sectors. At the peak of the recession in April 2020, output was 16% lower in sectors with a one standard deviation higher China exposure. The estimated effects on output, input, and inflation are short-lived and dissipate by summer 2020. |
+  
+ </details>
+ <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.pdf" target="_blank">[Working Paper]</a> <a href="https://matthias-meier-econ.github.io/files/CovidEconomics48.pdf" target="_blank">[CEPR Covid Economics]</a> <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.txt" target="_blank">[Bibtex]</a>
+ 
 
  
 ----
@@ -77,7 +93,7 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
   <summary markdown="span"><font color="blue">Corporate Debt Maturity Matters for Monetary Policy</font> [abstract]
     
   (with <a href="http://joachimjungherr.com/" target="_blank">Joachim Jungherr</a>, <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a> and <a href="https://sites.google.com/site/immoschott/" target="_blank">Immo Schott</a>)  <br />
-  <b> <i>Review of Economic Studies, Revise and Resubmit </i> </b> </summary>
+  <b> <i>Review of Economic Studies, revise and resubmit </i> </b> </summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -87,22 +103,6 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
  <a href="https://matthias-meier-econ.github.io/files/Debt_Maturity.pdf" target="_blank">[Working Paper]</a> <a href="https://matthias-meier-econ.github.io/files/Debt_Maturity_CRC.pdf" target="_blank">[CRC Discussion Paper] </a> <a href="https://matthias-meier-econ.github.io/files/Debt_Maturity_CRC.txt" target="_blank">[Bibtex] </a> 
  
  
-----
-
-
-<details>
-  <summary markdown="span"><font color="blue">Covid-19 Supply Chain Disruptions</font> [abstract]
-    
-  (with <a href="https://www.federalreserve.gov/econres/eugenio-pinto.htm" target="_blank">Eugenio Pinto</a>)  <br />
-  <b> <i>European Economic Review, Conditionally Accepted </i> </b> </summary>
-  
-  | **Abstract**          |
-  |:---------------------------|
-  | In the early phase of the COVID-19 crisis, China imposed widespread lockdowns to contain the virus. We study the spillovers from the lockdowns to the US economy. We find that sectors with a high exposure to intermediate goods imports from China experienced significantly larger declines in production, employment, imports, and exports. In addition, relative input and output prices increased in these sectors. At the peak of the recession in April 2020, output was 16% lower in sectors with a one standard deviation higher China exposure. The estimated effects on output, input, and inflation are short-lived and dissipate by summer 2020. |
-  
- </details>
- <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.pdf" target="_blank">[Working Paper]</a> <a href="https://matthias-meier-econ.github.io/files/CovidEconomics48.pdf" target="_blank">[CEPR Covid Economics]</a> <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.txt" target="_blank">[Bibtex]</a>
- 
 
 ----
 
@@ -111,7 +111,7 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
   <summary markdown="span"><font color="blue">Labor Market Effects of Monetary Policy Across Workers and Firms</font> [abstract]
     
   (with <a href="https://sites.google.com/site/andreasgulyas" target="_blank">Andreas Gulyas</a> and <a href="https://gess.uni-mannheim.de/doctoral-programs/economics-cdse/students/people/show/mykola-ryzhenkov.html" target="_blank">Mykola Ryzhenkov</a>) <br />
-  <b> <i>European Economic Review, Revise and Resubmit </i> </b> </summary>
+  <b> <i>European Economic Review, revise and resubmit </i> </b> </summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -132,7 +132,7 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
   
   | **Abstract**          |
   |:---------------------------|
-  | We propose a novel identification design to estimate the causal effects of systematic monetary policy on the propagation of macroeconomic shocks. The design combines (i) a time-varying measure of systematic monetary policy based on the historical composition of hawks and doves in the Federal Open Market Committee (FOMC) with (ii) an instrument that leverages the mechanical FOMC rotation of voting rights. We apply our design to study the eff ects of government spending shocks. We find fiscal multipliers between two and three when the FOMC is dovish and below zero when it is hawkish. Narrative evidence from historical FOMC records corroborates our findings. |
+  | We propose a novel identification design to estimate the causal effects of systematic monetary policy on the propagation of macroeconomic shocks. The design combines (i) a time-varying measure of systematic monetary policy based on the historical composition of hawks and doves in the Federal Open Market Committee (FOMC) with (ii) an instrument that leverages the mechanical FOMC rotation of voting rights. We apply our design to study the effects of government spending shocks. We find fiscal multipliers between two and three when the FOMC is dovish and below zero when it is hawkish. Narrative evidence from historical FOMC records corroborates our findings. |
   
  </details>
  <a href="https://matthias-meier-econ.github.io/files/HIM_SysMP.pdf" target="_blank">[Working Paper]</a> <a href="https://cepr.org/publications/dp17999" target="_blank">[CEPR Discussion Paper]</a> <a href="https://matthias-meier-econ.github.io/files/HIM_SysMP.txt" target="_blank">[Bibtex]</a>
