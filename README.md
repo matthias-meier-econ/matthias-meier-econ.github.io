@@ -66,7 +66,7 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
 
 
 <details>
-  <summary markdown="span"><font color="blue">Covid-19 Supply Chain Disruptions</font> [abstract]
+  <summary markdown="span"><font color="blue">COVID-19 Supply Chain Disruptions</font> [abstract]
     
   (with <a href="https://www.federalreserve.gov/econres/eugenio-pinto.htm" target="_blank">Eugenio Pinto</a>)  <br />
   <b> <i>European Economic Review</i></b>, conditionally accepted 2023 </summary>
