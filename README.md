@@ -24,7 +24,7 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
 
 ----
 
-### Published and accepted papers:
+### Published and Accepted Papers:
 
 ----
 
