@@ -49,7 +49,7 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
   <summary markdown="span"><font color="blue">Monetary Policy, Markup Dispersion, and Aggregate TFP</font> [abstract]
     
   (with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>)  <br />
-  <b> <i>Review of Economics and Statistics</i></b>, accepted 2022  </summary>
+  <b> <i>Review of Economics and Statistics</i></b>, accepted for publication  </summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -69,7 +69,7 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
   <summary markdown="span"><font color="blue">COVID-19 Supply Chain Disruptions</font> [abstract]
     
   (with <a href="https://www.federalreserve.gov/econres/eugenio-pinto.htm" target="_blank">Eugenio Pinto</a>)  <br />
-  <b> <i>European Economic Review</i></b>, conditionally accepted 2023 </summary>
+  <b> <i>European Economic Review</i></b>, accepted for publication </summary>
   
   | **Abstract**          |
   |:---------------------------|
