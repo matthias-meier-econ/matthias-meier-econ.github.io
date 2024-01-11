@@ -77,7 +77,7 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
   
  </details>
  <a href="https://authors.elsevier.com/sd/article/S0014-2921(24)00003-5" target="_blank">[Paper]</a> 
- <a href="" target="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.pdf">[Working Paper]</a> 
+ <a href="target="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.pdf">[Working Paper]</a> 
  <a href="https://matthias-meier-econ.github.io/files/CovidEconomics48.pdf" target="_blank">[CEPR Covid Economics]</a> 
  <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.txt" target="_blank">[Bibtex]</a>
  
