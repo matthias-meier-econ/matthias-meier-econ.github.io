@@ -28,22 +28,7 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
 
 ### Published and Accepted Papers:
 
-----
 
-<details>
-  <summary markdown="span"><font color="blue">Delta-Method inference for a class of set-identiﬁed SVARs </font> [abstract]
-    
-  (with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafarov</a> and <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea</a>) <br />
-    <b> <i>Journal of Econometrics</i></b>, 2018 </summary>
-  
-  | **Abstract**          |
-  |:---------------------------|
-  | We study vector autoregressions that impose equality and/or inequality restrictions to set-identify the dynamic responses to a single structural shock. We make three contributions. First, we present an algorithm to compute the largest and smallest value that an impulse-response coefficient can attain over its identified set. Second, we provide conditions under which these largest and smallest values are directionally differentiable functions of the model’s reduced-form parameters. Third, we propose a delta-method approach to conduct inference about the structural impulse-response coefficients. We use our results to assess the effects of the announcement of the Quantitative Easing program in August 2010. |
-  
-  </details>
-  <a href="https://matthias-meier-econ.github.io/files/GMM_DeltaMethod.pdf" target="_blank">[Paper]</a> <a href="https://github.com/gafarovb/setSVARtoolbox" target="_blank">[Matlab Toolbox on Github]</a> <a href="https://matthias-meier-econ.github.io/files/GMM_DeltaMethod.txt" target="_blank">[Bibtex]</a> <br />
-  Best Paper Award in Applied Economics, Econometric Society European Meeting <br />
-  
 
 ----
 
@@ -78,12 +63,28 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
   | In the early phase of the COVID-19 crisis, China imposed widespread lockdowns to contain the virus. We study the spillovers from the lockdowns to the US economy. We find that sectors with a high exposure to intermediate goods imports from China experienced significantly larger declines in production, employment, imports, and exports. In addition, relative input and output prices increased in these sectors. At the peak of the recession in April 2020, output was 16% lower in sectors with a one standard deviation higher China exposure. The estimated effects on output, input, and inflation are short-lived and dissipate by summer 2020. |
   
  </details>
- <a href="https://authors.elsevier.com/sd/article/S0014-2921(24)00003-5" target="_blank">[Paper]</a> 
+ <a href="https://doi.org/10.1016/j.euroecorev.2024.104674" target="_blank">[Paper]</a> 
  <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.pdf" target="_blank">[Working Paper]</a> 
  <a href="https://matthias-meier-econ.github.io/files/CovidEconomics48.pdf" target="_blank">[CEPR Covid Economics]</a> 
  <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.txt" target="_blank">[Bibtex]</a>
  
 
+----
+
+<details>
+  <summary markdown="span"><font color="blue">Delta-Method inference for a class of set-identiﬁed SVARs </font> [abstract]
+    
+  (with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafarov</a> and <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea</a>) <br />
+    <b> <i>Journal of Econometrics</i></b>, 2018 </summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | We study vector autoregressions that impose equality and/or inequality restrictions to set-identify the dynamic responses to a single structural shock. We make three contributions. First, we present an algorithm to compute the largest and smallest value that an impulse-response coefficient can attain over its identified set. Second, we provide conditions under which these largest and smallest values are directionally differentiable functions of the model’s reduced-form parameters. Third, we propose a delta-method approach to conduct inference about the structural impulse-response coefficients. We use our results to assess the effects of the announcement of the Quantitative Easing program in August 2010. |
+  
+  </details>
+  <a href="https://matthias-meier-econ.github.io/files/GMM_DeltaMethod.pdf" target="_blank">[Paper]</a> <a href="https://github.com/gafarovb/setSVARtoolbox" target="_blank">[Matlab Toolbox on Github]</a> <a href="https://matthias-meier-econ.github.io/files/GMM_DeltaMethod.txt" target="_blank">[Bibtex]</a> <br />
+  Best Paper Award in Applied Economics, Econometric Society European Meeting <br />
+  
  
 ----
 
