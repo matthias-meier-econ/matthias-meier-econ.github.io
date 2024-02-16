@@ -57,14 +57,14 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
   <summary markdown="span"><font color="blue">COVID-19 Supply Chain Disruptions</font> [abstract]
     
   (with <a href="https://www.federalreserve.gov/econres/eugenio-pinto.htm" target="_blank">Eugenio Pinto</a>)  <br />
-  <b> <i>European Economic Review</i></b>, accepted for publication </summary>
+  <b> <i>European Economic Review</i></b>, 2024 </summary>
   
   | **Abstract**          |
   |:---------------------------|
   | In the early phase of the COVID-19 crisis, China imposed widespread lockdowns to contain the virus. We study the spillovers from the lockdowns to the US economy. We find that sectors with a high exposure to intermediate goods imports from China experienced significantly larger declines in production, employment, imports, and exports. In addition, relative input and output prices increased in these sectors. At the peak of the recession in April 2020, output was 16% lower in sectors with a one standard deviation higher China exposure. The estimated effects on output, input, and inflation are short-lived and dissipate by summer 2020. |
   
  </details>
- <a href="https://doi.org/10.1016/j.euroecorev.2024.104674" target="_blank">[Paper]</a> 
+ <a href="https://matthias-meier-econ.github.io/files/MeierPinto_EER.pdf" target="_blank">[Paper]</a> 
  <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.pdf" target="_blank">[Working Paper]</a> 
  <a href="https://matthias-meier-econ.github.io/files/CovidEconomics48.pdf" target="_blank">[CEPR Covid Economics]</a> 
  <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.txt" target="_blank">[Bibtex]</a>
