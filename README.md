@@ -37,7 +37,7 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
   <summary markdown="span"><font color="blue">Monetary Policy, Markup Dispersion, and Aggregate TFP</font> [abstract]
     
   (with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>)  <br />
-  <b> <i>Review of Economics and Statistics</i></b>, forthcoming  </summary>
+  <b> <i>Review of Economics and Statistics</i></b>, forthcoming (accepted in 2022) </summary>
   
   | **Abstract**          |
   |:---------------------------|
