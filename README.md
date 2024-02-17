@@ -155,19 +155,6 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
 
 ----
 
-<details>
-  <summary markdown="span"><font color="blue">Supply Chain Disruptions, Time to Build and the Business Cycle</font> [abstract] </summary>
-  
-  | **Abstract**          |
-  |:---------------------------|
-  | We provide new evidence that (i) time to build is volatile and countercyclical, and that (ii) supply chain disruptions lengthen time to build. Motivated by these findings, we develop a general equilibrium model in which heterogeneous firms face non-convex adjustment costs and multi-period time to build. In the model, supply chain disruptions lengthen time to build. Calibrating the model to US micro data, we show that disruptions, which lengthen time to build by 1 month, depress GDP by 1% and aggregate TFP by 0.2%. Structural vector autoregressions corroborate the quantitative importance of supply chain disruptions. |
-  
- </details>
- <a href="https://matthias-meier-econ.github.io/files/Meier_TimeToBuild.pdf" target="_blank">[Working Paper]</a> <a href="https://matthias-meier-econ.github.io/files/Meier_TimeToBuild.txt" target="_blank">[Bibtex]</a>
- 
-----
-
-
 
 <details>
   <summary markdown="span"><font color="blue">Capital (Mis)allocation, Incentives and Productivity</font> [abstract] 
@@ -180,6 +167,21 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
   
  </details>
  <a href="https://matthias-meier-econ.github.io/files/Managers_Investments.pdf" target="_blank">[Working Paper]</a> <a href="https://matthias-meier-econ.github.io/files/Managers_Investments.txt" target="_blank">[Bibtex]</a>
+
+ 
+----
+
+
+
+<details>
+  <summary markdown="span"><font color="blue">Supply Chain Disruptions, Time to Build and the Business Cycle</font> [abstract] </summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | We provide new evidence that (i) time to build is volatile and countercyclical, and that (ii) supply chain disruptions lengthen time to build. Motivated by these findings, we develop a general equilibrium model in which heterogeneous firms face non-convex adjustment costs and multi-period time to build. In the model, supply chain disruptions lengthen time to build. Calibrating the model to US micro data, we show that disruptions, which lengthen time to build by 1 month, depress GDP by 1% and aggregate TFP by 0.2%. Structural vector autoregressions corroborate the quantitative importance of supply chain disruptions. |
+  
+ </details>
+ <a href="https://matthias-meier-econ.github.io/files/Meier_TimeToBuild.pdf" target="_blank">[Working Paper]</a> <a href="https://matthias-meier-econ.github.io/files/Meier_TimeToBuild.txt" target="_blank">[Bibtex]</a>
  
 ----
 
