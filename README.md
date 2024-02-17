@@ -183,7 +183,9 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
   | We provide new evidence that (i) time to build is volatile and countercyclical, and that (ii) supply chain disruptions lengthen time to build. Motivated by these findings, we develop a general equilibrium model in which heterogeneous firms face non-convex adjustment costs and multi-period time to build. In the model, supply chain disruptions lengthen time to build. Calibrating the model to US micro data, we show that disruptions, which lengthen time to build by 1 month, depress GDP by 1% and aggregate TFP by 0.2%. Structural vector autoregressions corroborate the quantitative importance of supply chain disruptions. |
   
  </details>
- <a href="https://matthias-meier-econ.github.io/files/Meier_TimeToBuild.pdf" target="_blank">[Working Paper]</a> <a href="https://matthias-meier-econ.github.io/files/Meier_TimeToBuild.txt" target="_blank">[Bibtex]</a>
+ <a href="https://matthias-meier-econ.github.io/files/Meier_TimeToBuild.pdf" target="_blank">[Working Paper]</a> 
+ <a href="https://www.crctr224.de/research/discussion-papers/archive/dp160" target="_blank">[CRC Discussion Paper]</a> 
+ <a href="https://matthias-meier-econ.github.io/files/Meier_TimeToBuild.txt" target="_blank">[Bibtex]</a>
  
 ----
 
