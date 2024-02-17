@@ -192,7 +192,7 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
   
  </details>
  <a href="https://matthias-meier-econ.github.io/files/Meier_TimeToBuild.pdf" target="_blank">[Working Paper]</a> 
- <a href="https://www.crctr224.de/research/discussion-papers/archive/dp160" target="_blank">[CRC Discussion Paper]</a> 
+ <a href="https://matthias-meier-econ.github.io/files/Meier_TimeToBuild_CRC.pdf" target="_blank">[CRC Discussion Paper]</a> 
  <a href="https://matthias-meier-econ.github.io/files/Meier_TimeToBuild.txt" target="_blank">[Bibtex]</a>
  
 ----
