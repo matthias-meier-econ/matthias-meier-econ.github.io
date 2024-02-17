@@ -209,7 +209,7 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
   
  </details>
  <a href="https://matthias-meier-econ.github.io/files/MM_PlantsFreeze.pdf" target="_blank">[Working Paper]</a> 
- <a href="https://www.crctr224.de/research/discussion-papers/archive/dp075" target="_blank">[CRC Discussion Paper]</a> 
+ <a href="https://matthias-meier-econ.github.io/files/MM_PlantsFreeze_CRC.pdf" target="_blank">[CRC Discussion Paper]</a> 
  <a href="https://matthias-meier-econ.github.io/files/MM_PlantsFreeze.txt" target="_blank">[Bibtex]</a>  <br />
  Best Student Paper Award, Real Options Group Conference Athens <br /> 
  Best Paper Award (runner-up), Spring Meeting of Young Economists Vienna
