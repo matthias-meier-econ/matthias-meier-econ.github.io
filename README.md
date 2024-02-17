@@ -72,6 +72,7 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
  <a href="https://matthias-meier-econ.github.io/files/MeierPinto_EER.pdf" target="_blank">[Published Paper]</a> 
  <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.pdf" target="_blank">[Working Paper]</a> 
  <a href="https://matthias-meier-econ.github.io/files/CovidEconomics48.pdf" target="_blank">[CEPR Covid Economics]</a> 
+ <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions_CRC.pdf" target="_blank">[CRC Discussion Paper]</a> 
  <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.txt" target="_blank">[Bibtex]</a>
  
 
