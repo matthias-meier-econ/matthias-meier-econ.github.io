@@ -44,7 +44,12 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
   | Motivated by empirical evidence that monetary policy affects aggregate TFP, we study the role of markup dispersion for monetary transmission. Empirically, we show that the response of markup dispersion to monetary policy shocks can account for a significant fraction of the aggregate TFP response in the first two years after the shock. Analytically, we show that heterogeneous price rigidity can explain the response of markup dispersion if firms have a precautionary price setting motive, which is present in common New Keynesian environments. We provide empirical evidence on the relationship between markups and price rigidity in support of this explanation. Finally, we study the mechanism and its implications in a quantitative model. |
   
  </details>
- <a href="https://direct.mit.edu/rest/article/doi/10.1162/rest_a_01226/112434/Monetary-Policy-Markup-Dispersion-and-Aggregate" target="_blank">[Paper]</a> <a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion.pdf" target="_blank">[Working Paper]</a> <a href="https://matthias-meier-econ.github.io/files/MeierReinelt2020_ECB.pdf" target="_blank">[ECB Working Paper] </a> <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5JJ6OE" target="_blank">[Replication Files] </a> <a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion.txt" target="_blank">[Bibtex]</a>
+ <a href="https://direct.mit.edu/rest/article/doi/10.1162/rest_a_01226/112434/Monetary-Policy-Markup-Dispersion-and-Aggregate" target="_blank">[Forthcoming Paper]</a> 
+ <a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion.pdf" target="_blank">[Working Paper]</a> 
+ <a href="https://matthias-meier-econ.github.io/files/MeierReinelt2020_ECB.pdf" target="_blank">[ECB Working Paper] </a> 
+ <a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion_CRC.pdf" target="_blank">[CRC Discussion Paper]</a> 
+ <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5JJ6OE" target="_blank">[Replication Files] </a> 
+ <a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion.txt" target="_blank">[Bibtex]</a>
  <br />
   Lamfalussy Fellowship of the ECB  
                   
@@ -64,7 +69,7 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
   | In the early phase of the COVID-19 crisis, China imposed widespread lockdowns to contain the virus. We study the spillovers from the lockdowns to the US economy. We find that sectors with a high exposure to intermediate goods imports from China experienced significantly larger declines in production, employment, imports, and exports. In addition, relative input and output prices increased in these sectors. At the peak of the recession in April 2020, output was 16% lower in sectors with a one standard deviation higher China exposure. The estimated effects on output, input, and inflation are short-lived and dissipate by summer 2020. |
   
  </details>
- <a href="https://matthias-meier-econ.github.io/files/MeierPinto_EER.pdf" target="_blank">[Paper]</a> 
+ <a href="https://matthias-meier-econ.github.io/files/MeierPinto_EER.pdf" target="_blank">[Published Paper]</a> 
  <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.pdf" target="_blank">[Working Paper]</a> 
  <a href="https://matthias-meier-econ.github.io/files/CovidEconomics48.pdf" target="_blank">[CEPR Covid Economics]</a> 
  <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.txt" target="_blank">[Bibtex]</a>
@@ -83,7 +88,9 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
   | We study vector autoregressions that impose equality and/or inequality restrictions to set-identify the dynamic responses to a single structural shock. We make three contributions. First, we present an algorithm to compute the largest and smallest value that an impulse-response coefficient can attain over its identified set. Second, we provide conditions under which these largest and smallest values are directionally differentiable functions of the model’s reduced-form parameters. Third, we propose a delta-method approach to conduct inference about the structural impulse-response coefficients. We use our results to assess the effects of the announcement of the Quantitative Easing program in August 2010. |
   
   </details>
-  <a href="https://matthias-meier-econ.github.io/files/GMM_DeltaMethod.pdf" target="_blank">[Paper]</a> <a href="https://github.com/gafarovb/setSVARtoolbox" target="_blank">[Matlab Toolbox on Github]</a> <a href="https://matthias-meier-econ.github.io/files/GMM_DeltaMethod.txt" target="_blank">[Bibtex]</a> <br />
+  <a href="https://matthias-meier-econ.github.io/files/GMM_DeltaMethod.pdf" target="_blank">[Published Paper]</a> 
+  <a href="https://github.com/gafarovb/setSVARtoolbox" target="_blank">[Matlab Toolbox on Github]</a> 
+  <a href="https://matthias-meier-econ.github.io/files/GMM_DeltaMethod.txt" target="_blank">[Bibtex]</a> <br />
   Best Paper Award in Applied Economics, Econometric Society European Meeting <br />
   
  
