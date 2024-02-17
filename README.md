@@ -107,7 +107,9 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
   | We provide novel empirical evidence that firms' investment is more responsive to monetary policy when a higher fraction of their debt matures. In a heterogeneous firm New Keynesian model with financial frictions and endogenous debt maturity, two channels explain this finding: (1.) Firms with more maturing debt have larger roll-over needs and are therefore more exposed to fluctuations in the real interest rate (roll-over risk). (2.) These firms also have higher default risk and therefore react more strongly to changes in the real burden of outstanding nominal debt (debt overhang). In comparison to existing models, we show that a model which accounts for the maturity of debt and its distribution across firms implies larger aggregate effects of monetary policy. |
   
  </details>
- <a href="https://matthias-meier-econ.github.io/files/Debt_Maturity.pdf" target="_blank">[Working Paper]</a> <a href="https://matthias-meier-econ.github.io/files/Debt_Maturity_CRC.pdf" target="_blank">[CRC Discussion Paper] </a> <a href="https://matthias-meier-econ.github.io/files/Debt_Maturity_CRC.txt" target="_blank">[Bibtex] </a> 
+ <a href="https://matthias-meier-econ.github.io/files/Debt_Maturity.pdf" target="_blank">[Working Paper]</a> 
+ <a href="https://matthias-meier-econ.github.io/files/Debt_Maturity_CRC.pdf" target="_blank">[CRC Discussion Paper] </a> 
+ <a href="https://matthias-meier-econ.github.io/files/Debt_Maturity_CRC.txt" target="_blank">[Bibtex] </a> 
  
  
 
@@ -125,7 +127,9 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
   | This paper uses Austrian social security records to analyze the effects of ECB monetary policy on the labor market. Our focus is on the role of worker and firm wage-components, defined by an Abowd et al. (1999) wage regression. Our findings show that monetary tightening causes the largest employment losses for low-paid workers who are employed in high-paying firms before the tightening. Monetary tightening further causes a reallocation of workers to lower-paying firms. In particular low-paid workers who were originally employed by low-paying firms are prone to falling down the firm wage ladder. |
   
  </details>
- <a href="https://matthias-meier-econ.github.io/files/Labor_Market_Effects_of_MP_Shocks.pdf" target="_blank">[Working Paper]</a> <a href="https://matthias-meier-econ.github.io/files/Labor_Market_Effects_of_MP_Shocks.txt" target="_blank">[Bibtex]</a>
+ <a href="https://matthias-meier-econ.github.io/files/Labor_Market_Effects_of_MP_Shocks.pdf" target="_blank">[Working Paper]</a> 
+ <a href="https://matthias-meier-econ.github.io/files/Labor_Market_Effects_of_MP_Shocks_CRC.pdf" target="_blank">[CRC Discussion Paper]</a> 
+ <a href="https://matthias-meier-econ.github.io/files/Labor_Market_Effects_of_MP_Shocks.txt" target="_blank">[Bibtex]</a>
 
  
 ----
