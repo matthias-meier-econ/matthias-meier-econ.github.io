@@ -219,7 +219,9 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
   | Hsieh and Klenow(2009) shows that misallocation creates large aggregate TFP losses, explains international TFP differences, and can be quantified through factor productivity dispersions. Using micro data from Chile, Colombia, Indonesia, and Germany, we show a substantial correlation in factor productivities across factors and therefore propose to decompose dispersion in factor productivities in dispersion in technology and markup instead. Relative to Germany, misallocation is larger in the developing economies. TFP losses from misallocation are explained to 1/3 by larger technology and to 2/3 by larger markup dispersion. Finally, we discuss market outcomes as potential sources of markup and technology dispersion. |
   
  </details>
- <a href="https://matthias-meier-econ.github.io/files/BMM_Misallocation.pdf" target="_blank">[Working Paper]</a> <a href="https://matthias-meier-econ.github.io/files/BMM_Misallocation.txt" target="_blank">[Bibtex]</a>  <br />
+ <a href="https://matthias-meier-econ.github.io/files/BMM_Misallocation.pdf" target="_blank">[Working Paper]</a> 
+ <a href="https://cepr.org/publications/dp12727" target="_blank">[CEPR Discussion Paper]</a> 
+ <a href="https://matthias-meier-econ.github.io/files/BMM_Misallocation.txt" target="_blank">[Bibtex]</a>  <br />
  Best Paper Award (runner-up), European Workshop on Efficiency and Productivity Analysis Helsinki
  
 ----
