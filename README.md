@@ -150,6 +150,7 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
  <a href="https://cepr.org/publications/dp17999" target="_blank">[CEPR Discussion Paper]</a> 
  <a href="https://cepr.org/voxeu/columns/hawkish-or-dovish-central-bankers-different-flocks-and-fiscal-shocks" target="_blank">[VoxEU Column]</a> 
  <a href="https://www.ecb.europa.eu/pub/economic-research/resbull/2023/html/ecb.rb231219~159bb78c3e.en.html" target="_blank">[ECB Research Bulletin]</a> 
+ <a href="https://www.crctr224.de/research/discussion-papers/archive/dp408" target="_blank">[CRC Discussion Paper]</a> 
  <a href="https://matthias-meier-econ.github.io/files/HIM_SysMP.txt" target="_blank">[Bibtex]</a>
  
 
@@ -166,7 +167,8 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
   | This paper argues that distorted managerial incentives can be a cause for within-ﬁrm capital misallocation. We document empirically that managers experiencing reductions in long-term incentives reallocate ﬁrm investments towards less durable assets. To quantify this channel of within-ﬁrm misallocation for the US economy, we then develop a model of dynamic ﬁrm investments under agency frictions. In the model, capital misallocation within ﬁrms is caused by short-termist incentives due to a too strong focus on current cash ﬂows implied by equity-bonus contracts. Our results show that short-termist incentives cause substantial wedges in the rates of return across capital goods within ﬁrms, lowering average productivity. |
   
  </details>
- <a href="https://matthias-meier-econ.github.io/files/Managers_Investments.pdf" target="_blank">[Working Paper]</a> <a href="https://matthias-meier-econ.github.io/files/Managers_Investments.txt" target="_blank">[Bibtex]</a>
+ <a href="https://matthias-meier-econ.github.io/files/Managers_Investments.pdf" target="_blank">[Working Paper]</a> 
+ <a href="https://matthias-meier-econ.github.io/files/Managers_Investments.txt" target="_blank">[Bibtex]</a>
 
  
 ----
