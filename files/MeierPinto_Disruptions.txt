@@ -1,7 +1,8 @@
-@techreport{MP2020,
-	title={Covid-19 Supply Chain Disruptions},
+@article{MP2024,
+	title={COVID-19 Supply Chain Disruptions},
 	author={Meier, Matthias and Pinto, Eugenio},
-	journal={CEPR Covid Economics},
-	number={48},
-	year={2020},
+	journal={European Economic Review},
+	volume = {162},
+	pages = {104674},
+	year = {2024},
 }
