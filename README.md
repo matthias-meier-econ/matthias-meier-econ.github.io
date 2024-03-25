@@ -147,7 +147,8 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
 <details>
   <summary markdown="span"><font color="blue">Identification of Systematic Monetary Policy</font> [abstract]
     
-  (with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hack</a> and <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a>)  </summary>
+  (with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hack</a> and <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a>) <br />
+  <b> <i>Review of Economic Studies, revise and resubmit </i> </b> </summary>
   
   | **Abstract**          |
   |:---------------------------|
