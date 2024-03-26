@@ -62,7 +62,7 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
   <summary markdown="span"><font color="blue">Labor Market Effects of Monetary Policy Across Workers and Firms</font> [abstract]
     
   (with <a href="https://sites.google.com/site/andreasgulyas" target="_blank">Andreas Gulyas</a> and <a href="https://sites.google.com/view/mykolaryzhenkov" target="_blank">Mykola Ryzhenkov</a>) <br />
-  <b> <i>European Economic Review, accepted in 2024 </i> </b> </summary>
+  <b> <i>European Economic Review</i></b>, accepted in 2024  </summary>
   
   | **Abstract**          |
   |:---------------------------|
