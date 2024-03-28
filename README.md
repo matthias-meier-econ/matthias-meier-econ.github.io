@@ -160,6 +160,7 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
  <a href="https://cepr.org/publications/dp17999" target="_blank">[CEPR Discussion Paper]</a> 
  <a href="https://cepr.org/voxeu/columns/hawkish-or-dovish-central-bankers-different-flocks-and-fiscal-shocks" target="_blank">[VoxEU Column]</a> 
  <a href="https://www.ecb.europa.eu/pub/economic-research/resbull/2023/html/ecb.rb231219~159bb78c3e.en.html" target="_blank">[ECB Research Bulletin]</a> 
+ <a href="https://matthias-meier-econ.github.io/files/HIM_SysMP_SUERF.pdf" target="_blank">[SUERF Policy Brief]</a> 
  <a href="https://matthias-meier-econ.github.io/files/HIM_SysMP_CRC.pdf" target="_blank">[CRC Discussion Paper]</a> 
  <a href="https://matthias-meier-econ.github.io/files/HIM_SysMP.txt" target="_blank">[Bibtex]</a>
  
