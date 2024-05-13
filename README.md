@@ -143,8 +143,6 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
 
 ----
 
-
-
 <details>
   <summary markdown="span"><font color="blue">Identification of Systematic Monetary Policy</font> [abstract]
     
@@ -166,6 +164,23 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
  
 
 ----
+
+<details>
+  <summary markdown="span"><font color="blue">The Systematic Origins of Monetary Policy Shocks</font> [abstract]
+    
+  (with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hack</a> and <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a>) </summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | Conventional strategies to identify monetary policy shocks rest on the implicit assumption that systematic monetary policy is constant over time. We formally show that these strategies do not isolate monetary policy shocks in an environment with time-varying systematic monetary policy. Instead, they are contaminated by systematic monetary policy and macroeconomic variables, leading to contamination bias in estimated impulse responses. Empirically, we show that Romer and Romer (2004) monetary policy shocks are indeed predictable by fluctuations in systematic monetary policy. Instead, we propose a new monetary policy shock that is orthogonal to systematic monetary policy. Our shock suggests U.S. monetary policy has shorter lags and stronger effects on inflation and output. |
+  
+ </details>
+ <a href="https://matthias-meier-econ.github.io/files/HIM_Shocks.pdf" target="_blank">[Working Paper]</a> 
+ <a href="https://matthias-meier-econ.github.io/files/HIM_Shocks.txt" target="_blank">[Bibtex]</a>
+ 
+
+----
+
 
 
 <details>
