@@ -1,0 +1,7 @@
+@techreport{HIM2024,
+  author={Hack, Lukas and Istrefi, Klodiana and Meier, Matthias},
+  title={The Systematic Origins of Monetary Policy Shocks},
+  year=2024,
+  type={},
+  number={}
+}
