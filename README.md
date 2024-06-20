@@ -69,6 +69,7 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
   | This paper uses Austrian social security records to analyze the effects of ECB monetary policy on the labor market. Our focus is on the role of worker and firm wage-components, defined by an Abowd et al. (1999) wage regression. Our findings show that monetary tightening causes the largest employment losses for low-paid workers who are employed in high-paying firms before the tightening. Monetary tightening further causes a reallocation of workers to lower-paying firms. In particular low-paid workers who were originally employed by low-paying firms are prone to falling down the firm wage ladder. |
   
  </details>
+ <a href="https://matthias-meier-econ.github.io/files/Labor_Market_Effects_of_MP_Shocks_EER.pdf" target="_blank">[Published Paper]</a> 
  <a href="https://matthias-meier-econ.github.io/files/Labor_Market_Effects_of_MP_Shocks.pdf" target="_blank">[Working Paper]</a> 
  <a href="https://matthias-meier-econ.github.io/files/Labor_Market_Effects_of_MP_Shocks_CRC.pdf" target="_blank">[CRC Discussion Paper]</a> 
  <a href="https://matthias-meier-econ.github.io/files/Labor_Market_Effects_of_MP_Shocks.txt" target="_blank">[Bibtex]</a>
