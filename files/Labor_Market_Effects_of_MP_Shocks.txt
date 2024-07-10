@@ -1,4 +1,4 @@
-@TechReport{GMR2024,
+@article{GMR2024,
   title = {Labor market effects of monetary policy across workers and firms},
   journal = {European Economic Review},
   volume = {166},
