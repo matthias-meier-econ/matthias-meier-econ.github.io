@@ -1,9 +1,13 @@
 @TechReport{GMR2023,
-  author={Andreas Gulyas and Matthias Meier and Mykola Ryzhenkov},
-  title={{Labor Market Effects of Monetary Policy Across Workers and Firms}},
-  year=2023,
-  month=Mar,
-  institution={University of Bonn and University of Mannheim, Germany},
-  type={CRC TR 224 Discussion Paper Series},
-  number={407}
+  title = {Labor market effects of monetary policy across workers and firms},
+  journal = {European Economic Review},
+  volume = {166},
+  pages = {104756},
+  year = {2024},
+  issn = {0014-2921},
+  doi = {https://doi.org/10.1016/j.euroecorev.2024.104756},
+  url = {https://www.sciencedirect.com/science/article/pii/S0014292124000850},
+  author = {Andreas Gulyas and Matthias Meier and Mykola Ryzhenkov},
+  keywords = {Monetary policy, Worker reallocation, Heterogeneity, AKM},
+  abstract = {This paper uses Austrian social security records to analyze the effects of ECB monetary policy on the labor market. Our focus is on the role of worker and firm wage components, defined by an Abowd et al. (1999) wage regression. We find that monetary tightening causes the largest employment losses for low-paid workers who are employed in high-paying firms before the tightening. Monetary tightening further causes a reallocation of workers to lower-paying firms. In particular low-paid workers who were originally employed by low-paying firms are prone to falling down the firm wage ladder.}
 }
