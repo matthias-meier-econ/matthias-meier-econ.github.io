@@ -33,7 +33,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 ----
 
 <details>
-  <summary markdown="span"><font color="blue">Monetary Policy, Markup Dispersion, and Aggregate TFP</font> [abstract]
+  <summary markdown="span">Monetary Policy, Markup Dispersion, and Aggregate TFP <font color="orange">[abstract]</font>  
     
   (with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>)  <br />
   <b> <i>Review of Economics and Statistics</i></b>, forthcoming (accepted in 2022) </summary>
