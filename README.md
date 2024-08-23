@@ -43,7 +43,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
   | Motivated by empirical evidence that monetary policy affects aggregate TFP, we study the role of markup dispersion for monetary transmission. Empirically, we show that the response of markup dispersion to monetary policy shocks can account for a significant fraction of the aggregate TFP response in the first two years after the shock. Analytically, we show that heterogeneous price rigidity can explain the response of markup dispersion if firms have a precautionary price setting motive, which is present in common New Keynesian environments. We provide empirical evidence on the relationship between markups and price rigidity in support of this explanation. Finally, we study the mechanism and its implications in a quantitative model. |
   
  </details>
- <a href="https://direct.mit.edu/rest/article/doi/10.1162/rest_a_01226/112434/Monetary-Policy-Markup-Dispersion-and-Aggregate" target="_blank">Published Paper </a> &nbsp;
+ <a href="https://doi.org/10.1162/rest_a_01226" target="_blank">Published Paper </a> &nbsp;
  <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5JJ6OE" target="_blank">Replication Files </a> &nbsp;
  <!-- 
      <a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion.pdf" target="_blank">[Working Paper]</a> &nbsp;
