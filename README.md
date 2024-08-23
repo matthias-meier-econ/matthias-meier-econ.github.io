@@ -44,15 +44,15 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
   
  </details>
  <a href="https://doi.org/10.1162/rest_a_01226" target="_blank">Published Paper </a> &nbsp;
+ <a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion.pdf" target="_blank">Working Paper</a> &nbsp;
  <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5JJ6OE" target="_blank">Replication Files </a> &nbsp;
  <!-- 
-     <a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion.pdf" target="_blank">[Working Paper]</a> &nbsp;
      <a href="https://matthias-meier-econ.github.io/files/MeierReinelt2020_ECB.pdf" target="_blank">[ECB Working Paper] </a> &nbsp;
      <a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion_CRC.pdf" target="_blank">[CRC Discussion Paper]</a> &nbsp;
  -->
  <a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion.txt" target="_blank">Bibtex</a> &nbsp;
- <br />
-  Lamfalussy Fellowship of the ECB  
+ <a href="https://www.ecb.europa.eu/pub/economic-research/programmes/lamfalussy/html/index.en.html" target="_blank">Lamfalussy Fellowship</a> &nbsp;
+
                   
                   
 
