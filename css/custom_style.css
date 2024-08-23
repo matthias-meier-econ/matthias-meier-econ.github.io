@@ -10,7 +10,7 @@
 }
 .highlight .cp {
  color:#999999;
- font-weight:normal /*bold*/
+ font-weight:bold
 }
 .highlight .c1 {
  color:#999988;
@@ -263,7 +263,7 @@ a {
 a:hover,
 a:focus {
  color:#069;
- /* font-weight:bold */
+ font-weight:normal /*bold*/
 }
 a small {
  font-size:11px;
@@ -355,7 +355,7 @@ header ul a {
 header ul a:hover,
 header ul a:focus {
  color:#675C5C;
-  /* font-weight:bold */ 
+ font-weight:normal /*bold*/
 }
 header ul a:active {
  background-color:#f0f0f0
