@@ -18,8 +18,8 @@ I am visiting the <a href="https://www.uni-bonn.de/en?set_language=en" target="_
 ### Workshop on Firm Heterogeneity and Macroeconomics
 
 2024 Workshop in Mannheim: <a href="https://matthias-meier-econ.github.io/files/2024_Call_For_Papers_Mannheim.pdf" target="_blank">CALL FOR PAPERS</a> <br /> 
-2023 Workshop in Bonn: <font color="blue"> <a href="https://matthias-meier-econ.github.io/files/2023_Program_Firm_Heterogeneity.pdf" target="_blank">Schedule</a>  </font> <br /> 
-2022 Workshop in Mannheim: <font color="blue"> <a href="https://matthias-meier-econ.github.io/files/Program_June_2022.pdf" target="_blank">Schedule</a>  </font> <br />
+2023 Workshop in Bonn: <a href="https://matthias-meier-econ.github.io/files/2023_Program_Firm_Heterogeneity.pdf" target="_blank">Schedule</a>  <br /> 
+2022 Workshop in Mannheim: <a href="https://matthias-meier-econ.github.io/files/Program_June_2022.pdf" target="_blank">Schedule</a>  <br />
 
 ### Workshop in Quantitative Macroeconomics
 
