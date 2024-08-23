@@ -10,7 +10,7 @@
 }
 .highlight .cp {
  color:#999999;
- font-weight:bold
+ font-weight:normal /*bold*/
 }
 .highlight .c1 {
  color:#999988;
