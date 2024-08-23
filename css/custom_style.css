@@ -260,20 +260,24 @@ a {
  color:#267CB9;
  text-decoration:none
 }
+/*
 a:hover,
 a:focus {
  color:#069;
  font-weight:normal /*bold*/
 }
+*/
 a small {
  font-size:11px;
  color:#777;
  margin-top:-0.3em;
  display:block
 }
+/*
 a:hover small {
  color:#777
 }
+*/
 .wrapper {
  width:860px;
  margin:0 auto
@@ -352,11 +356,13 @@ header ul a {
  padding-top:6px;
  height:34px
 }
+/*
 header ul a:hover,
 header ul a:focus {
  color:#675C5C;
  font-weight:bold
 }
+*/
 header ul a:active {
  background-color:#f0f0f0
 }
