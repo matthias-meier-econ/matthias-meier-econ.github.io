@@ -7,21 +7,18 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 and a principal investigator of the Bonn-Mannheim <a href="https://www.crctr224.de/" target="_blank">Collaborative Research Center TR 224</a> funded by the German Research Foundation (DFG). 
 My research interests are Macroeconomics, Monetary Economics, International Economics, and Econometrics. <br />
 
-
+----
 
 ### <a href="https://matthias-meier-econ.github.io/files/cv_matthias_meier.pdf" target="_blank">Curriculum Vitae</a> 
 
 ----
 
-### Workshop on Firm Heterogeneity and Macroeconomics
+### Workshops 
 
-2024 Workshop in Mannheim: <a href="https://matthias-meier-econ.github.io/files/2024_Workshop_CfP.pdf" target="_blank">Call for Papers</a> <br /> 
-2023 Workshop in Bonn: <a href="https://matthias-meier-econ.github.io/files/2023_Workshop_Program.pdf" target="_blank">Schedule</a>  <br /> 
-2022 Workshop in Mannheim: <a href="https://matthias-meier-econ.github.io/files/2022_Workshop_Program.pdf" target="_blank">Schedule</a>  <br />
-
-### Workshop in Quantitative Macroeconomics
-
-2018 Workshop in Mannheim: <font color="blue"> <a href="https://matthias-meier-econ.github.io/files/2018_Workshop_Program.pdf" target="_blank">Schedule</a>  </font> <br />
+2024 Workshop on Firm Heterogeneity and Macroeconomics in Mannheim: <a href="https://matthias-meier-econ.github.io/files/2024_Workshop_CfP.pdf" target="_blank">Call for Papers</a> <br /> 
+2023 Workshop on Firm Heterogeneity and Macroeconomics in Bonn: <a href="https://matthias-meier-econ.github.io/files/2023_Workshop_Program.pdf" target="_blank">Schedule</a>  <br /> 
+2022 Workshop on Firm Heterogeneity and Macroeconomics in Mannheim: <a href="https://matthias-meier-econ.github.io/files/2022_Workshop_Program.pdf" target="_blank">Schedule</a>  <br />
+2018 Workshop on Quantitative Macroeconomics in Mannheim: <font color="blue"> <a href="https://matthias-meier-econ.github.io/files/2018_Workshop_Program.pdf" target="_blank">Schedule</a>  </font> <br />
 
 ----
 
