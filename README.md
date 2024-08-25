@@ -36,7 +36,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <summary markdown="span"> <b> Monetary Policy, Markup Dispersion, and Aggregate TFP </b> 
 
 (with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>)  <br />
-<b> <i>Review of Economics and Statistics</i></b>, 106 (4), pp. 1012–1027, July 2024 </summary>
+<b> <i> Review of Economics and Statistics</i></b>, 106 (4), pp. 1012–1027, July 2024 </summary>
 
 | **Abstract**          |
 |:---------------------------|
@@ -53,7 +53,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
    <a href="https://www.ecb.europa.eu/pub/economic-research/programmes/lamfalussy/html/index.en.html" target="_blank">Lamfalussy Fellowship</a> &nbsp;
 -->
 <br />
-&mdash; Lamfalussy Fellowship of the European Central Bank in 2019
+&ndash; <i> Lamfalussy Fellowship of the European Central Bank in 2019 </i>
 
                 
                   
