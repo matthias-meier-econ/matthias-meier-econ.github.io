@@ -7,7 +7,7 @@ I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/"
 and a principal investigator of the Bonn-Mannheim <a href="https://www.crctr224.de/" target="_blank">Collaborative Research Center TR 224</a> funded by the German Research Foundation (DFG). 
 My research interests are Macroeconomics, Monetary Economics, International Economics, and Econometrics. <br />
 
-<br />
+---
 
 ### <a href="https://matthias-meier-econ.github.io/files/cv_matthias_meier.pdf" target="_blank">Curriculum Vitae</a> 
 
