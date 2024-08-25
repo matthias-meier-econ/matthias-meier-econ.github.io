@@ -301,7 +301,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
   
  
 <details>
-<summary markdown="span"><b>Congestion and Cushion: Evidence from Manufacturing Order Books<\b>
+<summary markdown="span"><b>Congestion and Cushion: Evidence from Manufacturing Order Books</b> 
 <br />
 (with <a href="https://www.uni-mannheim.de/gess/programs/cdse/our-students/2021/bjarne-horst/" target="_blank">Bjarne Horst</a> and <a href="http://janschymik.de" target="_blank">Jan Schymik</a>)</summary>
 
@@ -312,7 +312,18 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
   
  
 <details>
-<summary markdown="span"><b>FX Interventions<\b>
+<summary markdown="span"><b>The Precautionary Inflation Surge?</b> 
+<br />
+(with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a> and <a href="https://www.satenkumar.com/" target="_blank">Saten Kumar</a>)</summary>
+
+</details>
+ 
+  
+ ----
+  
+ 
+<details>
+<summary markdown="span"><b>FX Interventions</b> 
 <br />
 (with <a href="https://sites.google.com/view/husnucdalgic" target="_blank">Hüsnü Dalgic</a> and <a href="https://sites.google.com/site/patrickhuertgen" target="_blank">Patrick Hürtgen</a>)</summary>
 
@@ -320,12 +331,16 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
  
  ----
   
+
+<!--
  
 <details>
-<summary markdown="span"><b>Foreign cash, business cycle propagation, and policy implications<\b>
+<summary markdown="span"><b>Foreign cash, business cycle propagation, and policy implications</b> 
 <br />
 (with <a href="https://bank.gov.ua/en/researcher/39" target="_blank">Vadym Lepetyuk</a>)</summary>
 
 </details>
  
  ----
+
+--> 
