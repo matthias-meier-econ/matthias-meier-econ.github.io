@@ -204,7 +204,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 
 <details>
 <summary markdown="span"><b>Capital (Mis)allocation, Incentives and Productivity</b>  
-<br />
+<!-- <br /> -->
 (with <a href="http://janschymik.de/" target="_blank">Jan Schymik</a>, Alexander Schramm, Alxander Schwemmer)</summary>
 
 | **Abstract**          |
