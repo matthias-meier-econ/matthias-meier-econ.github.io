@@ -35,7 +35,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <details>
 <summary markdown="span"> <b> Monetary Policy, Markup Dispersion, and Aggregate TFP </b> 
 <br />
-(with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>)  <br />
+with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>  <br />
 <b> <i> Review of Economics and Statistics</i></b>, 106 (4), pp. 1012–1027, July 2024 </summary>
 
 | **Abstract**          |
@@ -63,7 +63,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <details>
 <summary markdown="span"><b>Labor Market Effects of Monetary Policy Across Workers and Firms</b> 
 <br />
-(with <a href="https://sites.google.com/site/andreasgulyas" target="_blank">Andreas Gulyas</a> and <a href="https://sites.google.com/view/mykolaryzhenkov" target="_blank">Mykola Ryzhenkov</a>) <br />
+with <a href="https://sites.google.com/site/andreasgulyas" target="_blank">Andreas Gulyas</a> and <a href="https://sites.google.com/view/mykolaryzhenkov" target="_blank">Mykola Ryzhenkov</a> <br />
 <b> <i>European Economic Review</i></b>, 166, 104756, July 2024  </summary>
 
 | **Abstract**          |
@@ -88,7 +88,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <details>
 <summary markdown="span"> <b> COVID-19 Supply Chain Disruptions </b> 
 <br />
-(with <a href="https://www.federalreserve.gov/econres/eugenio-pinto.htm" target="_blank">Eugenio Pinto</a>)  <br />
+with <a href="https://www.federalreserve.gov/econres/eugenio-pinto.htm" target="_blank">Eugenio Pinto</a>  <br />
 <b> <i>European Economic Review</i></b>, 162, 104674, February 2024 </summary>
 
 | **Abstract**          |
@@ -113,7 +113,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <details>
 <summary markdown="span"><b>Delta-Method inference for a class of set-identiﬁed SVARs </b> 
 <br />
-(with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafarov</a> and <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea</a>) <br />
+with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafarov</a> and <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea</a> <br />
   <b> <i>Journal of Econometrics</i></b>, 203 (2), pp. 316-327, April 2018 </summary>
 
 | **Abstract**          |
@@ -144,7 +144,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <details>
 <summary markdown="span"><b>Corporate Debt Maturity Matters for Monetary Policy</b> 
 <br />
-(with <a href="http://joachimjungherr.com/" target="_blank">Joachim Jungherr</a>, <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a> and <a href="https://sites.google.com/site/immoschott/" target="_blank">Immo Schott</a>)  <br />
+with <a href="http://joachimjungherr.com/" target="_blank">Joachim Jungherr</a>, <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a> and <a href="https://sites.google.com/site/immoschott/" target="_blank">Immo Schott</a>  <br />
 <b> <i>Review of Economic Studies, revise and resubmit </i> </b> </summary>
 
 | **Abstract**          |
@@ -166,7 +166,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <details>
 <summary markdown="span"><b>Identification of Systematic Monetary Policy</b> 
 <br />
-(with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hack</a> and <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a>) <br />
+with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hack</a> and <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> <br />
 <b> <i>Review of Economic Studies, revise and resubmit </i> </b> </summary>
 
 | **Abstract**          |
@@ -195,7 +195,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <details>
 <summary markdown="span"><b>The Systematic Origins of Monetary Policy Shocks</b> 
 <br />
-(with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hack</a> and <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a>) </summary>
+with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hack</a> and <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> </summary>
 
 | **Abstract**          |
 |:---------------------------|
@@ -213,7 +213,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <details>
 <summary markdown="span"><b>Capital (Mis)allocation, Incentives and Productivity</b>  
 <!-- <br /> -->
-(with <a href="http://janschymik.de/" target="_blank">Jan Schymik</a>, Alexander Schramm, Alxander Schwemmer)</summary>
+with <a href="http://janschymik.de/" target="_blank">Jan Schymik</a>, Alexander Schramm, Alxander Schwemmer)</summary>
 
 | **Abstract**          |
 |:---------------------------|
@@ -250,7 +250,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <details>
 <summary markdown="span"><b>Do plants freeze upon uncertainty shocks?</b> 
 <br />
-(with <a href="https://www.linkedin.com/in/ariel-mecikovsky-561324b/" target="_blank">Ariel Mecikovsky</a>)</summary>
+with <a href="https://www.linkedin.com/in/ariel-mecikovsky-561324b/" target="_blank">Ariel Mecikovsky</a></summary>
 
 | **Abstract**          |
 |:---------------------------|
@@ -274,7 +274,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <details>
 <summary markdown="span"><b>Misallocation, Markups, and Technology</b> 
 <br />
-(with <a href="https://www.wiwi.uni-bonn.de/bayer/" target="_blank">Christian Bayer</a> and <a href="https://www.linkedin.com/in/ariel-mecikovsky-561324b/" target="_blank">Ariel Mecikovsky</a>)</summary>
+with <a href="https://www.wiwi.uni-bonn.de/bayer/" target="_blank">Christian Bayer</a> and <a href="https://www.linkedin.com/in/ariel-mecikovsky-561324b/" target="_blank">Ariel Mecikovsky</a></summary>
 
 | **Abstract**          |
 |:---------------------------|
@@ -294,7 +294,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <details>
 <summary markdown="span"><b>Projection inference for set-identiﬁed SVARs</b> 
 <br />
-(with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafarov</a> and <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea</a>)</summary>
+with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafarov</a> and <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea</a></summary>
 
 | **Abstract**          |
 |:---------------------------|
@@ -318,7 +318,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <details>
 <summary markdown="span"><b>Congestion and Cushion: Evidence from Manufacturing Order Books</b> 
 <br />
-(with <a href="https://www.uni-mannheim.de/gess/programs/cdse/our-students/2021/bjarne-horst/" target="_blank">Bjarne Horst</a> and <a href="http://janschymik.de" target="_blank">Jan Schymik</a>)</summary>
+with <a href="https://www.uni-mannheim.de/gess/programs/cdse/our-students/2021/bjarne-horst/" target="_blank">Bjarne Horst</a> and <a href="http://janschymik.de" target="_blank">Jan Schymik</a></summary>
 </details>
 &ndash; <i> Cooperation with Federal Statistical Office of Germany (Destatis) </i>
 
@@ -331,7 +331,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <br />
 </summary>
 </details>
-(with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a> and <a href="https://www.satenkumar.com/" target="_blank">Saten Kumar</a>) 
+with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a> and <a href="https://www.satenkumar.com/" target="_blank">Saten Kumar</a> 
  
   
 <!-- <br /> -->
@@ -340,7 +340,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <details>
 <summary markdown="span"><b>FX Interventions</b> 
 <br />
-(with <a href="https://sites.google.com/view/husnucdalgic" target="_blank">Hüsnü Dalgic</a> and <a href="https://sites.google.com/site/patrickhuertgen" target="_blank">Patrick Hürtgen</a>)</summary>
+with <a href="https://sites.google.com/view/husnucdalgic" target="_blank">Hüsnü Dalgic</a> and <a href="https://sites.google.com/site/patrickhuertgen" target="_blank">Patrick Hürtgen</a></summary>
 
 </details>
  
@@ -353,7 +353,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <details>
 <summary markdown="span"><b>Foreign cash, business cycle propagation, and policy implications</b> 
 <br />
-(with <a href="https://bank.gov.ua/en/researcher/39" target="_blank">Vadym Lepetyuk</a>)</summary>
+with <a href="https://bank.gov.ua/en/researcher/39" target="_blank">Vadym Lepetyuk</a></summary>
 
 </details>
  
