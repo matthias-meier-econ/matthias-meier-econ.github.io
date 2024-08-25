@@ -279,7 +279,7 @@ a:hover small {
 }
 */
 .wrapper {
- width:910px; /*860*/
+ width:860px; /*860*/
  margin:0 auto
 }
 blockquote {
@@ -380,7 +380,7 @@ header ul a strong {
  color:#222
 }
 section {
- width:600px; /*550/*
+ width:580px; /*550/*
  float:right;
  padding-bottom:50px
 }
