@@ -8,7 +8,6 @@ and a principal investigator of the Bonn-Mannheim <a href="https://www.crctr224.
 My research interests are Macroeconomics, Monetary Economics, International Economics, and Econometrics. <br />
 
 
-----
 
 ### <a href="https://matthias-meier-econ.github.io/files/cv_matthias_meier.pdf" target="_blank">Curriculum Vitae</a> 
 
