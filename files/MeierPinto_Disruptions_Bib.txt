@@ -1,8 +1,13 @@
 @article{MP2024,
-	title={COVID-19 Supply Chain Disruptions},
-	author={Meier, Matthias and Pinto, Eugenio},
-	journal={European Economic Review},
+	title = {COVID-19 Supply Chain Disruptions},
+	journal = {European Economic Review},
 	volume = {162},
 	pages = {104674},
 	year = {2024},
+	issn = {0014-2921},
+	doi = {https://doi.org/10.1016/j.euroecorev.2024.104674},
+	url = {https://www.sciencedirect.com/science/article/pii/S0014292124000035},
+	author = {Matthias Meier and Eugenio Pinto},
+	keywords = {Supply chain disruptions, Lockdowns, Cross-country spillovers, COVID-19},
+	abstract = {In the early phase of the COVID-19 crisis, China imposed widespread lockdowns to contain the virus. We study the spillovers from the lockdowns to the US economy. We find that sectors with a high exposure to intermediate goods imports from China experienced significantly larger declines in production, employment, imports, and exports. In addition, relative input and output prices increased in these sectors. At the peak of the recession in April 2020, output was 16% lower in sectors with a one standard deviation higher China exposure. The estimated effects on output, input, and inflation are short-lived and dissipate by summer 2020.}
 }
