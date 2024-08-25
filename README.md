@@ -145,7 +145,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 | We provide novel empirical evidence that firms' investment is more responsive to monetary policy when a higher fraction of their debt matures. In a heterogeneous firm New Keynesian model with financial frictions and endogenous debt maturity, two channels explain this finding: (1.) Firms with more maturing debt have larger roll-over needs and are therefore more exposed to fluctuations in the real interest rate (roll-over risk). (2.) These firms also have higher default risk and therefore react more strongly to changes in the real burden of outstanding nominal debt (debt overhang). Unconventional monetary policy, which operates through long-term interest rates, has larger effects on debt maturity but smaller effects on output and inflation than conventional monetary policy. |
 
 </details>
-<a href="https://matthias-meier-econ.github.io/files/JungherrMeierReineltSchott_Maturity.pdf" target="_blank">Working Paper</a> &nbsp; 
+<a href="https://matthias-meier-econ.github.io/files/JungherrMeierReineltSchott_Maturity_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
 <a href="https://matthias-meier-econ.github.io/files/JungherrMeierReineltSchott_Maturity_Bib.txt" target="_blank">Bibtex </a> &nbsp; 
 <!-- 
    <a href="https://matthias-meier-econ.github.io/files/Debt_Maturity_CRC.pdf" target="_blank">CRC Discussion Paper </a> &nbsp; 
@@ -167,13 +167,19 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 | We propose a novel identification design to estimate the causal effects of systematic monetary policy on the propagation of macroeconomic shocks. The design combines (i) a time-varying measure of systematic monetary policy based on the historical composition of hawks and doves in the Federal Open Market Committee (FOMC) with (ii) an instrument that leverages the mechanical FOMC rotation of voting rights. We apply our design to study the effects of government spending shocks. We find fiscal multipliers between two and three when the FOMC is dovish and below zero when it is hawkish. Narrative evidence from historical FOMC records corroborates our findings. |
 
 </details>
-<a href="https://matthias-meier-econ.github.io/files/HIM_SysMP.pdf" target="_blank">Working Paper</a> &nbsp; 
-<a href="https://cepr.org/publications/dp17999" target="_blank">CEPR Discussion Paper</a> &nbsp; 
+<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
+<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_Bib.txt" target="_blank">Bibtex</a> &nbsp;
+<br />
+&ndash; <i> 
 <a href="https://cepr.org/voxeu/columns/hawkish-or-dovish-central-bankers-different-flocks-and-fiscal-shocks" target="_blank">VoxEU Column</a> &nbsp; 
 <a href="https://www.ecb.europa.eu/pub/economic-research/resbull/2023/html/ecb.rb231219~159bb78c3e.en.html" target="_blank">ECB Research Bulletin</a> &nbsp; 
 <a href="https://matthias-meier-econ.github.io/files/HIM_SysMP_SUERF.pdf" target="_blank">SUERF Policy Brief</a> &nbsp; 
+</i>
+
+<!-- 
+<a href="https://cepr.org/publications/dp17999" target="_blank">CEPR Discussion Paper</a> &nbsp; 
 <a href="https://matthias-meier-econ.github.io/files/HIM_SysMP_CRC.pdf" target="_blank">CRC Discussion Paper</a> &nbsp; 
-<a href="https://matthias-meier-econ.github.io/files/HIM_SysMP.txt" target="_blank">Bibtex</a> &nbsp;
+-->
 
 
 ----
