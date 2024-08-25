@@ -58,7 +58,8 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
                 
                   
 
-----
+<br />
+
 
 
 <details>
@@ -80,7 +81,10 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 -->
 <a href="https://matthias-meier-econ.github.io/files/GulyasMeierRyzhenkov_LaborMP_Replication.7z" target="_blank">Replication Files</a> &nbsp;
    
-----
+
+
+<br />
+
 
 
 <details>
@@ -104,7 +108,9 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 -->
 
 
-----
+<br />
+
+
 
 <details>
 <summary markdown="span"><b>Delta-Method inference for a class of set-identiﬁed SVARs </b> 
@@ -125,7 +131,9 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 &ndash; <i> Best Paper Award in Applied Economics, Econometric Society European Meeting </i>
 <br />
 
-----
+
+<br />
+
 
 
 
