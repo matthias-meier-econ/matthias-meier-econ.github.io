@@ -250,7 +250,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <details>
 <summary markdown="span"><b>Do plants freeze upon uncertainty shocks?</b> 
 <br />
-(with <a href="https://sites.google.com/site/amecikovsky/" target="_blank">Ariel Mecikovsky</a>)</summary>
+(with <a href="https://www.linkedin.com/in/ariel-mecikovsky-561324b/" target="_blank">Ariel Mecikovsky</a>)</summary>
 
 | **Abstract**          |
 |:---------------------------|
@@ -274,7 +274,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <details>
 <summary markdown="span"><b>Misallocation, Markups, and Technology</b> 
 <br />
-(with <a href="https://www.wiwi.uni-bonn.de/bayer/" target="_blank">Christian Bayer</a> and <a href="https://sites.google.com/site/amecikovsky/" target="_blank">Ariel Mecikovsky</a>)</summary>
+(with <a href="https://www.wiwi.uni-bonn.de/bayer/" target="_blank">Christian Bayer</a> and <a href="https://www.linkedin.com/in/ariel-mecikovsky-561324b/" target="_blank">Ariel Mecikovsky</a>)</summary>
 
 | **Abstract**          |
 |:---------------------------|
