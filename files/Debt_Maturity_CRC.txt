@@ -1,9 +1,0 @@
-@techreport{JMRS2022,
-  author={Jungherr, Joachim and Meier, Matthias and Reinelt, Timo and Schott, Immo},
-  title={Corporate Debt Maturity Matters For Monetary Policy},
-  year=2022,
-  month=Jul,
-  institution={University of Bonn and University of Mannheim, Germany},
-  type={CRC TR 224 Discussion Paper Series},
-  number={360}
-}

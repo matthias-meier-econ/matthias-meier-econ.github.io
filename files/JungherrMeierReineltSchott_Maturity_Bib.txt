@@ -1,0 +1,12 @@
+@techreport{JMRS2024,
+  author={Jungherr, Joachim and Meier, Matthias and Reinelt, Timo and Schott, Immo},
+  title={Corporate Debt Maturity Matters For Monetary Policy},
+  year=2024,
+  month=Aug,
+  institution={Federal Reserve Bank of San Francisco},
+  type={Working Paper Series},
+  number={2024-30},
+  abstract={We provide novel empirical evidence that firms’ investment is more responsive to monetary policy when a higher fraction of their debt matures. In a heterogeneous firm New Keynesian model with financial frictions and endogenous debt maturity, two channels explain this finding: (1.) Firms with more maturing debt have larger roll-over needs and are therefore more exposed to fluctuations in the real interest rate (roll-over risk). (2.) These firms also have higher default risk and therefore react more strongly to changes in the real burden of outstanding nominal debt (debt overhang). Unconventional monetary policy, which operates through long-term interest rates, has larger effects on debt maturity but smaller effects on output and inflation than conventional monetary policy.},
+  keywords={monetary policy; investment; corporate debt; debt maturity},
+  doi={10.24148/wp2024-30},
+}
