@@ -228,9 +228,13 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 | We provide new evidence that (i) time to build is volatile and countercyclical, and that (ii) supply chain disruptions lengthen time to build. Motivated by these findings, we develop a general equilibrium model in which heterogeneous firms face non-convex adjustment costs and multi-period time to build. In the model, supply chain disruptions lengthen time to build. Calibrating the model to US micro data, we show that disruptions, which lengthen time to build by 1 month, depress GDP by 1% and aggregate TFP by 0.2%. Structural vector autoregressions corroborate the quantitative importance of supply chain disruptions. |
 
 </details>
-<a href="https://matthias-meier-econ.github.io/files/Meier_TimeToBuild.pdf" target="_blank">Working Paper</a> &nbsp; 
+<a href="https://matthias-meier-econ.github.io/files/Meier_TimeToBuild_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
+<a href="https://matthias-meier-econ.github.io/files/Meier_TimeToBuild_Bib.txt" target="_blank">Bibtex</a> &nbsp;
+
+<!-- 
 <a href="https://matthias-meier-econ.github.io/files/Meier_TimeToBuild_CRC.pdf" target="_blank">CRC Discussion Paper</a> &nbsp; 
-<a href="https://matthias-meier-econ.github.io/files/Meier_TimeToBuild.txt" target="_blank">Bibtex</a> &nbsp;
+-->
+
 
 ----
 
