@@ -238,9 +238,11 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 </details>
 <a href="https://matthias-meier-econ.github.io/files/MM_PlantsFreeze.pdf" target="_blank">Working Paper</a> &nbsp; 
 <a href="https://matthias-meier-econ.github.io/files/MM_PlantsFreeze_CRC.pdf" target="_blank">CRC Discussion Paper</a> &nbsp; 
-<a href="https://matthias-meier-econ.github.io/files/MM_PlantsFreeze.txt" target="_blank">Bibtex</a> &nbsp;  <br />
-Best Student Paper Award, Real Options Group Conference Athens <br /> 
-Best Paper Award (runner-up), Spring Meeting of Young Economists Vienna
+<a href="https://matthias-meier-econ.github.io/files/MM_PlantsFreeze.txt" target="_blank">Bibtex</a> &nbsp;  
+<br />
+&ndash; <i> Best Student Paper Award, Real Options Group Conference Athens in 2015 </i>
+<br /> 
+&ndash; <i> Best Paper Award (runner-up), Spring Meeting of Young Economists Vienna in 2014 </i>
 
 ----
 
@@ -257,8 +259,9 @@ Best Paper Award (runner-up), Spring Meeting of Young Economists Vienna
 </details>
 <a href="https://matthias-meier-econ.github.io/files/BMM_Misallocation.pdf" target="_blank">Working Paper</a> &nbsp; 
 <a href="https://cepr.org/publications/dp12727" target="_blank">CEPR Discussion Paper</a> &nbsp; 
-<a href="https://matthias-meier-econ.github.io/files/BMM_Misallocation.txt" target="_blank">Bibtex</a> &nbsp;  <br />
-Best Paper Award (runner-up), European Workshop on Efficiency and Productivity Analysis Helsinki
+<a href="https://matthias-meier-econ.github.io/files/BMM_Misallocation.txt" target="_blank">Bibtex</a> &nbsp;  
+<br />
+&ndash; <i> Best Paper Award (runner-up), European Workshop on Efficiency and Productivity Analysis Helsinki in 2013 </i>
 
 ----
 
