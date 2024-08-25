@@ -44,8 +44,8 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 
 </details>
 <a href="https://doi.org/10.1162/rest_a_01226" target="_blank">Published Paper</a> &nbsp;
-<a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion.txt" target="_blank">Bibtex</a> &nbsp;
-<a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion.pdf" target="_blank">Working Paper</a> &nbsp;
+<a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion_Bib.txt" target="_blank">Bibtex</a> &nbsp;
+<a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion_WP.pdf" target="_blank">Working Paper</a> &nbsp;
 <a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion_Replication.zip" target="_blank">Replication Files</a> &nbsp;
 <!-- 
    <a href="https://matthias-meier-econ.github.io/files/MeierReinelt2020_ECB.pdf" target="_blank">ECB Working Paper </a> &nbsp;
@@ -117,9 +117,9 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 | We study vector autoregressions that impose equality and/or inequality restrictions to set-identify the dynamic responses to a single structural shock. We make three contributions. First, we present an algorithm to compute the largest and smallest value that an impulse-response coefficient can attain over its identified set. Second, we provide conditions under which these largest and smallest values are directionally differentiable functions of the model’s reduced-form parameters. Third, we propose a delta-method approach to conduct inference about the structural impulse-response coefficients. We use our results to assess the effects of the announcement of the Quantitative Easing program in August 2010. |
 
 </details>
-<a href="https://matthias-meier-econ.github.io/files/GMM_DeltaMethod.pdf" target="_blank">Published Paper</a> &nbsp; 
-<a href="https://matthias-meier-econ.github.io/files/GMM_DeltaMethod.txt" target="_blank">Bibtex</a> &nbsp; 
-<a href="https://github.com/gafarovb/setSVARtoolbox" target="_blank">Toolbox</a> &nbsp; 
+<a href="https://doi.org/10.1016/j.jeconom.2017.12.004" target="_blank">Published Paper</a> &nbsp; 
+<a href="https://matthias-meier-econ.github.io/files/GafarovMeierMontielOlea_DeltaMethod_Bib.txt" target="_blank">Bibtex</a> &nbsp; 
+<a href="https://matthias-meier-econ.github.io/files/GafarovMeierMontielOlea_DeltaMethod_Toolbox.zip" target="_blank">Toolbox</a> &nbsp; 
 <br />
 &ndash; <i> Best Paper Award in Applied Economics, Econometric Society European Meeting </i>
 <br />
