@@ -317,7 +317,6 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <summary markdown="span"><b>Congestion and Cushion: Evidence from Manufacturing Order Books</b> 
 <br />
 (with <a href="https://www.uni-mannheim.de/gess/programs/cdse/our-students/2021/bjarne-horst/" target="_blank">Bjarne Horst</a> and <a href="http://janschymik.de" target="_blank">Jan Schymik</a>)</summary>
-
 </details>
 &ndash; <i> Cooperation with Federal Statistical Office of Germany (Destatis) </i>
 
@@ -328,9 +327,9 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <details>
 <summary markdown="span"><b>The Precautionary Inflation Surge?</b> 
 <br />
-(with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a> and <a href="https://www.satenkumar.com/" target="_blank">Saten Kumar</a>)</summary>
-
+</summary>
 </details>
+(with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a> and <a href="https://www.satenkumar.com/" target="_blank">Saten Kumar</a>) 
  
   
 <!-- <br /> -->
