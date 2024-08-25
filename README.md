@@ -63,7 +63,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
   <summary markdown="span"><b>Labor Market Effects of Monetary Policy Across Workers and Firms</b> 
     
   (with <a href="https://sites.google.com/site/andreasgulyas" target="_blank">Andreas Gulyas</a> and <a href="https://sites.google.com/view/mykolaryzhenkov" target="_blank">Mykola Ryzhenkov</a>) <br />
-  <b> <i>European Economic Review</i></b>, accepted in 2024  </summary>
+  <b> <i>European Economic Review</i></b>, 166, 104756, July 2024  </summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -83,7 +83,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
   <summary markdown="span"> <b> COVID-19 Supply Chain Disruptions </b> 
     
   (with <a href="https://www.federalreserve.gov/econres/eugenio-pinto.htm" target="_blank">Eugenio Pinto</a>)  <br />
-  <b> <i>European Economic Review</i></b>, 2024 </summary>
+  <b> <i>European Economic Review</i></b>, 162, 104674, February 2024 </summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -103,7 +103,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
   <summary markdown="span"><b>Delta-Method inference for a class of set-identiﬁed SVARs </b> 
     
   (with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafarov</a> and <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea</a>) <br />
-    <b> <i>Journal of Econometrics</i></b>, 2018 </summary>
+    <b> <i>Journal of Econometrics</i></b>, 203 (2), pp. 316-327, April 2018 </summary>
   
   | **Abstract**          |
   |:---------------------------|
