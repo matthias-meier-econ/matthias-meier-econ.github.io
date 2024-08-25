@@ -16,9 +16,9 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 
 ### Workshop on Firm Heterogeneity and Macroeconomics
 
-2024 Workshop in Mannheim: <a href="https://matthias-meier-econ.github.io/files/2024_Call_For_Papers_Mannheim.pdf" target="_blank">Call for Papers</a> <br /> 
-2023 Workshop in Bonn: <a href="https://matthias-meier-econ.github.io/files/2023_Program_Firm_Heterogeneity.pdf" target="_blank">Schedule</a>  <br /> 
-2022 Workshop in Mannheim: <a href="https://matthias-meier-econ.github.io/files/Program_June_2022.pdf" target="_blank">Schedule</a>  <br />
+2024 Workshop in Mannheim: <a href="https://matthias-meier-econ.github.io/files/2024_Workshop_CfP.pdf" target="_blank">Call for Papers</a> <br /> 
+2023 Workshop in Bonn: <a href="https://matthias-meier-econ.github.io/files/2023_Workshop_Program.pdf" target="_blank">Schedule</a>  <br /> 
+2022 Workshop in Mannheim: <a href="https://matthias-meier-econ.github.io/files/2022_Workshop_Program.pdf" target="_blank">Schedule</a>  <br />
 
 ### Workshop in Quantitative Macroeconomics
 
