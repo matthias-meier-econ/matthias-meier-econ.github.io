@@ -30,7 +30,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 
 ### Published and Forthcoming Papers
 
-<br />
+<!-- <br /> -->
 
 <details>
 <summary markdown="span"> <b> Monetary Policy, Markup Dispersion, and Aggregate TFP </b> 
@@ -57,9 +57,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 
                 
                   
-
-<br />
-
+<!-- <br /> -->
 
 
 <details>
