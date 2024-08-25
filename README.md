@@ -129,17 +129,17 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <a href="https://matthias-meier-econ.github.io/files/GafarovMeierMontielOlea_DeltaMethod_Toolbox.zip" target="_blank">Toolbox</a> &nbsp; 
 <br />
 &ndash; <i> Best Paper Award in Applied Economics, Econometric Society European Meeting </i>
+
+
+
 <br />
 
-
-<br />
-
-
-
+----
 
 ### Working Papers:
 
-----
+
+<br />
 
 
 <details>
@@ -161,8 +161,8 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 
 
 
+<br />
 
-----
 
 <details>
 <summary markdown="span"><b>Identification of Systematic Monetary Policy</b> 
@@ -190,7 +190,8 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 -->
 
 
-----
+<br />
+
 
 <details>
 <summary markdown="span"><b>The Systematic Origins of Monetary Policy Shocks</b> 
@@ -206,7 +207,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Shocks_Bib.txt" target="_blank">Bibtex</a> &nbsp;
 
 
-----
+<br />
 
 
 
@@ -224,7 +225,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <a href="https://matthias-meier-econ.github.io/files/MeierSchymikSchrammSchwemmer_Managers_Bib.txt" target="_blank">Bibtex</a> &nbsp;
 
 
-----
+<br />
 
 
 
@@ -244,7 +245,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 -->
 
 
-----
+<br />
 
 
 <details>
@@ -265,7 +266,8 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <br /> 
 &ndash; <i> Best Paper Award (runner-up), Spring Meeting of Young Economists Vienna </i>
 
-----
+
+<br />
 
 
 <details>
@@ -284,7 +286,8 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <!-- <br /> -->
 &ndash; <i> Best Paper Award (runner-up), European Workshop on Efficiency and Productivity Analysis Helsinki </i>
 
-----
+
+<br />
 
 
 <details>
@@ -299,13 +302,16 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 </details>
 <a href="https://matthias-meier-econ.github.io/files/GafarovMeierMontielOlea_Projection_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
 <a href="https://matthias-meier-econ.github.io/files/GafarovMeierMontielOlea_Projection_Bib.txt" target="_blank">Bibtex</a> &nbsp;  
- 
+
+
+<br />
+
 ----
 
 
 ### Work in Progress:
 
- ----
+<br />
   
  
 <details>
@@ -316,7 +322,8 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 </details>
 &ndash; <i> Cooperation with Federal Statistical Office of Germany (Destatis) </i>
 
- ----
+
+<br />
   
  
 <details>
@@ -327,7 +334,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 </details>
  
   
- ----
+<br />
   
  
 <details>
@@ -337,11 +344,13 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 
 </details>
  
- ----
-  
+ 
 
 <!--
- 
+
+<br />
+
+
 <details>
 <summary markdown="span"><b>Foreign cash, business cycle propagation, and policy implications</b> 
 <br />
