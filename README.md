@@ -276,8 +276,8 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 | We study the properties of projection inference for set-identified Structural Vector Autoregressions. A nominal 1−α projection region collects the structural parameters that are compatible with a 1−α Wald ellipsoid for the model’s reduced-form parameters (autoregressive coefficients and the covariance matrix of residuals). We show that projection inference can be applied to a general class of stationary models, is computationally feasible, and - as the sample size grows large — it produces regions that have both frequentist coverage and robust Bayesian credibility of at least 1−α. A drawback of the projection approach is that both coverage and robust credibility may be strictly above their nominal level. Following the recent work of Kaido, Molinari, and Stoye (2016), we ‘calibrate’ the radius of the Wald ellipsoid to guarantee that — for a given posterior on the reduced-form parameters — the projection method produces a region with robust Bayesian credibility of exactly 1−α. We illustrate the main results of the paper using the demand/supply-model for the U.S. labor market in Baumeister and Hamilton(2015). |
   
 </details>
-<a href="https://matthias-meier-econ.github.io/files/GMM_Projection.pdf" target="_blank">Working Paper</a> &nbsp; 
-<a href="https://matthias-meier-econ.github.io/files/GMM_Projection.txt" target="_blank">Bibtex</a> &nbsp;  
+<a href="https://matthias-meier-econ.github.io/files/GafarovMeierMontielOlea_Projection_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
+<a href="https://matthias-meier-econ.github.io/files/GafarovMeierMontielOlea_Projection_Bib.txt" target="_blank">Bibtex</a> &nbsp;  
  
 ----
 
