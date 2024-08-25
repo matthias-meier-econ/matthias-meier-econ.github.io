@@ -28,7 +28,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 
 ----
 
-### Published and Forthcoming Papers
+### Published and Accepted Papers
 
 <!-- <br /> -->
 
