@@ -121,8 +121,8 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <a href="https://matthias-meier-econ.github.io/files/GMM_DeltaMethod.txt" target="_blank">Bibtex</a> &nbsp; 
 <a href="https://github.com/gafarovb/setSVARtoolbox" target="_blank">Toolbox</a> &nbsp; 
 <br />
-Best Paper Award in Applied Economics, Econometric Society European Meeting in 2016 <br />
-
+&ndash; <i> Best Paper Award in Applied Economics, Econometric Society European Meeting in 2016 </i>
+<br />
 
 ----
 
