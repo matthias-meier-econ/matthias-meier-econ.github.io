@@ -82,7 +82,6 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 
 
 <!-- <br /> -->
-<div style="height:1px;font-size:1px;">&nbsp;</div>
 
 
 
@@ -108,7 +107,6 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 
 
 <!-- <br /> -->
-<div style="height:10px;font-size:10px;">&nbsp;</div>
 
 
 
@@ -136,10 +134,11 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 
 ----
 
+
 ### Working Papers
 
 
-<br />
+<!-- <br /> -->
 
 
 <details>
@@ -161,7 +160,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 
 
 
-<br />
+<!-- <br /> -->
 
 
 <details>
@@ -190,7 +189,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 -->
 
 
-<br />
+<!-- <br /> -->
 
 
 <details>
@@ -207,7 +206,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Shocks_Bib.txt" target="_blank">Bibtex</a> &nbsp;
 
 
-<br />
+<!-- <br /> -->
 
 
 
@@ -225,7 +224,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <a href="https://matthias-meier-econ.github.io/files/MeierSchymikSchrammSchwemmer_Managers_Bib.txt" target="_blank">Bibtex</a> &nbsp;
 
 
-<br />
+<!-- <br /> -->
 
 
 
@@ -245,7 +244,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 -->
 
 
-<br />
+<!-- <br /> -->
 
 
 <details>
@@ -267,7 +266,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 &ndash; <i> Best Paper Award (runner-up), Spring Meeting of Young Economists Vienna </i>
 
 
-<br />
+<!-- <br /> -->
 
 
 <details>
@@ -287,7 +286,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 &ndash; <i> Best Paper Award (runner-up), European Workshop on Efficiency and Productivity Analysis Helsinki </i>
 
 
-<br />
+<!-- <br /> -->
 
 
 <details>
@@ -311,7 +310,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 
 ### Work in Progress
 
-<br />
+<!-- <br /> -->
   
  
 <details>
@@ -323,7 +322,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 &ndash; <i> Cooperation with Federal Statistical Office of Germany (Destatis) </i>
 
 
-<br />
+<!-- <br /> -->
   
  
 <details>
@@ -334,7 +333,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 </details>
  
   
-<br />
+<!-- <br /> -->
   
  
 <details>
@@ -348,7 +347,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 
 <!--
 
-<br />
+<!-- <br /> -->
 
 
 <details>
