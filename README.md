@@ -22,7 +22,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 
 ### Workshop in Quantitative Macroeconomics
 
-2018 Workshop in Mannheim: <font color="blue"> <a href="2018_Workshop_Program.pdf" target="_blank">Schedule</a>  </font> <br />
+2018 Workshop in Mannheim: <font color="blue"> <a href="https://matthias-meier-econ.github.io/files/2018_Workshop_Program.pdf" target="_blank">Schedule</a>  </font> <br />
 
 ----
 
