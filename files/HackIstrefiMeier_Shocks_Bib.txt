@@ -4,4 +4,4 @@
   year=2024,
   type={CEPR Discussion Paper},
   number={19063}
-}
+} 
