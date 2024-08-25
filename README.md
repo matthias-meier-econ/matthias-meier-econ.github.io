@@ -194,8 +194,8 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 | Conventional strategies to identify monetary policy shocks rest on the implicit assumption that systematic monetary policy is constant over time. We formally show that these strategies do not isolate monetary policy shocks in an environment with time-varying systematic monetary policy. Instead, they are contaminated by systematic monetary policy and macroeconomic variables, leading to contamination bias in estimated impulse responses. Empirically, we show that Romer and Romer (2004) monetary policy shocks are indeed predictable by fluctuations in systematic monetary policy. Instead, we propose a new monetary policy shock that is orthogonal to systematic monetary policy. Our shock suggests U.S. monetary policy has shorter lags and stronger effects on inflation and output. |
 
 </details>
-<a href="https://matthias-meier-econ.github.io/files/HIM_Shocks.pdf" target="_blank">Working Paper</a> &nbsp; 
-<a href="https://matthias-meier-econ.github.io/files/HIM_Shocks.txt" target="_blank">Bibtex</a> &nbsp;
+<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Shocks_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
+<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Shocks_Bib.txt" target="_blank">Bibtex</a> &nbsp;
 
 
 ----
