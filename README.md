@@ -9,7 +9,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 
 ---
 
-### <a href="https://matthias-meier-econ.github.io/files/cv_matthias_meier.pdf" target="_blank">Curriculum Vitae</a> 
+### <a href="https://matthias-meier-econ.github.io/files/CV_Matthias_Meier.pdf" target="_blank">Curriculum Vitae</a> 
 
 <br />
 
