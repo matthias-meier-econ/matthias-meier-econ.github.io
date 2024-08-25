@@ -95,8 +95,8 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 
 </details>
 <a href="https://doi.org/10.1016/j.euroecorev.2024.104674" target="_blank">Published Paper</a> &nbsp; 
-<a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.txt" target="_blank">Bibtex</a> &nbsp;
-<a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.pdf" target="_blank">Working Paper</a> &nbsp; 
+<a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions_Bib.txt" target="_blank">Bibtex</a> &nbsp;
+<a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
 <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions_Replication.7z" target="_blank">Replication Files </a> &nbsp; 
 <!-- 
    <a href="https://matthias-meier-econ.github.io/files/CovidEconomics48.pdf" target="_blank">CEPR Covid Economics</a> &nbsp; 
