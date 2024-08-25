@@ -50,8 +50,10 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <!-- 
    <a href="https://matthias-meier-econ.github.io/files/MeierReinelt2020_ECB.pdf" target="_blank">ECB Working Paper </a> &nbsp;
    <a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion_CRC.pdf" target="_blank">CRC Discussion Paper</a> &nbsp;
+   <a href="https://www.ecb.europa.eu/pub/economic-research/programmes/lamfalussy/html/index.en.html" target="_blank">Lamfalussy Fellowship</a> &nbsp;
 -->
-<a href="https://www.ecb.europa.eu/pub/economic-research/programmes/lamfalussy/html/index.en.html" target="_blank">Lamfalussy Fellowship</a> &nbsp;
+<br />
+2019 Lamfalussy Fellowship of the European Central Bank 
 
                 
                   
