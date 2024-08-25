@@ -53,7 +53,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
    <a href="https://www.ecb.europa.eu/pub/economic-research/programmes/lamfalussy/html/index.en.html" target="_blank">Lamfalussy Fellowship</a> &nbsp;
 -->
 <br />
-2019 Lamfalussy Fellowship of the European Central Bank 
+-- Lamfalussy Fellowship of the European Central Bank in 2019
 
                 
                   
@@ -121,7 +121,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <a href="https://matthias-meier-econ.github.io/files/GMM_DeltaMethod.txt" target="_blank">Bibtex</a> &nbsp; 
 <a href="https://github.com/gafarovb/setSVARtoolbox" target="_blank">Toolbox</a> &nbsp; 
 <br />
-Best Paper Award in Applied Economics, Econometric Society European Meeting <br />
+Best Paper Award in Applied Economics, Econometric Society European Meeting in 2016 <br />
 
 
 ----
