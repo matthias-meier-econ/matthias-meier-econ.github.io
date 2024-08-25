@@ -15,12 +15,12 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 
 ----
 
-### Workshops 
+### Workshop Organization
 
-2024 Workshop on Firm Heterogeneity and Macroeconomics in Mannheim: <a href="https://matthias-meier-econ.github.io/files/2024_Workshop_CfP.pdf" target="_blank">Call for Papers</a> <br /> 
-2023 Workshop on Firm Heterogeneity and Macroeconomics in Bonn: <a href="https://matthias-meier-econ.github.io/files/2023_Workshop_Program.pdf" target="_blank">Schedule</a>  <br /> 
-2022 Workshop on Firm Heterogeneity and Macroeconomics in Mannheim: <a href="https://matthias-meier-econ.github.io/files/2022_Workshop_Program.pdf" target="_blank">Schedule</a>  <br />
-2018 Workshop on Quantitative Macroeconomics in Mannheim: <font color="blue"> <a href="https://matthias-meier-econ.github.io/files/2018_Workshop_Program.pdf" target="_blank">Schedule</a>  </font> <br />
+2024 Workshop on Firm Heterogeneity and Macroeconomics: <a href="https://matthias-meier-econ.github.io/files/2024_Workshop_CfP.pdf" target="_blank">Call for Papers</a> <br /> 
+2023 Workshop on Firm Heterogeneity and Macroeconomics: <a href="https://matthias-meier-econ.github.io/files/2023_Workshop_Program.pdf" target="_blank">Schedule</a>  <br /> 
+2022 Workshop on Firm Heterogeneity and Macroeconomics: <a href="https://matthias-meier-econ.github.io/files/2022_Workshop_Program.pdf" target="_blank">Schedule</a>  <br />
+2018 Workshop on Quantitative Macroeconomics: <font color="blue"> <a href="https://matthias-meier-econ.github.io/files/2018_Workshop_Program.pdf" target="_blank">Schedule</a>  </font> <br />
 
 <br />
 
@@ -28,7 +28,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 
 ----
 
-### Published and Forthcoming Papers:
+### Published and Forthcoming Papers
 
 <br />
 
@@ -136,7 +136,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 
 ----
 
-### Working Papers:
+### Working Papers
 
 
 <br />
@@ -309,7 +309,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 ----
 
 
-### Work in Progress:
+### Work in Progress
 
 <br />
   
