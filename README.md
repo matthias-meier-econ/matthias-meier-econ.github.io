@@ -92,11 +92,14 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
   | In the early phase of the COVID-19 crisis, China imposed widespread lockdowns to contain the virus. We study the spillovers from the lockdowns to the US economy. We find that sectors with a high exposure to intermediate goods imports from China experienced significantly larger declines in production, employment, imports, and exports. In addition, relative input and output prices increased in these sectors. At the peak of the recession in April 2020, output was 16% lower in sectors with a one standard deviation higher China exposure. The estimated effects on output, input, and inflation are short-lived and dissipate by summer 2020. |
   
  </details>
- <a href="https://matthias-meier-econ.github.io/files/MeierPinto_EER.pdf" target="_blank">Published Paper</a> &nbsp; 
- <a href="https://ars.els-cdn.com/content/image/1-s2.0-S0014292124000035-mmc1.zip" target="_blank">Replication Files </a> &nbsp; 
- <a href="https://matthias-meier-econ.github.io/files/CovidEconomics48.pdf" target="_blank">CEPR Covid Economics</a> &nbsp; 
- <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions_CRC.pdf" target="_blank">CRC Discussion Paper</a> &nbsp; 
+ <a href="https://doi.org/10.1016/j.euroecorev.2024.104674" target="_blank">Published Paper</a> &nbsp; 
  <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions.txt" target="_blank">Bibtex</a> &nbsp;
+ <a href="https://matthias-meier-econ.github.io/files/MeierPinto_EER.pdf" target="_blank">Working Paper</a> &nbsp; 
+ <a href="https://ars.els-cdn.com/content/image/1-s2.0-S0014292124000035-mmc1.zip" target="_blank">Replication Files </a> &nbsp; 
+ <!-- 
+     <a href="https://matthias-meier-econ.github.io/files/CovidEconomics48.pdf" target="_blank">CEPR Covid Economics</a> &nbsp; 
+     <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions_CRC.pdf" target="_blank">CRC Discussion Paper</a> &nbsp; 
+ -->
  
 
 ----
