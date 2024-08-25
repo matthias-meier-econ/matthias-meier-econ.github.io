@@ -53,7 +53,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
    <a href="https://www.ecb.europa.eu/pub/economic-research/programmes/lamfalussy/html/index.en.html" target="_blank">Lamfalussy Fellowship</a> &nbsp;
 -->
 <br />
-&ndash; <i> Lamfalussy Fellowship of the European Central Bank in 2019 </i>
+&ndash; <i> Lamfalussy Fellowship of the European Central Bank </i>
 
                 
                   
@@ -121,7 +121,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <a href="https://matthias-meier-econ.github.io/files/GMM_DeltaMethod.txt" target="_blank">Bibtex</a> &nbsp; 
 <a href="https://github.com/gafarovb/setSVARtoolbox" target="_blank">Toolbox</a> &nbsp; 
 <br />
-&ndash; <i> Best Paper Award in Applied Economics, Econometric Society European Meeting in 2016 </i>
+&ndash; <i> Best Paper Award in Applied Economics, Econometric Society European Meeting </i>
 <br />
 
 ----
@@ -240,9 +240,9 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <a href="https://matthias-meier-econ.github.io/files/MM_PlantsFreeze_CRC.pdf" target="_blank">CRC Discussion Paper</a> &nbsp; 
 <a href="https://matthias-meier-econ.github.io/files/MM_PlantsFreeze.txt" target="_blank">Bibtex</a> &nbsp;  
 <br />
-&ndash; <i> Best Student Paper Award, Real Options Group Conference Athens in 2015 </i>
+&ndash; <i> Best Student Paper Award, Real Options Group Conference Athens </i>
 <br /> 
-&ndash; <i> Best Paper Award (runner-up), Spring Meeting of Young Economists Vienna in 2014 </i>
+&ndash; <i> Best Paper Award (runner-up), Spring Meeting of Young Economists Vienna </i>
 
 ----
 
@@ -261,7 +261,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <a href="https://cepr.org/publications/dp12727" target="_blank">CEPR Discussion Paper</a> &nbsp; 
 <a href="https://matthias-meier-econ.github.io/files/BMM_Misallocation.txt" target="_blank">Bibtex</a> &nbsp;  
 <br />
-&ndash; <i> Best Paper Award (runner-up), European Workshop on Efficiency and Productivity Analysis Helsinki in 2013 </i>
+&ndash; <i> Best Paper Award (runner-up), European Workshop on Efficiency and Productivity Analysis Helsinki </i>
 
 ----
 
