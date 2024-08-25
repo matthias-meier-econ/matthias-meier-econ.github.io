@@ -252,7 +252,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <a href="https://matthias-meier-econ.github.io/files/MM_PlantsFreeze.pdf" target="_blank">Working Paper</a> &nbsp; 
 <a href="https://matthias-meier-econ.github.io/files/MM_PlantsFreeze_CRC.pdf" target="_blank">CRC Discussion Paper</a> &nbsp; 
 <a href="https://matthias-meier-econ.github.io/files/MM_PlantsFreeze.txt" target="_blank">Bibtex</a> &nbsp;  
-<br />
+<!-- <br /> -->
 &ndash; <i> Best Student Paper Award, Real Options Group Conference Athens </i>
 <br /> 
 &ndash; <i> Best Paper Award (runner-up), Spring Meeting of Young Economists Vienna </i>
@@ -273,7 +273,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <a href="https://matthias-meier-econ.github.io/files/BMM_Misallocation.pdf" target="_blank">Working Paper</a> &nbsp; 
 <a href="https://cepr.org/publications/dp12727" target="_blank">CEPR Discussion Paper</a> &nbsp; 
 <a href="https://matthias-meier-econ.github.io/files/BMM_Misallocation.txt" target="_blank">Bibtex</a> &nbsp;  
-<br />
+<!-- <br /> -->
 &ndash; <i> Best Paper Award (runner-up), European Workshop on Efficiency and Productivity Analysis Helsinki </i>
 
 ----
