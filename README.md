@@ -73,8 +73,8 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 
 </details>
 <a href="https://doi.org/10.1016/j.euroecorev.2024.104756" target="_blank">Published Paper</a> &nbsp; 
-<a href="https://matthias-meier-econ.github.io/files/GulyasMeierRyzhenkov_LaborMP.txt" target="_blank">Bibtex</a> &nbsp;
-<a href="https://matthias-meier-econ.github.io/files/GulyasMeierRyzhenkov_LaborMP.pdf" target="_blank">Working Paper</a> &nbsp; 
+<a href="https://matthias-meier-econ.github.io/files/GulyasMeierRyzhenkov_LaborMP_Bib.txt" target="_blank">Bibtex</a> &nbsp;
+<a href="https://matthias-meier-econ.github.io/files/GulyasMeierRyzhenkov_LaborMP_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
 <!-- 
    <a href="https://matthias-meier-econ.github.io/files/Labor_Market_Effects_of_MP_Shocks_CRC.pdf" target="_blank">CRC Discussion Paper</a> &nbsp; 
 -->
