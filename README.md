@@ -171,9 +171,9 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_Bib.txt" target="_blank">Bibtex</a> &nbsp;
 <br />
 &ndash; <i> Non-technical summaries: 
-<a href="https://matthias-meier-econ.github.io/files/HIM_SysMP_VoxEU.pdf" target="_blank">VoxEU</a>, 
-<a href="https://matthias-meier-econ.github.io/files/HIM_SysMP_ECBBulletin.pdf" target="_blank">ECB Research Bulletin</a>, 
-<a href="https://matthias-meier-econ.github.io/files/HIM_SysMP_SUERF.pdf" target="_blank">SUERF Policy Brief</a>
+<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_VoxEU.pdf" target="_blank">VoxEU</a>, 
+<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_ECBBulletin.pdf" target="_blank">ECB Research Bulletin</a>, 
+<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_SUERF.pdf" target="_blank">SUERF Policy Brief</a>
 </i>
 
 <!-- 
