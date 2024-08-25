@@ -53,7 +53,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
    <a href="https://www.ecb.europa.eu/pub/economic-research/programmes/lamfalussy/html/index.en.html" target="_blank">Lamfalussy Fellowship</a> &nbsp;
 -->
 <br />
--- Lamfalussy Fellowship of the European Central Bank in 2019
+&mdash; Lamfalussy Fellowship of the European Central Bank in 2019
 
                 
                   
