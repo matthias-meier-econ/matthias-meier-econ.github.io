@@ -119,6 +119,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 </details>
 <a href="https://doi.org/10.1016/j.jeconom.2017.12.004" target="_blank">Published Paper</a> &nbsp; 
 <a href="https://matthias-meier-econ.github.io/files/GafarovMeierMontielOlea_DeltaMethod_Bib.txt" target="_blank">Bibtex</a> &nbsp; 
+<a href="https://matthias-meier-econ.github.io/files/GafarovMeierMontielOlea_DeltaMethod_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
 <a href="https://matthias-meier-econ.github.io/files/GafarovMeierMontielOlea_DeltaMethod_Toolbox.zip" target="_blank">Toolbox</a> &nbsp; 
 <br />
 &ndash; <i> Best Paper Award in Applied Economics, Econometric Society European Meeting </i>
