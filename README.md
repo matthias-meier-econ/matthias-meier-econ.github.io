@@ -145,7 +145,7 @@ with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafa
 <summary markdown="span"><b>Corporate Debt Maturity Matters for Monetary Policy</b> 
 <br />
 with <a href="http://joachimjungherr.com/" target="_blank">Joachim Jungherr</a>, <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a> and <a href="https://sites.google.com/site/immoschott/" target="_blank">Immo Schott</a>  <br />
-<b> <i>Review of Economic Studies, revise and resubmit </i> </b> (2nd round) </summary>
+<i> <b> Review of Economic Studies, revise and resubmit </b> (2nd round) </i>  </summary>
 
 | **Abstract**          |
 |:---------------------------|
