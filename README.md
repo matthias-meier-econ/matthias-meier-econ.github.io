@@ -158,6 +158,9 @@ with <a href="http://joachimjungherr.com/" target="_blank">Joachim Jungherr</a>,
    <a href="https://matthias-meier-econ.github.io/files/Debt_Maturity_CRC.pdf" target="_blank">CRC Discussion Paper </a> &nbsp; 
 -->
 
+&ndash; <i> Public coverage: 
+<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_VoxEU.pdf" target="_blank">Bloomberg</a>
+</i>
 
 
 <!-- <br /> -->
