@@ -159,7 +159,7 @@ with <a href="http://joachimjungherr.com/" target="_blank">Joachim Jungherr</a>,
 -->
 
 &ndash; <i> Public coverage: 
-<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_VoxEU.pdf" target="_blank">Bloomberg</a>
+<a href="https://matthias-meier-econ.github.io/files/JungherrMeierReineltSchott_Maturity_Bloomberg.pdf" target="_blank">Bloomberg</a>
 </i>
 
 
