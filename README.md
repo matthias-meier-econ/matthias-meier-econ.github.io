@@ -216,7 +216,7 @@ with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hac
 <details>
 <summary markdown="span"><b>Capital (Mis)allocation, Incentives and Productivity</b>  
 <!-- <br /> -->
-with <a href="http://janschymik.de/" target="_blank">Jan Schymik</a>, Alexander Schramm, Alxander Schwemmer)</summary>
+with <a href="http://janschymik.de/" target="_blank">Jan Schymik</a>, Alexander Schramm, Alxander Schwemmer </summary>
 
 | **Abstract**          |
 |:---------------------------|
