@@ -2,5 +2,5 @@
   author={Meier, Matthias},
   title={Supply Chain Disruptions, Time to Build, and the Business Cycle},
   year=2020,
-  type={mimeo}
+  type={CRC TR 224 Discussion Paper No.\ 160}
 }
