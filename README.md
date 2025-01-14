@@ -220,7 +220,7 @@ with <a href="http://janschymik.de/" target="_blank">Jan Schymik</a>, Alexander 
 
 | **Abstract**          |
 |:---------------------------|
-| This paper argues that distorted managerial incentives can be a cause for within-ﬁrm capital misallocation. We document empirically that managers experiencing reductions in long-term incentives reallocate ﬁrm investments towards less durable assets. To quantify this channel of within-ﬁrm misallocation for the US economy, we then develop a model of dynamic ﬁrm investments under agency frictions. In the model, capital misallocation within ﬁrms is caused by short-termist incentives due to a too strong focus on current cash ﬂows implied by equity-bonus contracts. Our results show that short-termist incentives cause substantial wedges in the rates of return across capital goods within ﬁrms, lowering average productivity. |
+| This paper studies how managerial pay shapes the allocation of capital within firms. We leverage quasi-experimental variation in the composition of managerial pay between cash bonuses and equity compensation. We find that a relative increase in cash bonuses leads firms to reallocate capital toward less durable investment projects. To rationalize the empirical evidence, we develop a quantitative model with agency frictions. In the model, a relative increase in cash bonuses strengthens managerial short-termism, which shifts the investment composition toward less durable projects. The observed change in managerial pay exacerbates within-firm capital misallocation and leads to a sizeable contraction in output. |
 
 </details>
 <a href="https://matthias-meier-econ.github.io/files/MeierSchymikSchrammSchwemmer_Managers_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
