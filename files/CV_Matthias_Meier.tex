@@ -1,0 +1,282 @@
+\documentclass[11pt,plain,titleabove]{simple_cv_hmg}
+\usepackage[T1]{fontenc} 
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{eurosym}
+\usepackage{svn-multi}
+\usepackage{setspace}
+% Magically these packages lead to A4 being used, so don't delete!
+\usepackage{float,graphicx,eso-pic}
+\usepackage[a4paper]{geometry}
+\usepackage{hyperref}
+\usepackage[all]{hypcap}
+
+\definecolor{MyDarkBlue}{rgb}{0, 0, 0.5}
+\hypersetup{
+    colorlinks = true,
+    urlcolor   = MyDarkBlue, 
+    linkcolor  = MyDarkBlue, 
+    citecolor  = MyDarkBlue, 
+}
+% \hypersetup{
+% backref=true
+% bookmarksnumbered,
+% pdfstartview={FitH},
+% citecolor={blue},
+% linkcolor={blue},
+% urlcolor={black},
+% pdfpagemode={UseOutlines}
+% }
+
+\usepackage[backend=biber, natbib=true, bibencoding=inputenc, bibstyle=numeric, sorting=none, maxnames=10]{biblatex}
+
+\bibliography{bib/be}
+
+\setlength{\oddsidemargin}{0cm}
+\setlength{\textwidth}{16.28cm}
+\setlength{\headheight}{-1.21cm}
+\setlength{\textheight}{24cm}
+\setlength{\parskip}{1.5ex}
+%\pdfinfo{/CreationDate (D:\svnpdfdate)}
+%\pdfinfo{/ModDate (D:\svnpdfdate)}
+\geometry{top=2.5cm,bottom=2.5cm,left=2.25cm,right=2.25cm}
+
+
+%---------------------------------------------------
+% Define option to only keep publication record
+\newif\ifpubrecord
+% \pubrecordtrue  % turn on 
+\pubrecordfalse % turn off 
+%---------------------------------------------------
+
+
+
+
+\begin{document}
+
+%\setcounter{page}{1}
+\pagenumbering{arabic}
+
+%\onehalfspacing
+\leftheader{
+{\small University of Mannheim}\\
+{\small Department of Economics}\\
+{\small L7, 3-5, Room 2.42}\\
+{\small 68161 Mannheim, Germany}}  
+
+\rightheader{{\small\textit{Tel:} +49-621-181-3430 (office)}\\
+{\small \textit{Email: }\href{mailto: m.meier@uni-mannheim.de}{m.meier@uni-mannheim.de}}\\
+{\small \href{https://matthias-meier-econ.github.io/}{https://matthias-meier-econ.github.io/}}\\
+% {\small Citizen of Germany, born 23 Nov 1986}
+} 
+
+
+\ifpubrecord
+  \title{%\vspace*{-2ex}
+  \hspace{13cm}\small{\today} \vspace{.2cm}\\
+  \LARGE{Matthias Meier -- Publication Record} \vspace{.2cm}\\}
+  \maketitle
+\else
+  \title{%\vspace*{-2ex}
+  \hspace{13cm}\small{\today} \vspace{.2cm}\\
+  \LARGE{Matthias Meier} \vspace{.2cm}\\}
+  \maketitle
+\fi
+
+% \thispagestyle{empty}
+\vspace{-.5cm}
+
+
+%%%
+%%%
+%%%
+% \section{Personal details}
+% \vspace{-0.95cm}
+% \rule{\textwidth}{0.5pt}
+% \input{personal}
+% \vspace{-0.5cm}
+%%%
+%%%
+%%%
+
+\ifpubrecord
+\else
+
+
+  \section{Positions}
+  \vspace{-1cm}
+  \rule{\textwidth}{0.5pt}
+  \vspace{-.9cm}
+  \begin{topic}
+  % \begin{itemize}
+    \input{employment}
+  % \end{itemize}
+  \end{topic}
+  \vspace{-0.5cm}
+
+  \section{Education}
+  \vspace{-1cm}
+  \rule{\textwidth}{0.5pt}
+  \vspace{-.9cm}
+  \begin{topic}
+  \input{education}
+  \end{topic}
+  \vspace{-0.5cm}
+
+  \section{Fields of interest}
+  \vspace{-1cm}
+  \rule{\textwidth}{0.5pt}
+  \input{researchinterest}
+  \vspace{-0.3cm}
+
+\fi 
+
+  \section{Published and forthcoming papers}
+  \vspace{-1cm}
+  \rule{\textwidth}{0.5pt}
+  \input{publishedpapers}
+  \vspace{-0.3cm}
+
+  \section{Working papers}
+  \vspace{-1cm}
+  \rule{\textwidth}{0.5pt}
+  \input{workingpapers}
+  \vspace{-0.3cm}
+
+
+\ifpubrecord
+\else
+
+  \section{Work in progress}
+  \vspace{-1cm}
+  \rule{\textwidth}{0.5pt}
+  \input{workinprogress}
+  \vspace{-0.3cm}
+
+\fi 
+
+
+  % \section{(Non-Refereed) Publications for a Wider Audience}
+  \section{Other Publications}
+  \vspace{-1cm}
+  \rule{\textwidth}{0.5pt}
+  \input{nonrefpapers}
+  \vspace{-0.3cm}
+
+
+  %\setcounter{page}{2}
+  %\pagenumbering{arabic}
+
+
+
+\ifpubrecord
+\else
+
+  \section{Seminar and conference presentations}
+  \vspace{-1cm}
+  \rule{\textwidth}{0.5pt}
+  \input{presentations}
+  \vspace{-0.3cm}
+
+
+  \section{Short academic visits}
+  \vspace{-1cm}
+  \rule{\textwidth}{0.5pt}
+  \input{visits}
+  \vspace{-0.3cm}
+
+
+  \section{Discussions}
+  \vspace{-1cm}
+  \rule{\textwidth}{0.5pt}
+  \input{discussions}
+  \vspace{-0.3cm}
+
+
+  \section{Grants, scholarships, and awards}
+  \vspace{-1cm}
+  \rule{\textwidth}{0.5pt}
+  \input{scholarships}
+  \vspace{-0.5cm}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  % \newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+  \section{Teaching }
+  \vspace{-1cm}
+  \rule{\textwidth}{0.5pt}
+    \input{teaching}
+  \vspace{-0.3cm}
+
+
+  \section{Doctoral students }
+  \vspace{-1cm}
+  \rule{\textwidth}{0.5pt}
+    \input{phd_advisor}
+  \vspace{-0.3cm}
+
+
+  \section{Professional activities}
+  \vspace{-1cm}
+  \rule{\textwidth}{0.5pt}
+  \input{activities}
+  \vspace{-0.5cm}
+
+
+  %%%
+  %%%
+  %%%
+  % \newpage
+  %%%
+  %%%
+  %%%
+
+
+
+
+  % \section{Non-Academic Professional Experience }
+  % \vspace{-1cm}
+  % \rule{\textwidth}{0.5pt}
+  %   \input{nonacademic}
+  % \vspace{-0.3cm}
+
+\fi 
+
+
+% \newpage
+% \section{References}
+% \vspace{-1cm}
+% \rule{\textwidth}{0.5pt}
+% \input{references}
+% \vspace{-0.5cm}
+
+
+
+
+%%\vspace{0.2cm}
+%\section{Job Market Paper}
+%\vspace{-0.9cm}
+%%\vspace{-1cm}
+%\rule{\textwidth}{0.5pt}
+%%\vspace{-.9cm}
+%\input{abstract_jmp}
+%\vspace{-0.5cm}
+%
+%\section{Working Papers}
+%\vspace{-0.9cm}
+%%\vspace{-1cm}
+%\rule{\textwidth}{0.5pt}
+%%\vspace{-.9cm}
+%\input{abstract_wp}
+%%\vspace{-0.5cm}
+
+
+
+
+
+
+
+\end{document}
