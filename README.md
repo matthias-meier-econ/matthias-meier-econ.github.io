@@ -3,8 +3,9 @@
 
 ### Welcome!
 
-I am an Assistant Professor at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a> 
-and a principal investigator of the Bonn-Mannheim <a href="https://www.crctr224.de/" target="_blank">Collaborative Research Center TR 224</a> funded by the German Research Foundation (DFG). 
+I am a Professor of Economics at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a> 
+My position is a Heisenberg Professorship, funded by the German Research Foundation (DFG). 
+I am also a principal investigator of the <a href="https://www.crctr224.de/" target="_blank">Collaborative Research Center TR 224</a> between the Universities of Bonn and Mannheim, funded by the German Research Foundation (DFG). 
 My research interests are Macroeconomics, Monetary Economics, International Economics, and Econometrics. <br />
 
 ---
