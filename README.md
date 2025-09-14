@@ -4,7 +4,7 @@
 ### Welcome!
 
 I am a Professor of Economics at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a>. 
-My position is a Heisenberg Professorship, funded by the German Research Foundation. <br />
+My position is a Heisenberg Professorship, funded by the <a href="https://www.dfg.de/en" target="_blank">German Research Foundation (DFG)</a>.<br />
 My research interests are Macroeconomics, Monetary Economics, International Economics, and Econometrics. <br />
 
 ---
