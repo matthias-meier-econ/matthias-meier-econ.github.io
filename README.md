@@ -5,8 +5,8 @@
 
 I am a Professor of Economics at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a>. 
 My position is a Heisenberg Professorship, funded by the <a href="https://www.dfg.de/en" target="_blank">German Research Foundation (DFG)</a>. 
-I was previously an Assistant Professor at the University of Mannheim, and obtained my Ph.D. from the <a href="https://www.econ.uni-bonn.de/en" target="_blank">University of Bonn</a>. 
-I am a research affiliate of the <a href="https://cepr.org/" target="_blank">CEPR</a>. 
+Previously, I was an Assistant Professor at the University of Mannheim, and obtained my Ph.D. from the <a href="https://www.econ.uni-bonn.de/en" target="_blank">University of Bonn</a>. 
+I am a research affiliate of the <a href="https://cepr.org/" target="_blank">CEPR</a> and a project leader of <a href="https://www.crctr224.de/" target="_blank">CRC TR 224</a>. 
 My research interests are Macroeconomics, Monetary Economics, International Economics, and Econometrics. <br />
 
 ---
