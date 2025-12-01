@@ -217,13 +217,13 @@ with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hac
 
 
 <details>
-<summary markdown="span"><b>Capital (Mis)allocation, Incentives and Productivity</b>  
+<summary markdown="span"><b>Capital (Mis)allocation and Managerial Compensation</b>  
 <!-- <br /> -->
 with <a href="http://janschymik.de/" target="_blank">Jan Schymik</a>, Alexander Schramm, Alxander Schwemmer </summary>
 
 | **Abstract**          |
 |:---------------------------|
-| This paper studies how managerial pay shapes the allocation of capital within firms. We leverage quasi-experimental variation in the composition of managerial pay between cash bonuses and equity compensation. We find that a relative increase in cash bonuses leads firms to reallocate capital toward less durable investment projects. To rationalize the empirical evidence, we develop a quantitative model with agency frictions. In the model, a relative increase in cash bonuses strengthens managerial short-termism, which shifts the investment composition toward less durable projects. The observed change in managerial pay exacerbates within-firm capital misallocation and leads to a sizeable contraction in output. |
+| This paper studies how managerial pay shapes the allocation of capital. We leverage quasi-experimental variation in the composition of managerial pay between cash bonuses and equity compensation. We find that a relative increase in cash bonuses leads firms to reallocate capital toward less durable investment projects. To interpret the evidence and quantify the effects of managerial compensation, we build a model with agency frictions and investment heterogeneity. In the model, higher cash bonuses intensify managerial short-termism, shifting investment toward less durable projects. The observed change in managerial pay exacerbates within-firm capital misallocation and generates a sizable output contraction.  |
 
 </details>
 <a href="https://matthias-meier-econ.github.io/files/MeierSchymikSchrammSchwemmer_Managers_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
