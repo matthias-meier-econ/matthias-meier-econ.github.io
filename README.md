@@ -210,7 +210,7 @@ with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hac
 </details>
 <a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Shocks_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
 <a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Shocks_Bib.txt" target="_blank">Bibtex</a> &nbsp;
-<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Shocks_Data.xlsx" target="_blank">MP Shocks </a> &nbsp; 
+<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Shocks_Data.xlsx" target="_blank">MP Shocks</a> &nbsp; 
 
 
 <!-- <br /> -->
