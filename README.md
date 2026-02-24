@@ -159,9 +159,9 @@ with <a href="http://joachimjungherr.com/" target="_blank">Joachim Jungherr</a>,
 <!-- 
    <a href="https://matthias-meier-econ.github.io/files/Debt_Maturity_CRC.pdf" target="_blank">CRC Discussion Paper </a> &nbsp; 
 -->
-&ndash; <i> Public coverage: 
+<i> Public coverage: </i>
 <a href="https://matthias-meier-econ.github.io/files/JungherrMeierReineltSchott_Maturity_Bloomberg.pdf" target="_blank">Bloomberg</a>
-</i>
+
 
 
 <!-- <br /> -->
@@ -180,7 +180,7 @@ with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hac
 </details>
 <a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
 <a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_Bib.txt" target="_blank">Bibtex</a> &nbsp;
-&ndash; <i> Non-technical summaries: 
+<i> Non-technical summaries: 
 <a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_VoxEU.pdf" target="_blank">VoxEU</a>, 
 <a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_ECBBulletin.pdf" target="_blank">ECB Research Bulletin</a>, 
 <a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_SUERF.pdf" target="_blank">SUERF Policy Brief</a>
@@ -227,7 +227,7 @@ with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hac
 </details>
 <a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Shocks_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
 <a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Shocks_Bib.txt" target="_blank">Bibtex</a> &nbsp;
-<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Shocks_Data.xlsx" target="_blank">MP Shocks</a> &nbsp; 
+<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Shocks_Data.xlsx" target="_blank">Data (MP Shocks)</a> &nbsp; 
 
 
 <!-- <br /> -->
