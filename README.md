@@ -40,7 +40,7 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <summary markdown="span"> <b> Monetary Policy, Markup Dispersion, and Aggregate TFP </b> 
 <br />
 with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>  <br />
-<b> <i> Review of Economics and Statistics</i></b>, 106 (4), pp. 1012–1027, July 2024 </summary>
+&ndash; <b> <i> Review of Economics and Statistics</i></b>, 106 (4), pp. 1012–1027, July 2024 </summary>
 
 | **Abstract**          |
 |:---------------------------|
@@ -67,7 +67,7 @@ with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>  <br
 <summary markdown="span"><b>Labor Market Effects of Monetary Policy Across Workers and Firms</b> 
 <br />
 with <a href="https://sites.google.com/site/andreasgulyas" target="_blank">Andreas Gulyas</a> and <a href="https://sites.google.com/view/mykolaryzhenkov" target="_blank">Mykola Ryzhenkov</a> <br />
-<b> <i>European Economic Review</i></b>, 166, 104756, July 2024  </summary>
+&ndash; <b> <i>European Economic Review</i></b>, 166, 104756, July 2024  </summary>
 
 | **Abstract**          |
 |:---------------------------|
@@ -92,7 +92,7 @@ with <a href="https://sites.google.com/site/andreasgulyas" target="_blank">Andre
 <summary markdown="span"> <b> COVID-19 Supply Chain Disruptions </b> 
 <br />
 with <a href="https://www.federalreserve.gov/econres/eugenio-pinto.htm" target="_blank">Eugenio Pinto</a>  <br />
-<b> <i>European Economic Review</i></b>, 162, 104674, February 2024 </summary>
+&ndash; <b> <i>European Economic Review</i></b>, 162, 104674, February 2024 </summary>
 
 | **Abstract**          |
 |:---------------------------|
@@ -117,7 +117,7 @@ with <a href="https://www.federalreserve.gov/econres/eugenio-pinto.htm" target="
 <summary markdown="span"><b>Delta-Method inference for a class of set-identiﬁed SVARs </b> 
 <br />
 with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafarov</a> and <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea</a> <br />
-  <b> <i>Journal of Econometrics</i></b>, 203 (2), pp. 316-327, April 2018 </summary>
+&ndash; <b> <i>Journal of Econometrics</i></b>, 203 (2), pp. 316-327, April 2018 </summary>
 
 | **Abstract**          |
 |:---------------------------|
@@ -147,7 +147,7 @@ with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafa
 <summary markdown="span"><b>Corporate Debt Maturity Matters for Monetary Policy</b> 
 <br />
 with <a href="http://joachimjungherr.com/" target="_blank">Joachim Jungherr</a>, <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a> and <a href="https://sites.google.com/site/immoschott/" target="_blank">Immo Schott</a>  <br />
-<i> <b> Review of Economic Studies, revise and resubmit </b> (2nd round) </i>  </summary>
+&ndash; <i> <b> Review of Economic Studies, revise and resubmit </b> (2nd round) </i>  </summary>
 
 | **Abstract**          |
 |:---------------------------|
@@ -171,7 +171,7 @@ with <a href="http://joachimjungherr.com/" target="_blank">Joachim Jungherr</a>,
 <summary markdown="span"><b>Identification of Systematic Monetary Policy</b> 
 <br />
 with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hack</a> and <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> <br />
-<b> <i>Review of Economic Studies, revise and resubmit </i> </b> </summary>
+&ndash; <b> <i>Review of Economic Studies, revise and resubmit </i> </b> </summary>
 
 | **Abstract**          |
 |:---------------------------|
@@ -201,7 +201,7 @@ with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hac
 <summary markdown="span"><b>Capital (Mis)allocation and Managerial Compensation</b>  
 <!-- <br /> -->
 with <a href="http://janschymik.de/" target="_blank">Jan Schymik</a>, Alexander Schramm, Alexander Schwemmer <br />
-<b> <i>Review of Economics and Statistics, revise and resubmit </i> </b> </summary>
+&ndash; <b> <i>Review of Economics and Statistics, revise and resubmit </i> </b> </summary>
 
 | **Abstract**          |
 |:---------------------------|
