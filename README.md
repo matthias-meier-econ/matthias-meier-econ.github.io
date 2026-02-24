@@ -208,8 +208,7 @@ with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hac
 
 
 <details>
-<summary markdown="span"><b>Capital (Mis)allocation and Managerial Compensation</b>  
-[<i>click for abstract</i>] 
+<summary markdown="span"><b>Capital (Mis)allocation and Managerial Compensation</b> [<i>click for abstract</i>] 
 <br />
 with <a href="http://janschymik.de/" target="_blank">Jan Schymik</a>, Alexander Schramm, Alexander Schwemmer <br />
 &ndash; <b> <i>Review of Economics and Statistics, revise and resubmit </i> </b> </summary>
