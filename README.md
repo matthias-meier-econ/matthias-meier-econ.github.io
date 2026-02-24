@@ -222,7 +222,7 @@ with <a href="http://janschymik.de/" target="_blank">Jan Schymik</a>, Alexander 
 <details>
 <summary markdown="span"><b>The Systematic Origins of Monetary Policy Shocks</b> 
 <br />
-with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hack</a> and <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> 
+with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hack</a> and <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> </summary>
 
 | **Abstract**          |
 |:---------------------------|
