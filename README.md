@@ -47,6 +47,7 @@ with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>  <br
 | Motivated by empirical evidence that monetary policy affects aggregate TFP, we study the role of markup dispersion for monetary transmission. Empirically, we show that the response of markup dispersion to monetary policy shocks can account for a significant fraction of the aggregate TFP response in the first two years after the shock. Analytically, we show that heterogeneous price rigidity can explain the response of markup dispersion if firms have a precautionary price setting motive, which is present in common New Keynesian environments. We provide empirical evidence on the relationship between markups and price rigidity in support of this explanation. Finally, we study the mechanism and its implications in a quantitative model. |
 
 </details>
+&ndash; <i> Lamfalussy Fellowship of the European Central Bank </i> <br />
 <a href="https://doi.org/10.1162/rest_a_01226" target="_blank">Published Paper</a> &nbsp;
 <a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion_Bib.txt" target="_blank">Bibtex</a> &nbsp;
 <a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion_WP.pdf" target="_blank">Working Paper</a> &nbsp;
@@ -56,8 +57,6 @@ with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>  <br
    <a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion_CRC.pdf" target="_blank">CRC Discussion Paper</a> &nbsp;
    <a href="https://www.ecb.europa.eu/pub/economic-research/programmes/lamfalussy/html/index.en.html" target="_blank">Lamfalussy Fellowship</a> &nbsp;
 -->
-<br />
-&ndash; <i> Lamfalussy Fellowship of the European Central Bank </i>
 
                 
                   
@@ -125,16 +124,15 @@ with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafa
 | We study vector autoregressions that impose equality and/or inequality restrictions to set-identify the dynamic responses to a single structural shock. We make three contributions. First, we present an algorithm to compute the largest and smallest value that an impulse-response coefficient can attain over its identified set. Second, we provide conditions under which these largest and smallest values are directionally differentiable functions of the model’s reduced-form parameters. Third, we propose a delta-method approach to conduct inference about the structural impulse-response coefficients. We use our results to assess the effects of the announcement of the Quantitative Easing program in August 2010. |
 
 </details>
+&ndash; <i> Best Paper Award in Applied Economics, Econometric Society European Meeting </i> <br />
 <a href="https://doi.org/10.1016/j.jeconom.2017.12.004" target="_blank">Published Paper</a> &nbsp; 
 <a href="https://matthias-meier-econ.github.io/files/GafarovMeierMontielOlea_DeltaMethod_Bib.txt" target="_blank">Bibtex</a> &nbsp; 
 <a href="https://matthias-meier-econ.github.io/files/GafarovMeierMontielOlea_DeltaMethod_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
 <a href="https://matthias-meier-econ.github.io/files/GafarovMeierMontielOlea_DeltaMethod_Toolbox.zip" target="_blank">Toolbox</a> &nbsp; 
 <br />
-&ndash; <i> Best Paper Award in Applied Economics, Econometric Society European Meeting </i>
 
 
 
-<br />
 
 ----
 
