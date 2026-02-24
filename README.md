@@ -159,7 +159,6 @@ with <a href="http://joachimjungherr.com/" target="_blank">Joachim Jungherr</a>,
 <!-- 
    <a href="https://matthias-meier-econ.github.io/files/Debt_Maturity_CRC.pdf" target="_blank">CRC Discussion Paper </a> &nbsp; 
 -->
-<br />
 &ndash; <i> Public coverage: 
 <a href="https://matthias-meier-econ.github.io/files/JungherrMeierReineltSchott_Maturity_Bloomberg.pdf" target="_blank">Bloomberg</a>
 </i>
@@ -181,7 +180,6 @@ with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hac
 </details>
 <a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
 <a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_Bib.txt" target="_blank">Bibtex</a> &nbsp;
-<br />
 &ndash; <i> Non-technical summaries: 
 <a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_VoxEU.pdf" target="_blank">VoxEU</a>, 
 <a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_ECBBulletin.pdf" target="_blank">ECB Research Bulletin</a>, 
@@ -266,12 +264,13 @@ with <a href="https://www.linkedin.com/in/ariel-mecikovsky-561324b/" target="_bl
 | What explains the impact of uncertainty shocks on the economy? This paper uses highly disaggregated data on industry-level job flows to investigate the empirical relevance of various transmission channels of uncertainty shocks. The channels we consider are labor adjustment frictions, capital adjustment frictions, nominal ridigities, and financial frictions. For each channel, we derive testable implications regarding the response of job flows to uncertainty shocks. Empirically, uncertainty shocks lead to more job destruction and less job creation in more than 80% of all industries. The effect is significantly stronger in industries that face tighter financial constraints, which supports the financial frictions channel. In contrast, our evidence does not support the other three channels. |
 
 </details>
-<a href="https://matthias-meier-econ.github.io/files/MM_PlantsFreeze.pdf" target="_blank">Working Paper</a> &nbsp; 
-<a href="https://matthias-meier-econ.github.io/files/MM_PlantsFreeze.txt" target="_blank">Bibtex</a> &nbsp;  
-<!-- <br /> -->
 &ndash; <i> Best Student Paper Award, Real Options Group Conference </i>
 <br /> 
 &ndash; <i> Best Paper Award (runner-up), Spring Meeting of Young Economists </i>
+<br /> 
+<a href="https://matthias-meier-econ.github.io/files/MM_PlantsFreeze.pdf" target="_blank">Working Paper</a> &nbsp; 
+<a href="https://matthias-meier-econ.github.io/files/MM_PlantsFreeze.txt" target="_blank">Bibtex</a> &nbsp;  
+<!-- <br /> -->
 
 <!--
    <a href="https://matthias-meier-econ.github.io/files/MM_PlantsFreeze_CRC.pdf" target="_blank">CRC Discussion Paper</a> &nbsp; 
@@ -290,11 +289,12 @@ with <a href="https://www.wiwi.uni-bonn.de/bayer/" target="_blank">Christian Bay
 | Hsieh and Klenow(2009) shows that misallocation creates large aggregate TFP losses, explains international TFP differences, and can be quantified through factor productivity dispersions. Using micro data from Chile, Colombia, Indonesia, and Germany, we show a substantial correlation in factor productivities across factors and therefore propose to decompose dispersion in factor productivities in dispersion in technology and markup instead. Relative to Germany, misallocation is larger in the developing economies. TFP losses from misallocation are explained to 1/3 by larger technology and to 2/3 by larger markup dispersion. Finally, we discuss market outcomes as potential sources of markup and technology dispersion. |
 
 </details>
+&ndash; <i> Best Paper Award (runner-up), European Workshop on Efficiency and Productivity Analysis </i>
+<br />
 <a href="https://matthias-meier-econ.github.io/files/BMM_Misallocation.pdf" target="_blank">Working Paper</a> &nbsp; 
 <a href="https://cepr.org/publications/dp12727" target="_blank">CEPR Discussion Paper</a> &nbsp; 
 <a href="https://matthias-meier-econ.github.io/files/BMM_Misallocation.txt" target="_blank">Bibtex</a> &nbsp;  
 <!-- <br /> -->
-&ndash; <i> Best Paper Award (runner-up), European Workshop on Efficiency and Productivity Analysis </i>
 
 
 <!-- <br /> -->
