@@ -36,23 +36,24 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 
 <!-- <br /> -->
 
-<details>
 <b> Monetary Policy, Markup Dispersion, and Aggregate TFP </b> 
 <br />
 with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>  <br />
 &ndash; <b> <i> Review of Economics and Statistics</i></b>, 106 (4), pp. 1012–1027, July 2024 
+<br />
+&ndash; <i> Lamfalussy Fellowship of the European Central Bank </i> <br />
+<details> <summary markdown="span"> [click for abstract] </summary> &nbsp;
+<a href="https://doi.org/10.1162/rest_a_01226" target="_blank">Published Paper</a> &nbsp;
+<a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion_Bib.txt" target="_blank">Bibtex</a> &nbsp;
+<a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion_WP.pdf" target="_blank">Working Paper</a> &nbsp;
+<a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion_Replication.zip" target="_blank">Replication Files</a> &nbsp;
 
 | **Abstract**          |
 |:---------------------------|
 | Motivated by empirical evidence that monetary policy affects aggregate TFP, we study the role of markup dispersion for monetary transmission. Empirically, we show that the response of markup dispersion to monetary policy shocks can account for a significant fraction of the aggregate TFP response in the first two years after the shock. Analytically, we show that heterogeneous price rigidity can explain the response of markup dispersion if firms have a precautionary price setting motive, which is present in common New Keynesian environments. We provide empirical evidence on the relationship between markups and price rigidity in support of this explanation. Finally, we study the mechanism and its implications in a quantitative model. |
 
 </details>
-&ndash; <i> Lamfalussy Fellowship of the European Central Bank </i> <br />
-<summary markdown="span"> [click for abstract] </summary> &nbsp;
-<a href="https://doi.org/10.1162/rest_a_01226" target="_blank">Published Paper</a> &nbsp;
-<a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion_Bib.txt" target="_blank">Bibtex</a> &nbsp;
-<a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion_WP.pdf" target="_blank">Working Paper</a> &nbsp;
-<a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion_Replication.zip" target="_blank">Replication Files</a> &nbsp;
+
 <!-- 
    <a href="https://matthias-meier-econ.github.io/files/MeierReinelt2020_ECB.pdf" target="_blank">ECB Working Paper </a> &nbsp;
    <a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion_CRC.pdf" target="_blank">CRC Discussion Paper</a> &nbsp;
