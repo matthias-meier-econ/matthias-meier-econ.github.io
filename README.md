@@ -37,10 +37,10 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 <!-- <br /> -->
 
 <details>
-<summary markdown="span"> <b> Monetary Policy, Markup Dispersion, and Aggregate TFP </b> 
+<b> Monetary Policy, Markup Dispersion, and Aggregate TFP </b> 
 <br />
 with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>  <br />
-&ndash; <b> <i> Review of Economics and Statistics</i></b>, 106 (4), pp. 1012–1027, July 2024 </summary>
+&ndash; <b> <i> Review of Economics and Statistics</i></b>, 106 (4), pp. 1012–1027, July 2024 
 
 | **Abstract**          |
 |:---------------------------|
@@ -48,6 +48,7 @@ with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>  <br
 
 </details>
 &ndash; <i> Lamfalussy Fellowship of the European Central Bank </i> <br />
+<summary markdown="span"> [click for abstract] </summary> &nbsp;
 <a href="https://doi.org/10.1162/rest_a_01226" target="_blank">Published Paper</a> &nbsp;
 <a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion_Bib.txt" target="_blank">Bibtex</a> &nbsp;
 <a href="https://matthias-meier-econ.github.io/files/MeierReinelt_MarkupDispersion_WP.pdf" target="_blank">Working Paper</a> &nbsp;
