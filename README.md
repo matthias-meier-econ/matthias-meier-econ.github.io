@@ -196,13 +196,33 @@ with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hac
 -->
 
 
+
+<!-- <br /> -->
+
+
+
+<details>
+<summary markdown="span"><b>Capital (Mis)allocation and Managerial Compensation</b>  
+<!-- <br /> -->
+with <a href="http://janschymik.de/" target="_blank">Jan Schymik</a>, Alexander Schramm, Alexander Schwemmer <br />
+<b> <i>Review of Economics and Statistics, revise and resubmit </i> </b> </summary>
+
+| **Abstract**          |
+|:---------------------------|
+| This paper studies how managerial pay shapes the allocation of capital. We leverage quasi-experimental variation in the composition of managerial pay between cash bonuses and equity compensation. We find that a relative increase in cash bonuses leads firms to reallocate capital toward less durable investment projects. To interpret the evidence and quantify the effects of managerial compensation, we build a model with agency frictions and investment heterogeneity. In the model, higher cash bonuses intensify managerial short-termism, shifting investment toward less durable projects. The observed change in managerial pay exacerbates within-firm capital misallocation and generates a sizable output contraction.  |
+
+</details>
+<a href="https://matthias-meier-econ.github.io/files/MeierSchymikSchrammSchwemmer_Managers_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
+<a href="https://matthias-meier-econ.github.io/files/MeierSchymikSchrammSchwemmer_Managers_Bib.txt" target="_blank">Bibtex</a> &nbsp;
+
+
 <!-- <br /> -->
 
 
 <details>
 <summary markdown="span"><b>The Systematic Origins of Monetary Policy Shocks</b> 
 <br />
-with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hack</a> and <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> </summary>
+with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hack</a> and <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> 
 
 | **Abstract**          |
 |:---------------------------|
@@ -216,23 +236,6 @@ with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hac
 
 <!-- <br /> -->
 
-
-
-<details>
-<summary markdown="span"><b>Capital (Mis)allocation and Managerial Compensation</b>  
-<!-- <br /> -->
-with <a href="http://janschymik.de/" target="_blank">Jan Schymik</a>, Alexander Schramm, Alexander Schwemmer </summary>
-
-| **Abstract**          |
-|:---------------------------|
-| This paper studies how managerial pay shapes the allocation of capital. We leverage quasi-experimental variation in the composition of managerial pay between cash bonuses and equity compensation. We find that a relative increase in cash bonuses leads firms to reallocate capital toward less durable investment projects. To interpret the evidence and quantify the effects of managerial compensation, we build a model with agency frictions and investment heterogeneity. In the model, higher cash bonuses intensify managerial short-termism, shifting investment toward less durable projects. The observed change in managerial pay exacerbates within-firm capital misallocation and generates a sizable output contraction.  |
-
-</details>
-<a href="https://matthias-meier-econ.github.io/files/MeierSchymikSchrammSchwemmer_Managers_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
-<a href="https://matthias-meier-econ.github.io/files/MeierSchymikSchrammSchwemmer_Managers_Bib.txt" target="_blank">Bibtex</a> &nbsp;
-
-
-<!-- <br /> -->
 
 
 
