@@ -1,6 +1,6 @@
 @techreport{GMM2016,
   author = {Gafarov, Bulat and Meier, Matthias and {Montiel Olea}, José Luis},
   title={Projection Inference for Set-Identified SVARs},
-  year=2016,
+  year=2025,
   type={mimeo}
 }
