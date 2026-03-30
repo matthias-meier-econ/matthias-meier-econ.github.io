@@ -109,7 +109,7 @@ with <a href="https://www.federalreserve.gov/econres/eugenio-pinto.htm" target="
 <a href="https://doi.org/10.1016/j.euroecorev.2024.104674" target="_blank">Published Paper</a> &nbsp; 
 <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions_Bib.txt" target="_blank">Bibtex</a> &nbsp;
 <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
-<a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions_Replication.7z" target="_blank">Replication Files </a> &nbsp; 
+<a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions_Replication.7z" target="_blank">Replication Files</a> &nbsp; 
 <!-- 
    <a href="https://matthias-meier-econ.github.io/files/CovidEconomics48.pdf" target="_blank">CEPR Covid Economics</a> &nbsp; 
    <a href="https://matthias-meier-econ.github.io/files/MeierPinto_Disruptions_CRC.pdf" target="_blank">CRC Discussion Paper</a> &nbsp; 
@@ -295,7 +295,7 @@ with <a href="https://www.linkedin.com/in/ariel-mecikovsky-561324b/" target="_bl
 
 | **Abstract**          |
 |:---------------------------|
-| What explains the impact of uncertainty shocks on the economy? This paper uses highly disaggregated data on industry-level job flows to investigate the empirical relevance of various transmission channels of uncertainty shocks. The channels we consider are labor adjustment frictions, capital adjustment frictions, nominal ridigities, and financial frictions. For each channel, we derive testable implications regarding the response of job flows to uncertainty shocks. Empirically, uncertainty shocks lead to more job destruction and less job creation in more than 80% of all industries. The effect is significantly stronger in industries that face tighter financial constraints, which supports the financial frictions channel. In contrast, our evidence does not support the other three channels. |
+| What explains the impact of uncertainty shocks on the economy? This paper uses highly disaggregated data on industry-level job flows to investigate the empirical relevance of various transmission channels of uncertainty shocks. The channels we consider are labor adjustment frictions, capital adjustment frictions, nominal rigidities, and financial frictions. For each channel, we derive testable implications regarding the response of job flows to uncertainty shocks. Empirically, uncertainty shocks lead to more job destruction and less job creation in more than 80% of all industries. The effect is significantly stronger in industries that face tighter financial constraints, which supports the financial frictions channel. In contrast, our evidence does not support the other three channels. |
 
 </details>
 &ndash; <i> Best Student Paper Award, Real Options Group Conference </i>
@@ -321,7 +321,7 @@ with <a href="https://www.wiwi.uni-bonn.de/bayer/" target="_blank">Christian Bay
 
 | **Abstract**          |
 |:---------------------------|
-| Hsieh and Klenow(2009) shows that misallocation creates large aggregate TFP losses, explains international TFP differences, and can be quantified through factor productivity dispersions. Using micro data from Chile, Colombia, Indonesia, and Germany, we show a substantial correlation in factor productivities across factors and therefore propose to decompose dispersion in factor productivities in dispersion in technology and markup instead. Relative to Germany, misallocation is larger in the developing economies. TFP losses from misallocation are explained to 1/3 by larger technology and to 2/3 by larger markup dispersion. Finally, we discuss market outcomes as potential sources of markup and technology dispersion. |
+| Hsieh and Klenow (2009) shows that misallocation creates large aggregate TFP losses, explains international TFP differences, and can be quantified through factor productivity dispersions. Using micro data from Chile, Colombia, Indonesia, and Germany, we show a substantial correlation in factor productivities across factors and therefore propose to decompose dispersion in factor productivities in dispersion in technology and markup instead. Relative to Germany, misallocation is larger in the developing economies. TFP losses from misallocation are explained to 1/3 by larger technology and to 2/3 by larger markup dispersion. Finally, we discuss market outcomes as potential sources of markup and technology dispersion. |
 
 </details>
 &ndash; <i> Best Paper Award (runner-up), European Workshop on Efficiency and Productivity Analysis </i>
