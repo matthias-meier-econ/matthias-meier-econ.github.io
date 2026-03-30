@@ -165,7 +165,7 @@ with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafa
 <a href="https://matthias-meier-econ.github.io/files/GafarovMeierMontielOlea_Projection_Bib.txt" target="_blank">Bibtex</a> &nbsp;  
 
 
-<br />
+
 
 
 <!-- <br /> -->
