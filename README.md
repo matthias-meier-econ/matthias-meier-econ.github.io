@@ -148,6 +148,26 @@ with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafa
 ### Working Papers
 
 
+
+<details>
+<summary markdown="span"><b>Projection inference for set-identiﬁed SVARs</b> 
+[<i>click for abstract</i>]
+<br />
+with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafarov</a> and <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea</a> <br />
+&ndash; <i> <b> Econometrics Journal, conditionally accepted </b> </i>  </summary>
+
+| **Abstract**          |
+|:---------------------------|
+| We study the properties of projection inference for set-identified Structural Vector Autoregressions. A nominal 1−α projection region collects the structural parameters that are compatible with a 1−α Wald ellipsoid for the model’s reduced-form parameters (autoregressive coefficients and the covariance matrix of residuals). We show that projection inference can be applied to a general class of stationary models, is computationally feasible, and - as the sample size grows large — it produces regions that have both frequentist coverage and robust Bayesian credibility of at least 1−α. A drawback of the projection approach is that both coverage and robust credibility may be strictly above their nominal level. Following the recent work of Kaido, Molinari, and Stoye (2016), we ‘calibrate’ the radius of the Wald ellipsoid to guarantee that — for a given posterior on the reduced-form parameters — the projection method produces a region with robust Bayesian credibility of exactly 1−α. We illustrate the main results of the paper using the demand/supply-model for the U.S. labor market in Baumeister and Hamilton(2015). |
+  
+</details>
+<a href="https://matthias-meier-econ.github.io/files/GafarovMeierMontielOlea_Projection_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
+<a href="https://matthias-meier-econ.github.io/files/GafarovMeierMontielOlea_Projection_Bib.txt" target="_blank">Bibtex</a> &nbsp;  
+
+
+<br />
+
+
 <!-- <br /> -->
 
 
@@ -314,23 +334,6 @@ with <a href="https://www.wiwi.uni-bonn.de/bayer/" target="_blank">Christian Bay
 
 <!-- <br /> -->
 
-
-<details>
-<summary markdown="span"><b>Projection inference for set-identiﬁed SVARs</b> 
-[<i>click for abstract</i>]
-<br />
-with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafarov</a> and <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea</a></summary>
-
-| **Abstract**          |
-|:---------------------------|
-| We study the properties of projection inference for set-identified Structural Vector Autoregressions. A nominal 1−α projection region collects the structural parameters that are compatible with a 1−α Wald ellipsoid for the model’s reduced-form parameters (autoregressive coefficients and the covariance matrix of residuals). We show that projection inference can be applied to a general class of stationary models, is computationally feasible, and - as the sample size grows large — it produces regions that have both frequentist coverage and robust Bayesian credibility of at least 1−α. A drawback of the projection approach is that both coverage and robust credibility may be strictly above their nominal level. Following the recent work of Kaido, Molinari, and Stoye (2016), we ‘calibrate’ the radius of the Wald ellipsoid to guarantee that — for a given posterior on the reduced-form parameters — the projection method produces a region with robust Bayesian credibility of exactly 1−α. We illustrate the main results of the paper using the demand/supply-model for the U.S. labor market in Baumeister and Hamilton(2015). |
-  
-</details>
-<a href="https://matthias-meier-econ.github.io/files/GafarovMeierMontielOlea_Projection_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
-<a href="https://matthias-meier-econ.github.io/files/GafarovMeierMontielOlea_Projection_Bib.txt" target="_blank">Bibtex</a> &nbsp;  
-
-
-<br />
 
 ----
 
