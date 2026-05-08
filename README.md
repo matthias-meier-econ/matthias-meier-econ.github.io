@@ -213,7 +213,9 @@ with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hac
 <i> Non-technical summaries: 
 <a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_VoxEU.pdf" target="_blank">VoxEU</a>, 
 <a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_ECBBulletin.pdf" target="_blank">ECB Research Bulletin</a>, 
-<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_SUERF.pdf" target="_blank">SUERF Policy Brief</a>
+<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_SUERF.pdf" target="_blank">SUERF Policy Brief</a> &nbsp;
+<i> Public coverage: 
+<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_Schnabel_Speech.pdf" target="_blank">Speech by Schnabel</a>
 </i>
 
 <!-- 
