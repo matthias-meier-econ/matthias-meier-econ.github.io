@@ -201,7 +201,7 @@ with <a href="http://joachimjungherr.com/" target="_blank">Joachim Jungherr</a>,
 [<i>click for abstract</i>]
 <br />
 with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hack</a> and <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> <br />
-&ndash; <b> <i>Review of Economic Studies, revise and resubmit </b> (2nd round) </i>  </summary>
+&ndash; <i> <b> Review of Economic Studies, revise and resubmit </b> (2nd round) </i>  </summary>
 
 | **Abstract**          |
 |:---------------------------|
