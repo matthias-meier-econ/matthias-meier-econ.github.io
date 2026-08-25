@@ -359,9 +359,12 @@ with <a href="https://www.uni-mannheim.de/gess/programs/cdse/our-students/2021/b
 <details>
 <summary markdown="span"><b>Inflation Uncertainty, Markups, and Monetary Policy</b> 
 <br />
+&ndash; in preparation for the <b> <i>Carnegie-Rochester-NYU Conference Series on Public Policy </i> </b> and associated special issue of the Journal of Monetary Economics 
 </summary>
 </details>
-with <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a> and <a href="https://www.satenkumar.com/" target="_blank">Saten Kumar</a> 
+with <a href="https://www.satenkumar.com/" target="_blank">Saten Kumar</a>, 
+<a href="https://fabio-stohler.github.io/" target="_blank">Fabio Stohler</a> 
+and <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a>  
  
   
 <!-- <br /> -->
