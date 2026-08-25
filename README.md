@@ -359,7 +359,7 @@ with <a href="https://www.uni-mannheim.de/gess/programs/cdse/our-students/2021/b
 <details>
 <summary markdown="span"><b>Inflation Uncertainty, Markups, and Monetary Policy</b> 
 <br />
-&ndash; in preparation for the <b> <i>Carnegie-Rochester-NYU Conference Series on Public Policy </i> </b> and associated special issue of the Journal of Monetary Economics 
+&ndash; <i>in preparation for the <b>Carnegie-Rochester-NYU Conference Series on Public Policy</b> and associated special issue of the Journal of Monetary Economics</i> 
 </summary>
 </details>
 with <a href="https://www.satenkumar.com/" target="_blank">Saten Kumar</a>, 
