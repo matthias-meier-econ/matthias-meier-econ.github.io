@@ -32,9 +32,51 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 
 ----
 
-### Published Papers
+### Published and Accepted Papers
 
 <!-- <br /> -->
+
+
+<details>
+<summary markdown="span"><b>Corporate Debt Maturity Matters for Monetary Policy</b> 
+[<i>click for abstract</i>]
+<br />
+with <a href="http://joachimjungherr.com/" target="_blank">Joachim Jungherr</a>, <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a> and <a href="https://sites.google.com/site/immoschott/" target="_blank">Immo Schott</a>  <br />
+&ndash; <i> <b> Review of Economic Studies, accepted </b> </i>  </summary>
+
+| **Abstract**          |
+|:---------------------------|
+| We provide novel empirical evidence that firms' investment is more responsive to monetary policy when a higher fraction of their debt matures. In a heterogeneous firm New Keynesian model with financial frictions and endogenous debt maturity, two channels explain this finding: (1.) Firms with more maturing debt have larger roll-over needs and are therefore more exposed to fluctuations in the real interest rate (roll-over risk). (2.) These firms also have higher default risk and therefore react more strongly to changes in the real burden of outstanding nominal debt (debt overhang). Unconventional monetary policy, which operates through long-term interest rates, has larger effects on debt maturity but smaller effects on output and inflation than conventional monetary policy. |
+
+</details>
+<a href="https://matthias-meier-econ.github.io/files/JungherrMeierReineltSchott_Maturity_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
+<a href="https://matthias-meier-econ.github.io/files/JungherrMeierReineltSchott_Maturity_Bib.txt" target="_blank">Bibtex </a> &nbsp; 
+<!-- 
+   <a href="https://matthias-meier-econ.github.io/files/Debt_Maturity_CRC.pdf" target="_blank">CRC Discussion Paper </a> &nbsp; 
+-->
+<i> Public coverage: 
+<a href="https://matthias-meier-econ.github.io/files/JungherrMeierReineltSchott_Maturity_Bloomberg.pdf" target="_blank">Bloomberg</a>
+</i>
+
+
+
+<details>
+<summary markdown="span"><b>Projection inference for set-identiﬁed SVARs</b> 
+[<i>click for abstract</i>]
+<br />
+with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafarov</a> and <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea</a> <br />
+&ndash; <i> <b> Econometrics Journal, accepted </b> </i>  </summary>
+
+| **Abstract**          |
+|:---------------------------|
+| We study the properties of the classical projection method to conduct simultaneous inference about the coefficients of the structural impulse-response function and their  identified set in Structural Vector Autoregressions. We show that---as the sample size grows large---projection inference produces regions for the structural parameters and their identified set with both frequentist coverage and  robust  Bayesian credibility of at least 1-α. We then calibrate the radius of the Wald ellipsoid to guarantee that---for a given posterior on the reduced-form parameters---the robust Bayesian credibility of the projection method is exactly 1-α. We illustrate the main results of the paper using a demand/supply model of the U.S. labor market. |
+  
+</details>
+<a href="https://matthias-meier-econ.github.io/files/GafarovMeierMontielOlea_Projection_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
+<a href="https://matthias-meier-econ.github.io/files/GafarovMeierMontielOlea_Projection_Bib.txt" target="_blank">Bibtex</a> &nbsp;  
+
+
+
 
 <details>
 <summary markdown="span"><b> Monetary Policy, Markup Dispersion, and Aggregate TFP </b> 
@@ -147,50 +189,7 @@ with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafa
 
 ### Working Papers
 
-
-
-<details>
-<summary markdown="span"><b>Projection inference for set-identiﬁed SVARs</b> 
-[<i>click for abstract</i>]
-<br />
-with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafarov</a> and <a href="http://www.joseluismontielolea.com/" target="_blank">José Luis Montiel Olea</a> <br />
-&ndash; <i> <b> Econometrics Journal, accepted </b> </i>  </summary>
-
-| **Abstract**          |
-|:---------------------------|
-| We study the properties of the classical projection method to conduct simultaneous inference about the coefficients of the structural impulse-response function and their  identified set in Structural Vector Autoregressions. We show that---as the sample size grows large---projection inference produces regions for the structural parameters and their identified set with both frequentist coverage and  robust  Bayesian credibility of at least 1-α. We then calibrate the radius of the Wald ellipsoid to guarantee that---for a given posterior on the reduced-form parameters---the robust Bayesian credibility of the projection method is exactly 1-α. We illustrate the main results of the paper using a demand/supply model of the U.S. labor market. |
-  
-</details>
-<a href="https://matthias-meier-econ.github.io/files/GafarovMeierMontielOlea_Projection_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
-<a href="https://matthias-meier-econ.github.io/files/GafarovMeierMontielOlea_Projection_Bib.txt" target="_blank">Bibtex</a> &nbsp;  
-
-
-
-
-
 <!-- <br /> -->
-
-
-<details>
-<summary markdown="span"><b>Corporate Debt Maturity Matters for Monetary Policy</b> 
-[<i>click for abstract</i>]
-<br />
-with <a href="http://joachimjungherr.com/" target="_blank">Joachim Jungherr</a>, <a href="https://treinelt.github.io/" target="_blank">Timo Reinelt</a> and <a href="https://sites.google.com/site/immoschott/" target="_blank">Immo Schott</a>  <br />
-&ndash; <i> <b> Review of Economic Studies, revise and resubmit </b> (2nd round) </i>  </summary>
-
-| **Abstract**          |
-|:---------------------------|
-| We provide novel empirical evidence that firms' investment is more responsive to monetary policy when a higher fraction of their debt matures. In a heterogeneous firm New Keynesian model with financial frictions and endogenous debt maturity, two channels explain this finding: (1.) Firms with more maturing debt have larger roll-over needs and are therefore more exposed to fluctuations in the real interest rate (roll-over risk). (2.) These firms also have higher default risk and therefore react more strongly to changes in the real burden of outstanding nominal debt (debt overhang). Unconventional monetary policy, which operates through long-term interest rates, has larger effects on debt maturity but smaller effects on output and inflation than conventional monetary policy. |
-
-</details>
-<a href="https://matthias-meier-econ.github.io/files/JungherrMeierReineltSchott_Maturity_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
-<a href="https://matthias-meier-econ.github.io/files/JungherrMeierReineltSchott_Maturity_Bib.txt" target="_blank">Bibtex </a> &nbsp; 
-<!-- 
-   <a href="https://matthias-meier-econ.github.io/files/Debt_Maturity_CRC.pdf" target="_blank">CRC Discussion Paper </a> &nbsp; 
--->
-<i> Public coverage: 
-<a href="https://matthias-meier-econ.github.io/files/JungherrMeierReineltSchott_Maturity_Bloomberg.pdf" target="_blank">Bloomberg</a>
-</i>
 
 
 <!-- <br /> -->
