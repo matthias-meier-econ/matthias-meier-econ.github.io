@@ -361,13 +361,6 @@ with <a href="https://www.wiwi.uni-bonn.de/bayer/" target="_blank">Christian Bay
 <!-- <br /> -->
   
  
-<details>
-<summary markdown="span"><b>Order Backlog</b> 
-<br />
-with <a href="https://www.uni-mannheim.de/gess/programs/cdse/our-students/2021/bjarne-horst/" target="_blank">Bjarne Horst</a> and <a href="http://janschymik.de" target="_blank">Jan Schymik</a></summary>
-</details>
-&ndash; <i> Cooperation with Federal Statistical Office of Germany (Destatis) </i>
-
 
 <!-- <br /> -->
   
