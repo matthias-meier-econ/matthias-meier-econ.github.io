@@ -268,13 +268,16 @@ with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hac
 <details>
 <summary markdown="span"><b>Order Backlog</b> 
 [<i>click for abstract</i>]
-</summary>
+<br />
+with <a href="https://sites.google.com/view/bjarne-horst/" target="_blank">Bjarne Horst</a> and <a href="http://janschymik.de" target="_blank">Jan Schymik</a></summary>
 
 | **Abstract**          |
 |:---------------------------|
 | Many firms receive orders months before they deliver the corresponding output, creating a backlog of unfilled orders. Using German administrative manufacturing microdata, we document widespread backlog and an average time to fill, from order to sale, of six months. Backlog renders sales prices predetermined by past order agreements, challenging conventional sales-based identification of firm demand. We construct theoretically coherent order-book prices and use them to identify firm-level demand and supply shocks. We show, empirically and theoretically, that backlog shapes the transmission of such shocks: it rises after expansionary demand shocks and falls after expansionary supply shocks, thereby dampening the new order price response to both shocks on impact.  |
 
 </details>
+&ndash; <i> Cooperation with Federal Statistical Office of Germany (Destatis) </i>
+<br />
 <a href="https://matthias-meier-econ.github.io/files/HMS_Backlog.pdf" target="_blank">Working Paper</a> &nbsp; 
 <a href="https://matthias-meier-econ.github.io/files/HMS_Backlog_Bib.txt" target="_blank">Bibtex</a> &nbsp;
 
@@ -291,8 +294,6 @@ with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hac
 | We provide new evidence that (i) time to build is volatile and countercyclical, and that (ii) supply chain disruptions lengthen time to build. Motivated by these findings, we develop a general equilibrium model in which heterogeneous firms face non-convex adjustment costs and multi-period time to build. In the model, supply chain disruptions lengthen time to build. Calibrating the model to US micro data, we show that disruptions, which lengthen time to build by 1 month, depress GDP by 1% and aggregate TFP by 0.2%. Structural vector autoregressions corroborate the quantitative importance of supply chain disruptions. |
 
 </details>
-&ndash; <i> Cooperation with Federal Statistical Office of Germany (Destatis) </i>
-<br />
 <a href="https://matthias-meier-econ.github.io/files/Meier_TimeToBuild_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
 <a href="https://matthias-meier-econ.github.io/files/Meier_TimeToBuild_Bib.txt" target="_blank">Bibtex</a> &nbsp;
 
