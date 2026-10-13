@@ -32,9 +32,40 @@ My research interests are Macroeconomics, Monetary Economics, International Econ
 
 ----
 
-### Published and Accepted Papers
+### Published and (Conditionally) Accepted Papers
 
 <!-- <br /> -->
+
+
+<details>
+<summary markdown="span"><b>Identification of Systematic Monetary Policy</b> 
+[<i>click for abstract</i>]
+<br />
+with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hack</a> and <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> <br />
+&ndash; <i> <b> Review of Economic Studies, conditionally accepted </b></i>  </summary>
+
+| **Abstract**          |
+|:---------------------------|
+| We propose a novel identification design to estimate the causal effects of systematic monetary policy on the propagation of macroeconomic shocks. The design combines (i) a time-varying measure of systematic monetary policy based on the historical composition of hawks and doves in the Federal Open Market Committee (FOMC) with (ii) an instrument that leverages the mechanical FOMC rotation of voting rights. We apply our design to study the effects of government spending shocks. We find fiscal multipliers between two and three when the FOMC is dovish and below zero when it is hawkish. Narrative evidence from historical FOMC records corroborates our findings. |
+
+</details>
+<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
+<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_Bib.txt" target="_blank">Bibtex</a> &nbsp;
+<i> Non-technical summaries: 
+<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_VoxEU.pdf" target="_blank">VoxEU</a>, 
+<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_ECBBulletin.pdf" target="_blank">ECB Research Bulletin</a>, 
+<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_SUERF.pdf" target="_blank">SUERF Policy Brief</a> &nbsp;
+<i> Public coverage: 
+<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_Schnabel_Speech.pdf" target="_blank">Speech by Schnabel</a>
+</i>
+
+<!-- 
+<a href="https://cepr.org/publications/dp17999" target="_blank">CEPR Discussion Paper</a> &nbsp; 
+<a href="https://matthias-meier-econ.github.io/files/HIM_SysMP_CRC.pdf" target="_blank">CRC Discussion Paper</a> &nbsp; 
+-->
+
+
+
 
 
 <details>
@@ -193,34 +224,6 @@ with <a href="https://gafarov.ucdavis.edu/index.html" target="_blank">Bulat Gafa
 
 
 <!-- <br /> -->
-
-
-<details>
-<summary markdown="span"><b>Identification of Systematic Monetary Policy</b> 
-[<i>click for abstract</i>]
-<br />
-with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hack</a> and <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> <br />
-&ndash; <i> <b> Review of Economic Studies, revise and resubmit </b> (2nd round) </i>  </summary>
-
-| **Abstract**          |
-|:---------------------------|
-| We propose a novel identification design to estimate the causal effects of systematic monetary policy on the propagation of macroeconomic shocks. The design combines (i) a time-varying measure of systematic monetary policy based on the historical composition of hawks and doves in the Federal Open Market Committee (FOMC) with (ii) an instrument that leverages the mechanical FOMC rotation of voting rights. We apply our design to study the effects of government spending shocks. We find fiscal multipliers between two and three when the FOMC is dovish and below zero when it is hawkish. Narrative evidence from historical FOMC records corroborates our findings. |
-
-</details>
-<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
-<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_Bib.txt" target="_blank">Bibtex</a> &nbsp;
-<i> Non-technical summaries: 
-<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_VoxEU.pdf" target="_blank">VoxEU</a>, 
-<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_ECBBulletin.pdf" target="_blank">ECB Research Bulletin</a>, 
-<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_SUERF.pdf" target="_blank">SUERF Policy Brief</a> &nbsp;
-<i> Public coverage: 
-<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_Schnabel_Speech.pdf" target="_blank">Speech by Schnabel</a>
-</i>
-
-<!-- 
-<a href="https://cepr.org/publications/dp17999" target="_blank">CEPR Discussion Paper</a> &nbsp; 
-<a href="https://matthias-meier-econ.github.io/files/HIM_SysMP_CRC.pdf" target="_blank">CRC Discussion Paper</a> &nbsp; 
--->
 
 
 
