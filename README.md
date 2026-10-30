@@ -51,6 +51,7 @@ with <a href="https://lukas-hack.github.io/index.html" target="_blank">Lukas Hac
 </details>
 <a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_WP.pdf" target="_blank">Working Paper</a> &nbsp; 
 <a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_Bib.txt" target="_blank">Bibtex</a> &nbsp;
+<a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Companion_WP.pdf" target="_blank">Bibtex</a> &nbsp;
 <i> Non-technical summaries: 
 <a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_VoxEU.pdf" target="_blank">VoxEU</a>, 
 <a href="https://matthias-meier-econ.github.io/files/HackIstrefiMeier_Systematic_ECBBulletin.pdf" target="_blank">ECB Research Bulletin</a>, 
